@@ -1,0 +1,5 @@
+outs:
+- md5: 74cdff9823feceec161a9553554e52d7.dir
+  size: 1603376583
+  nfiles: 24782
+  path: WikiText

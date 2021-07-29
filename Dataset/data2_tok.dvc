@@ -1,0 +1,5 @@
+outs:
+- md5: bfa43f252293396bd62e3c092a0da595.dir
+  size: 35055541
+  nfiles: 8660
+  path: data2_tok
