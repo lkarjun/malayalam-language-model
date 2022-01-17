@@ -1,4 +1,4 @@
-file_path,content_type
+file_path,dataset_name
 datasets/wikitext_raw/wiki0.txt,wiki_text
 datasets/wikitext_raw/wiki1.txt,wiki_text
 datasets/wikitext_raw/wiki10.txt,wiki_text
