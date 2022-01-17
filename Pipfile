@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 dvc = {extras = ["all"], version = "*"}
+ipykernel = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
