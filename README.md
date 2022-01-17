@@ -7,8 +7,8 @@
   
   **Dataset Name**|**Number of Files**
   -----|-----
-  Malayalam WikiText| 12388 text files
-  Malayalam Magazines| 7863 text files
+  wikitext_raw.zip| 12388 text files
+  magazine_raw.zip| 7863 text files
   **Total**|**20251 text files**
 
 
