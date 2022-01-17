@@ -7,6 +7,7 @@ name = "pypi"
 dvc = {extras = ["all"], version = "*"}
 ipykernel = "*"
 jupyterlab = "*"
+seaborn = "*"
 
 [dev-packages]
 
