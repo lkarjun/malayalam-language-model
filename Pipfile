@@ -9,6 +9,7 @@ ipykernel = "*"
 jupyterlab = "*"
 seaborn = "*"
 textacy = "*"
+fastai = "==2.5.3"
 
 [dev-packages]
 
