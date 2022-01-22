@@ -8,6 +8,7 @@ dvc = {extras = ["all"], version = "*"}
 ipykernel = "*"
 jupyterlab = "*"
 seaborn = "*"
+textacy = "*"
 
 [dev-packages]
 
