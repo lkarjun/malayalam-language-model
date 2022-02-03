@@ -1,6 +1,5 @@
 file_path,dataset_name,length
 Datasets/magazine_raw/mag0.txt,magazine_text,4383
-Datasets/magazine_raw/mag1.txt,magazine_text,1140
 Datasets/magazine_raw/mag2.txt,magazine_text,11197
 Datasets/magazine_raw/mag3.txt,magazine_text,845
 Datasets/magazine_raw/mag4.txt,magazine_text,8427
@@ -16,12 +15,10 @@ Datasets/magazine_raw/mag13.txt,magazine_text,2651
 Datasets/magazine_raw/mag14.txt,magazine_text,4857
 Datasets/magazine_raw/mag15.txt,magazine_text,1426
 Datasets/magazine_raw/mag16.txt,magazine_text,1923
-Datasets/magazine_raw/mag17.txt,magazine_text,1136
 Datasets/magazine_raw/mag18.txt,magazine_text,5786
 Datasets/magazine_raw/mag19.txt,magazine_text,2305
 Datasets/magazine_raw/mag20.txt,magazine_text,2278
 Datasets/magazine_raw/mag21.txt,magazine_text,1702
-Datasets/magazine_raw/mag22.txt,magazine_text,1320
 Datasets/magazine_raw/mag23.txt,magazine_text,1921
 Datasets/magazine_raw/mag24.txt,magazine_text,1518
 Datasets/magazine_raw/mag25.txt,magazine_text,1637
@@ -52,7 +49,6 @@ Datasets/magazine_raw/mag49.txt,magazine_text,2095
 Datasets/magazine_raw/mag50.txt,magazine_text,1872
 Datasets/magazine_raw/mag51.txt,magazine_text,2616
 Datasets/magazine_raw/mag52.txt,magazine_text,19738
-Datasets/magazine_raw/mag53.txt,magazine_text,952
 Datasets/magazine_raw/mag54.txt,magazine_text,4488
 Datasets/magazine_raw/mag55.txt,magazine_text,2868
 Datasets/magazine_raw/mag56.txt,magazine_text,2172
@@ -136,7 +132,6 @@ Datasets/magazine_raw/mag133.txt,magazine_text,3624
 Datasets/magazine_raw/mag134.txt,magazine_text,2676
 Datasets/magazine_raw/mag135.txt,magazine_text,3853
 Datasets/magazine_raw/mag136.txt,magazine_text,2127
-Datasets/magazine_raw/mag137.txt,magazine_text,1327
 Datasets/magazine_raw/mag138.txt,magazine_text,3860
 Datasets/magazine_raw/mag139.txt,magazine_text,6842
 Datasets/magazine_raw/mag140.txt,magazine_text,2121
@@ -186,7 +181,6 @@ Datasets/magazine_raw/mag183.txt,magazine_text,3671
 Datasets/magazine_raw/mag184.txt,magazine_text,10717
 Datasets/magazine_raw/mag185.txt,magazine_text,5339
 Datasets/magazine_raw/mag186.txt,magazine_text,4607
-Datasets/magazine_raw/mag187.txt,magazine_text,957
 Datasets/magazine_raw/mag188.txt,magazine_text,6678
 Datasets/magazine_raw/mag189.txt,magazine_text,15217
 Datasets/magazine_raw/mag190.txt,magazine_text,8211
@@ -264,7 +258,6 @@ Datasets/magazine_raw/mag261.txt,magazine_text,2291
 Datasets/magazine_raw/mag262.txt,magazine_text,3122
 Datasets/magazine_raw/mag263.txt,magazine_text,5196
 Datasets/magazine_raw/mag264.txt,magazine_text,1412
-Datasets/magazine_raw/mag265.txt,magazine_text,2978
 Datasets/magazine_raw/mag266.txt,magazine_text,4344
 Datasets/magazine_raw/mag267.txt,magazine_text,11984
 Datasets/magazine_raw/mag268.txt,magazine_text,1330
@@ -287,7 +280,6 @@ Datasets/magazine_raw/mag284.txt,magazine_text,2977
 Datasets/magazine_raw/mag285.txt,magazine_text,2354
 Datasets/magazine_raw/mag286.txt,magazine_text,3001
 Datasets/magazine_raw/mag287.txt,magazine_text,7722
-Datasets/magazine_raw/mag288.txt,magazine_text,3662
 Datasets/magazine_raw/mag289.txt,magazine_text,2048
 Datasets/magazine_raw/mag290.txt,magazine_text,3362
 Datasets/magazine_raw/mag291.txt,magazine_text,3244
@@ -307,7 +299,6 @@ Datasets/magazine_raw/mag304.txt,magazine_text,2964
 Datasets/magazine_raw/mag305.txt,magazine_text,3064
 Datasets/magazine_raw/mag306.txt,magazine_text,3337
 Datasets/magazine_raw/mag307.txt,magazine_text,3589
-Datasets/magazine_raw/mag308.txt,magazine_text,1441
 Datasets/magazine_raw/mag309.txt,magazine_text,8517
 Datasets/magazine_raw/mag310.txt,magazine_text,1181
 Datasets/magazine_raw/mag311.txt,magazine_text,2636
@@ -355,16 +346,13 @@ Datasets/magazine_raw/mag352.txt,magazine_text,4845
 Datasets/magazine_raw/mag353.txt,magazine_text,3889
 Datasets/magazine_raw/mag354.txt,magazine_text,4713
 Datasets/magazine_raw/mag355.txt,magazine_text,4521
-Datasets/magazine_raw/mag356.txt,magazine_text,1461
 Datasets/magazine_raw/mag357.txt,magazine_text,3523
 Datasets/magazine_raw/mag358.txt,magazine_text,3843
 Datasets/magazine_raw/mag359.txt,magazine_text,3920
 Datasets/magazine_raw/mag360.txt,magazine_text,3990
-Datasets/magazine_raw/mag361.txt,magazine_text,919
 Datasets/magazine_raw/mag362.txt,magazine_text,2015
 Datasets/magazine_raw/mag363.txt,magazine_text,2155
 Datasets/magazine_raw/mag364.txt,magazine_text,3441
-Datasets/magazine_raw/mag365.txt,magazine_text,1428
 Datasets/magazine_raw/mag366.txt,magazine_text,11911
 Datasets/magazine_raw/mag367.txt,magazine_text,3710
 Datasets/magazine_raw/mag368.txt,magazine_text,3528
@@ -399,7 +387,6 @@ Datasets/magazine_raw/mag396.txt,magazine_text,2502
 Datasets/magazine_raw/mag397.txt,magazine_text,6737
 Datasets/magazine_raw/mag398.txt,magazine_text,3361
 Datasets/magazine_raw/mag399.txt,magazine_text,5699
-Datasets/magazine_raw/mag400.txt,magazine_text,5183
 Datasets/magazine_raw/mag401.txt,magazine_text,8676
 Datasets/magazine_raw/mag402.txt,magazine_text,3580
 Datasets/magazine_raw/mag403.txt,magazine_text,5136
@@ -411,7 +398,6 @@ Datasets/magazine_raw/mag408.txt,magazine_text,8198
 Datasets/magazine_raw/mag409.txt,magazine_text,3532
 Datasets/magazine_raw/mag410.txt,magazine_text,10462
 Datasets/magazine_raw/mag411.txt,magazine_text,3730
-Datasets/magazine_raw/mag412.txt,magazine_text,1183
 Datasets/magazine_raw/mag413.txt,magazine_text,5613
 Datasets/magazine_raw/mag414.txt,magazine_text,4411
 Datasets/magazine_raw/mag415.txt,magazine_text,4968
@@ -425,7 +411,6 @@ Datasets/magazine_raw/mag422.txt,magazine_text,3962
 Datasets/magazine_raw/mag423.txt,magazine_text,3403
 Datasets/magazine_raw/mag424.txt,magazine_text,5087
 Datasets/magazine_raw/mag425.txt,magazine_text,6834
-Datasets/magazine_raw/mag426.txt,magazine_text,1231
 Datasets/magazine_raw/mag427.txt,magazine_text,4298
 Datasets/magazine_raw/mag428.txt,magazine_text,5411
 Datasets/magazine_raw/mag429.txt,magazine_text,7521
@@ -447,7 +432,6 @@ Datasets/magazine_raw/mag444.txt,magazine_text,3307
 Datasets/magazine_raw/mag445.txt,magazine_text,3387
 Datasets/magazine_raw/mag446.txt,magazine_text,3732
 Datasets/magazine_raw/mag447.txt,magazine_text,3398
-Datasets/magazine_raw/mag448.txt,magazine_text,1172
 Datasets/magazine_raw/mag449.txt,magazine_text,39770
 Datasets/magazine_raw/mag450.txt,magazine_text,2558
 Datasets/magazine_raw/mag451.txt,magazine_text,2756
@@ -463,7 +447,6 @@ Datasets/magazine_raw/mag460.txt,magazine_text,4981
 Datasets/magazine_raw/mag461.txt,magazine_text,3606
 Datasets/magazine_raw/mag462.txt,magazine_text,1841
 Datasets/magazine_raw/mag463.txt,magazine_text,3688
-Datasets/magazine_raw/mag464.txt,magazine_text,1542
 Datasets/magazine_raw/mag465.txt,magazine_text,18582
 Datasets/magazine_raw/mag466.txt,magazine_text,21766
 Datasets/magazine_raw/mag467.txt,magazine_text,7145
@@ -498,7 +481,6 @@ Datasets/magazine_raw/mag495.txt,magazine_text,16512
 Datasets/magazine_raw/mag496.txt,magazine_text,9845
 Datasets/magazine_raw/mag497.txt,magazine_text,14307
 Datasets/magazine_raw/mag498.txt,magazine_text,8687
-Datasets/magazine_raw/mag499.txt,magazine_text,1191
 Datasets/magazine_raw/mag500.txt,magazine_text,3660
 Datasets/magazine_raw/mag501.txt,magazine_text,2316
 Datasets/magazine_raw/mag502.txt,magazine_text,1546
@@ -506,13 +488,11 @@ Datasets/magazine_raw/mag503.txt,magazine_text,7102
 Datasets/magazine_raw/mag504.txt,magazine_text,3318
 Datasets/magazine_raw/mag505.txt,magazine_text,2714
 Datasets/magazine_raw/mag506.txt,magazine_text,22078
-Datasets/magazine_raw/mag507.txt,magazine_text,2767
 Datasets/magazine_raw/mag508.txt,magazine_text,2041
 Datasets/magazine_raw/mag509.txt,magazine_text,2747
 Datasets/magazine_raw/mag510.txt,magazine_text,5103
 Datasets/magazine_raw/mag511.txt,magazine_text,3299
 Datasets/magazine_raw/mag512.txt,magazine_text,1774
-Datasets/magazine_raw/mag513.txt,magazine_text,1830
 Datasets/magazine_raw/mag514.txt,magazine_text,7053
 Datasets/magazine_raw/mag515.txt,magazine_text,3622
 Datasets/magazine_raw/mag516.txt,magazine_text,7646
@@ -548,7 +528,6 @@ Datasets/magazine_raw/mag545.txt,magazine_text,3924
 Datasets/magazine_raw/mag546.txt,magazine_text,4656
 Datasets/magazine_raw/mag547.txt,magazine_text,3915
 Datasets/magazine_raw/mag548.txt,magazine_text,3358
-Datasets/magazine_raw/mag549.txt,magazine_text,2623
 Datasets/magazine_raw/mag550.txt,magazine_text,3784
 Datasets/magazine_raw/mag551.txt,magazine_text,4863
 Datasets/magazine_raw/mag552.txt,magazine_text,2296
@@ -606,7 +585,6 @@ Datasets/magazine_raw/mag603.txt,magazine_text,1279
 Datasets/magazine_raw/mag604.txt,magazine_text,18324
 Datasets/magazine_raw/mag605.txt,magazine_text,1953
 Datasets/magazine_raw/mag606.txt,magazine_text,17164
-Datasets/magazine_raw/mag607.txt,magazine_text,17217
 Datasets/magazine_raw/mag608.txt,magazine_text,7972
 Datasets/magazine_raw/mag609.txt,magazine_text,4303
 Datasets/magazine_raw/mag610.txt,magazine_text,3678
@@ -820,7 +798,6 @@ Datasets/magazine_raw/mag817.txt,magazine_text,5572
 Datasets/magazine_raw/mag818.txt,magazine_text,4551
 Datasets/magazine_raw/mag819.txt,magazine_text,2259
 Datasets/magazine_raw/mag820.txt,magazine_text,2666
-Datasets/magazine_raw/mag821.txt,magazine_text,1724
 Datasets/magazine_raw/mag822.txt,magazine_text,4199
 Datasets/magazine_raw/mag823.txt,magazine_text,4541
 Datasets/magazine_raw/mag824.txt,magazine_text,4089
@@ -892,7 +869,6 @@ Datasets/magazine_raw/mag889.txt,magazine_text,8669
 Datasets/magazine_raw/mag890.txt,magazine_text,3934
 Datasets/magazine_raw/mag891.txt,magazine_text,3055
 Datasets/magazine_raw/mag892.txt,magazine_text,9912
-Datasets/magazine_raw/mag893.txt,magazine_text,8671
 Datasets/magazine_raw/mag894.txt,magazine_text,4301
 Datasets/magazine_raw/mag895.txt,magazine_text,5399
 Datasets/magazine_raw/mag896.txt,magazine_text,2483
@@ -1046,11 +1022,9 @@ Datasets/magazine_raw/mag1043.txt,magazine_text,3011
 Datasets/magazine_raw/mag1044.txt,magazine_text,2720
 Datasets/magazine_raw/mag1045.txt,magazine_text,1626
 Datasets/magazine_raw/mag1046.txt,magazine_text,1186
-Datasets/magazine_raw/mag1047.txt,magazine_text,1564
 Datasets/magazine_raw/mag1048.txt,magazine_text,2190
 Datasets/magazine_raw/mag1049.txt,magazine_text,5366
 Datasets/magazine_raw/mag1050.txt,magazine_text,1806
-Datasets/magazine_raw/mag1051.txt,magazine_text,2447
 Datasets/magazine_raw/mag1052.txt,magazine_text,1656
 Datasets/magazine_raw/mag1053.txt,magazine_text,2735
 Datasets/magazine_raw/mag1054.txt,magazine_text,2002
@@ -1249,7 +1223,6 @@ Datasets/magazine_raw/mag1246.txt,magazine_text,3328
 Datasets/magazine_raw/mag1247.txt,magazine_text,2704
 Datasets/magazine_raw/mag1248.txt,magazine_text,1822
 Datasets/magazine_raw/mag1249.txt,magazine_text,12476
-Datasets/magazine_raw/mag1250.txt,magazine_text,4505
 Datasets/magazine_raw/mag1251.txt,magazine_text,3542
 Datasets/magazine_raw/mag1252.txt,magazine_text,1614
 Datasets/magazine_raw/mag1253.txt,magazine_text,3340
@@ -1344,9 +1317,7 @@ Datasets/magazine_raw/mag1341.txt,magazine_text,3098
 Datasets/magazine_raw/mag1342.txt,magazine_text,2847
 Datasets/magazine_raw/mag1343.txt,magazine_text,1122
 Datasets/magazine_raw/mag1344.txt,magazine_text,2928
-Datasets/magazine_raw/mag1345.txt,magazine_text,3379
 Datasets/magazine_raw/mag1346.txt,magazine_text,1388
-Datasets/magazine_raw/mag1347.txt,magazine_text,4539
 Datasets/magazine_raw/mag1348.txt,magazine_text,3394
 Datasets/magazine_raw/mag1349.txt,magazine_text,2446
 Datasets/magazine_raw/mag1350.txt,magazine_text,4972
@@ -1385,7 +1356,6 @@ Datasets/magazine_raw/mag1382.txt,magazine_text,11956
 Datasets/magazine_raw/mag1383.txt,magazine_text,3512
 Datasets/magazine_raw/mag1384.txt,magazine_text,1415
 Datasets/magazine_raw/mag1385.txt,magazine_text,2416
-Datasets/magazine_raw/mag1386.txt,magazine_text,2490
 Datasets/magazine_raw/mag1387.txt,magazine_text,4202
 Datasets/magazine_raw/mag1388.txt,magazine_text,1669
 Datasets/magazine_raw/mag1389.txt,magazine_text,2970
@@ -1442,7 +1412,6 @@ Datasets/magazine_raw/mag1439.txt,magazine_text,4571
 Datasets/magazine_raw/mag1440.txt,magazine_text,5083
 Datasets/magazine_raw/mag1441.txt,magazine_text,2296
 Datasets/magazine_raw/mag1442.txt,magazine_text,2756
-Datasets/magazine_raw/mag1443.txt,magazine_text,4370
 Datasets/magazine_raw/mag1444.txt,magazine_text,5445
 Datasets/magazine_raw/mag1445.txt,magazine_text,3733
 Datasets/magazine_raw/mag1446.txt,magazine_text,4357
@@ -1462,7 +1431,6 @@ Datasets/magazine_raw/mag1459.txt,magazine_text,2628
 Datasets/magazine_raw/mag1460.txt,magazine_text,2509
 Datasets/magazine_raw/mag1461.txt,magazine_text,7824
 Datasets/magazine_raw/mag1462.txt,magazine_text,2033
-Datasets/magazine_raw/mag1463.txt,magazine_text,1905
 Datasets/magazine_raw/mag1464.txt,magazine_text,2060
 Datasets/magazine_raw/mag1465.txt,magazine_text,1698
 Datasets/magazine_raw/mag1466.txt,magazine_text,2849
@@ -1484,7 +1452,6 @@ Datasets/magazine_raw/mag1481.txt,magazine_text,3866
 Datasets/magazine_raw/mag1482.txt,magazine_text,2809
 Datasets/magazine_raw/mag1483.txt,magazine_text,3654
 Datasets/magazine_raw/mag1484.txt,magazine_text,1976
-Datasets/magazine_raw/mag1485.txt,magazine_text,2920
 Datasets/magazine_raw/mag1486.txt,magazine_text,3705
 Datasets/magazine_raw/mag1487.txt,magazine_text,5135
 Datasets/magazine_raw/mag1488.txt,magazine_text,2543
@@ -1515,7 +1482,6 @@ Datasets/magazine_raw/mag1512.txt,magazine_text,17083
 Datasets/magazine_raw/mag1513.txt,magazine_text,2602
 Datasets/magazine_raw/mag1514.txt,magazine_text,8855
 Datasets/magazine_raw/mag1515.txt,magazine_text,2243
-Datasets/magazine_raw/mag1516.txt,magazine_text,4006
 Datasets/magazine_raw/mag1517.txt,magazine_text,4992
 Datasets/magazine_raw/mag1518.txt,magazine_text,13362
 Datasets/magazine_raw/mag1519.txt,magazine_text,1866
@@ -1594,7 +1560,6 @@ Datasets/magazine_raw/mag1591.txt,magazine_text,3278
 Datasets/magazine_raw/mag1592.txt,magazine_text,9704
 Datasets/magazine_raw/mag1593.txt,magazine_text,4495
 Datasets/magazine_raw/mag1594.txt,magazine_text,2025
-Datasets/magazine_raw/mag1595.txt,magazine_text,9318
 Datasets/magazine_raw/mag1596.txt,magazine_text,10054
 Datasets/magazine_raw/mag1597.txt,magazine_text,2339
 Datasets/magazine_raw/mag1598.txt,magazine_text,3585
@@ -1619,7 +1584,6 @@ Datasets/magazine_raw/mag1616.txt,magazine_text,6510
 Datasets/magazine_raw/mag1617.txt,magazine_text,1949
 Datasets/magazine_raw/mag1618.txt,magazine_text,8162
 Datasets/magazine_raw/mag1619.txt,magazine_text,1914
-Datasets/magazine_raw/mag1620.txt,magazine_text,1491
 Datasets/magazine_raw/mag1621.txt,magazine_text,2449
 Datasets/magazine_raw/mag1622.txt,magazine_text,1620
 Datasets/magazine_raw/mag1623.txt,magazine_text,1444
@@ -1655,7 +1619,6 @@ Datasets/magazine_raw/mag1652.txt,magazine_text,899
 Datasets/magazine_raw/mag1653.txt,magazine_text,2278
 Datasets/magazine_raw/mag1654.txt,magazine_text,1932
 Datasets/magazine_raw/mag1655.txt,magazine_text,17572
-Datasets/magazine_raw/mag1656.txt,magazine_text,2307
 Datasets/magazine_raw/mag1657.txt,magazine_text,2617
 Datasets/magazine_raw/mag1658.txt,magazine_text,4341
 Datasets/magazine_raw/mag1659.txt,magazine_text,14153
@@ -1669,7 +1632,6 @@ Datasets/magazine_raw/mag1666.txt,magazine_text,3200
 Datasets/magazine_raw/mag1667.txt,magazine_text,3053
 Datasets/magazine_raw/mag1668.txt,magazine_text,5034
 Datasets/magazine_raw/mag1669.txt,magazine_text,1580
-Datasets/magazine_raw/mag1670.txt,magazine_text,3364
 Datasets/magazine_raw/mag1671.txt,magazine_text,2405
 Datasets/magazine_raw/mag1672.txt,magazine_text,3728
 Datasets/magazine_raw/mag1673.txt,magazine_text,2928
@@ -1699,7 +1661,6 @@ Datasets/magazine_raw/mag1696.txt,magazine_text,2868
 Datasets/magazine_raw/mag1697.txt,magazine_text,6625
 Datasets/magazine_raw/mag1698.txt,magazine_text,3699
 Datasets/magazine_raw/mag1699.txt,magazine_text,8829
-Datasets/magazine_raw/mag1700.txt,magazine_text,977
 Datasets/magazine_raw/mag1701.txt,magazine_text,3695
 Datasets/magazine_raw/mag1702.txt,magazine_text,6175
 Datasets/magazine_raw/mag1703.txt,magazine_text,3146
@@ -1714,12 +1675,10 @@ Datasets/magazine_raw/mag1711.txt,magazine_text,2595
 Datasets/magazine_raw/mag1712.txt,magazine_text,10051
 Datasets/magazine_raw/mag1713.txt,magazine_text,1810
 Datasets/magazine_raw/mag1714.txt,magazine_text,4361
-Datasets/magazine_raw/mag1715.txt,magazine_text,4286
 Datasets/magazine_raw/mag1716.txt,magazine_text,7944
 Datasets/magazine_raw/mag1717.txt,magazine_text,3238
 Datasets/magazine_raw/mag1718.txt,magazine_text,2814
 Datasets/magazine_raw/mag1719.txt,magazine_text,1215
-Datasets/magazine_raw/mag1720.txt,magazine_text,3841
 Datasets/magazine_raw/mag1721.txt,magazine_text,3650
 Datasets/magazine_raw/mag1722.txt,magazine_text,2773
 Datasets/magazine_raw/mag1723.txt,magazine_text,2717
@@ -1740,7 +1699,6 @@ Datasets/magazine_raw/mag1737.txt,magazine_text,4993
 Datasets/magazine_raw/mag1738.txt,magazine_text,4685
 Datasets/magazine_raw/mag1739.txt,magazine_text,3240
 Datasets/magazine_raw/mag1740.txt,magazine_text,10126
-Datasets/magazine_raw/mag1741.txt,magazine_text,7703
 Datasets/magazine_raw/mag1742.txt,magazine_text,3174
 Datasets/magazine_raw/mag1743.txt,magazine_text,3303
 Datasets/magazine_raw/mag1744.txt,magazine_text,1710
@@ -1764,7 +1722,6 @@ Datasets/magazine_raw/mag1761.txt,magazine_text,4240
 Datasets/magazine_raw/mag1762.txt,magazine_text,4490
 Datasets/magazine_raw/mag1763.txt,magazine_text,3424
 Datasets/magazine_raw/mag1764.txt,magazine_text,2832
-Datasets/magazine_raw/mag1765.txt,magazine_text,5541
 Datasets/magazine_raw/mag1766.txt,magazine_text,1290
 Datasets/magazine_raw/mag1767.txt,magazine_text,3483
 Datasets/magazine_raw/mag1768.txt,magazine_text,2835
@@ -1872,7 +1829,6 @@ Datasets/magazine_raw/mag1869.txt,magazine_text,3824
 Datasets/magazine_raw/mag1870.txt,magazine_text,5480
 Datasets/magazine_raw/mag1871.txt,magazine_text,2508
 Datasets/magazine_raw/mag1872.txt,magazine_text,4934
-Datasets/magazine_raw/mag1873.txt,magazine_text,3458
 Datasets/magazine_raw/mag1874.txt,magazine_text,4395
 Datasets/magazine_raw/mag1875.txt,magazine_text,15288
 Datasets/magazine_raw/mag1876.txt,magazine_text,2275
@@ -2004,7 +1960,6 @@ Datasets/magazine_raw/mag2001.txt,magazine_text,2626
 Datasets/magazine_raw/mag2002.txt,magazine_text,4238
 Datasets/magazine_raw/mag2003.txt,magazine_text,2400
 Datasets/magazine_raw/mag2004.txt,magazine_text,8126
-Datasets/magazine_raw/mag2005.txt,magazine_text,2936
 Datasets/magazine_raw/mag2006.txt,magazine_text,10243
 Datasets/magazine_raw/mag2007.txt,magazine_text,15474
 Datasets/magazine_raw/mag2008.txt,magazine_text,4033
@@ -2057,7 +2012,6 @@ Datasets/magazine_raw/mag2054.txt,magazine_text,6570
 Datasets/magazine_raw/mag2055.txt,magazine_text,3265
 Datasets/magazine_raw/mag2056.txt,magazine_text,2208
 Datasets/magazine_raw/mag2057.txt,magazine_text,5403
-Datasets/magazine_raw/mag2058.txt,magazine_text,2658
 Datasets/magazine_raw/mag2059.txt,magazine_text,5119
 Datasets/magazine_raw/mag2060.txt,magazine_text,1385
 Datasets/magazine_raw/mag2061.txt,magazine_text,1941
@@ -2075,7 +2029,6 @@ Datasets/magazine_raw/mag2072.txt,magazine_text,14096
 Datasets/magazine_raw/mag2073.txt,magazine_text,12324
 Datasets/magazine_raw/mag2074.txt,magazine_text,6631
 Datasets/magazine_raw/mag2075.txt,magazine_text,3595
-Datasets/magazine_raw/mag2076.txt,magazine_text,3868
 Datasets/magazine_raw/mag2077.txt,magazine_text,7342
 Datasets/magazine_raw/mag2078.txt,magazine_text,2232
 Datasets/magazine_raw/mag2079.txt,magazine_text,4456
@@ -2121,7 +2074,6 @@ Datasets/magazine_raw/mag2118.txt,magazine_text,3507
 Datasets/magazine_raw/mag2119.txt,magazine_text,7093
 Datasets/magazine_raw/mag2120.txt,magazine_text,2505
 Datasets/magazine_raw/mag2121.txt,magazine_text,3370
-Datasets/magazine_raw/mag2122.txt,magazine_text,3372
 Datasets/magazine_raw/mag2123.txt,magazine_text,6899
 Datasets/magazine_raw/mag2124.txt,magazine_text,2318
 Datasets/magazine_raw/mag2125.txt,magazine_text,5130
@@ -2214,7 +2166,6 @@ Datasets/magazine_raw/mag2211.txt,magazine_text,5976
 Datasets/magazine_raw/mag2212.txt,magazine_text,5538
 Datasets/magazine_raw/mag2213.txt,magazine_text,3060
 Datasets/magazine_raw/mag2214.txt,magazine_text,1820
-Datasets/magazine_raw/mag2215.txt,magazine_text,3528
 Datasets/magazine_raw/mag2216.txt,magazine_text,7403
 Datasets/magazine_raw/mag2217.txt,magazine_text,4796
 Datasets/magazine_raw/mag2218.txt,magazine_text,1988
@@ -2282,7 +2233,6 @@ Datasets/magazine_raw/mag2279.txt,magazine_text,2867
 Datasets/magazine_raw/mag2280.txt,magazine_text,12006
 Datasets/magazine_raw/mag2281.txt,magazine_text,3615
 Datasets/magazine_raw/mag2282.txt,magazine_text,16140
-Datasets/magazine_raw/mag2283.txt,magazine_text,5988
 Datasets/magazine_raw/mag2284.txt,magazine_text,13458
 Datasets/magazine_raw/mag2285.txt,magazine_text,5043
 Datasets/magazine_raw/mag2286.txt,magazine_text,2128
@@ -2306,7 +2256,6 @@ Datasets/magazine_raw/mag2303.txt,magazine_text,11663
 Datasets/magazine_raw/mag2304.txt,magazine_text,4589
 Datasets/magazine_raw/mag2305.txt,magazine_text,4170
 Datasets/magazine_raw/mag2306.txt,magazine_text,4667
-Datasets/magazine_raw/mag2307.txt,magazine_text,5659
 Datasets/magazine_raw/mag2308.txt,magazine_text,8382
 Datasets/magazine_raw/mag2309.txt,magazine_text,23046
 Datasets/magazine_raw/mag2310.txt,magazine_text,7494
@@ -2325,13 +2274,11 @@ Datasets/magazine_raw/mag2322.txt,magazine_text,21176
 Datasets/magazine_raw/mag2323.txt,magazine_text,9596
 Datasets/magazine_raw/mag2324.txt,magazine_text,17351
 Datasets/magazine_raw/mag2325.txt,magazine_text,6474
-Datasets/magazine_raw/mag2326.txt,magazine_text,459
 Datasets/magazine_raw/mag2327.txt,magazine_text,5763
 Datasets/magazine_raw/mag2328.txt,magazine_text,19440
 Datasets/magazine_raw/mag2329.txt,magazine_text,10916
 Datasets/magazine_raw/mag2330.txt,magazine_text,2930
 Datasets/magazine_raw/mag2331.txt,magazine_text,6545
-Datasets/magazine_raw/mag2332.txt,magazine_text,4892
 Datasets/magazine_raw/mag2333.txt,magazine_text,2490
 Datasets/magazine_raw/mag2334.txt,magazine_text,3682
 Datasets/magazine_raw/mag2335.txt,magazine_text,9224
@@ -2389,7 +2336,6 @@ Datasets/magazine_raw/mag2386.txt,magazine_text,10197
 Datasets/magazine_raw/mag2387.txt,magazine_text,2443
 Datasets/magazine_raw/mag2388.txt,magazine_text,16158
 Datasets/magazine_raw/mag2389.txt,magazine_text,2810
-Datasets/magazine_raw/mag2390.txt,magazine_text,2994
 Datasets/magazine_raw/mag2391.txt,magazine_text,2461
 Datasets/magazine_raw/mag2392.txt,magazine_text,3647
 Datasets/magazine_raw/mag2393.txt,magazine_text,4249
@@ -2415,7 +2361,6 @@ Datasets/magazine_raw/mag2412.txt,magazine_text,4234
 Datasets/magazine_raw/mag2413.txt,magazine_text,2616
 Datasets/magazine_raw/mag2414.txt,magazine_text,7087
 Datasets/magazine_raw/mag2415.txt,magazine_text,13581
-Datasets/magazine_raw/mag2416.txt,magazine_text,3503
 Datasets/magazine_raw/mag2417.txt,magazine_text,3164
 Datasets/magazine_raw/mag2418.txt,magazine_text,7592
 Datasets/magazine_raw/mag2419.txt,magazine_text,15479
@@ -2483,7 +2428,6 @@ Datasets/magazine_raw/mag2480.txt,magazine_text,4007
 Datasets/magazine_raw/mag2481.txt,magazine_text,3804
 Datasets/magazine_raw/mag2482.txt,magazine_text,9959
 Datasets/magazine_raw/mag2483.txt,magazine_text,2324
-Datasets/magazine_raw/mag2484.txt,magazine_text,8277
 Datasets/magazine_raw/mag2485.txt,magazine_text,13253
 Datasets/magazine_raw/mag2486.txt,magazine_text,3164
 Datasets/magazine_raw/mag2487.txt,magazine_text,9424
@@ -2634,7 +2578,6 @@ Datasets/magazine_raw/mag2631.txt,magazine_text,4857
 Datasets/magazine_raw/mag2632.txt,magazine_text,2742
 Datasets/magazine_raw/mag2633.txt,magazine_text,2245
 Datasets/magazine_raw/mag2634.txt,magazine_text,5084
-Datasets/magazine_raw/mag2635.txt,magazine_text,7974
 Datasets/magazine_raw/mag2636.txt,magazine_text,2299
 Datasets/magazine_raw/mag2637.txt,magazine_text,5208
 Datasets/magazine_raw/mag2638.txt,magazine_text,8024
@@ -2663,7 +2606,6 @@ Datasets/magazine_raw/mag2660.txt,magazine_text,6992
 Datasets/magazine_raw/mag2661.txt,magazine_text,2337
 Datasets/magazine_raw/mag2662.txt,magazine_text,2467
 Datasets/magazine_raw/mag2663.txt,magazine_text,2650
-Datasets/magazine_raw/mag2664.txt,magazine_text,3045
 Datasets/magazine_raw/mag2665.txt,magazine_text,4345
 Datasets/magazine_raw/mag2666.txt,magazine_text,5481
 Datasets/magazine_raw/mag2667.txt,magazine_text,4449
@@ -2746,7 +2688,6 @@ Datasets/magazine_raw/mag2743.txt,magazine_text,5885
 Datasets/magazine_raw/mag2744.txt,magazine_text,8474
 Datasets/magazine_raw/mag2745.txt,magazine_text,18781
 Datasets/magazine_raw/mag2746.txt,magazine_text,4442
-Datasets/magazine_raw/mag2747.txt,magazine_text,2966
 Datasets/magazine_raw/mag2748.txt,magazine_text,3010
 Datasets/magazine_raw/mag2749.txt,magazine_text,6292
 Datasets/magazine_raw/mag2750.txt,magazine_text,21264
@@ -2834,7 +2775,6 @@ Datasets/magazine_raw/mag2831.txt,magazine_text,4150
 Datasets/magazine_raw/mag2832.txt,magazine_text,3110
 Datasets/magazine_raw/mag2833.txt,magazine_text,2385
 Datasets/magazine_raw/mag2834.txt,magazine_text,5538
-Datasets/magazine_raw/mag2835.txt,magazine_text,4426
 Datasets/magazine_raw/mag2836.txt,magazine_text,2465
 Datasets/magazine_raw/mag2837.txt,magazine_text,7037
 Datasets/magazine_raw/mag2838.txt,magazine_text,3672
@@ -2937,7 +2877,6 @@ Datasets/magazine_raw/mag2934.txt,magazine_text,6722
 Datasets/magazine_raw/mag2935.txt,magazine_text,3254
 Datasets/magazine_raw/mag2936.txt,magazine_text,6357
 Datasets/magazine_raw/mag2937.txt,magazine_text,6781
-Datasets/magazine_raw/mag2938.txt,magazine_text,8934
 Datasets/magazine_raw/mag2939.txt,magazine_text,1979
 Datasets/magazine_raw/mag2940.txt,magazine_text,17016
 Datasets/magazine_raw/mag2941.txt,magazine_text,3310
@@ -2954,10 +2893,8 @@ Datasets/magazine_raw/mag2951.txt,magazine_text,4217
 Datasets/magazine_raw/mag2952.txt,magazine_text,4645
 Datasets/magazine_raw/mag2953.txt,magazine_text,6401
 Datasets/magazine_raw/mag2954.txt,magazine_text,9671
-Datasets/magazine_raw/mag2955.txt,magazine_text,3263
 Datasets/magazine_raw/mag2956.txt,magazine_text,6374
 Datasets/magazine_raw/mag2957.txt,magazine_text,10332
-Datasets/magazine_raw/mag2958.txt,magazine_text,2017
 Datasets/magazine_raw/mag2959.txt,magazine_text,2745
 Datasets/magazine_raw/mag2960.txt,magazine_text,2944
 Datasets/magazine_raw/mag2961.txt,magazine_text,998
@@ -2976,7 +2913,6 @@ Datasets/magazine_raw/mag2973.txt,magazine_text,4796
 Datasets/magazine_raw/mag2974.txt,magazine_text,1345
 Datasets/magazine_raw/mag2975.txt,magazine_text,4569
 Datasets/magazine_raw/mag2976.txt,magazine_text,5528
-Datasets/magazine_raw/mag2977.txt,magazine_text,2522
 Datasets/magazine_raw/mag2978.txt,magazine_text,8965
 Datasets/magazine_raw/mag2979.txt,magazine_text,3585
 Datasets/magazine_raw/mag2980.txt,magazine_text,3340
@@ -2985,7 +2921,6 @@ Datasets/magazine_raw/mag2982.txt,magazine_text,3715
 Datasets/magazine_raw/mag2983.txt,magazine_text,3152
 Datasets/magazine_raw/mag2984.txt,magazine_text,2606
 Datasets/magazine_raw/mag2985.txt,magazine_text,5171
-Datasets/magazine_raw/mag2986.txt,magazine_text,3361
 Datasets/magazine_raw/mag2987.txt,magazine_text,2267
 Datasets/magazine_raw/mag2988.txt,magazine_text,11106
 Datasets/magazine_raw/mag2989.txt,magazine_text,5266
@@ -3000,11 +2935,9 @@ Datasets/magazine_raw/mag2997.txt,magazine_text,9357
 Datasets/magazine_raw/mag2998.txt,magazine_text,5409
 Datasets/magazine_raw/mag2999.txt,magazine_text,3369
 Datasets/magazine_raw/mag3000.txt,magazine_text,3649
-Datasets/magazine_raw/mag3001.txt,magazine_text,1745
 Datasets/magazine_raw/mag3002.txt,magazine_text,6926
 Datasets/magazine_raw/mag3003.txt,magazine_text,225
 Datasets/magazine_raw/mag3004.txt,magazine_text,6960
-Datasets/magazine_raw/mag3005.txt,magazine_text,1667
 Datasets/magazine_raw/mag3006.txt,magazine_text,3891
 Datasets/magazine_raw/mag3007.txt,magazine_text,2622
 Datasets/magazine_raw/mag3008.txt,magazine_text,5044
@@ -3016,7 +2949,6 @@ Datasets/magazine_raw/mag3013.txt,magazine_text,4338
 Datasets/magazine_raw/mag3014.txt,magazine_text,3773
 Datasets/magazine_raw/mag3015.txt,magazine_text,8145
 Datasets/magazine_raw/mag3016.txt,magazine_text,5329
-Datasets/magazine_raw/mag3017.txt,magazine_text,1504
 Datasets/magazine_raw/mag3018.txt,magazine_text,5273
 Datasets/magazine_raw/mag3019.txt,magazine_text,5315
 Datasets/magazine_raw/mag3020.txt,magazine_text,5358
@@ -3032,7 +2964,6 @@ Datasets/magazine_raw/mag3029.txt,magazine_text,3920
 Datasets/magazine_raw/mag3030.txt,magazine_text,4137
 Datasets/magazine_raw/mag3031.txt,magazine_text,1982
 Datasets/magazine_raw/mag3032.txt,magazine_text,3385
-Datasets/magazine_raw/mag3033.txt,magazine_text,4703
 Datasets/magazine_raw/mag3034.txt,magazine_text,4592
 Datasets/magazine_raw/mag3035.txt,magazine_text,2130
 Datasets/magazine_raw/mag3036.txt,magazine_text,1697
@@ -3060,7 +2991,6 @@ Datasets/magazine_raw/mag3057.txt,magazine_text,4331
 Datasets/magazine_raw/mag3058.txt,magazine_text,10844
 Datasets/magazine_raw/mag3059.txt,magazine_text,3917
 Datasets/magazine_raw/mag3060.txt,magazine_text,2714
-Datasets/magazine_raw/mag3061.txt,magazine_text,2581
 Datasets/magazine_raw/mag3062.txt,magazine_text,4322
 Datasets/magazine_raw/mag3063.txt,magazine_text,2434
 Datasets/magazine_raw/mag3064.txt,magazine_text,3727
@@ -3084,7 +3014,6 @@ Datasets/magazine_raw/mag3081.txt,magazine_text,38562
 Datasets/magazine_raw/mag3082.txt,magazine_text,2041
 Datasets/magazine_raw/mag3083.txt,magazine_text,3750
 Datasets/magazine_raw/mag3084.txt,magazine_text,4139
-Datasets/magazine_raw/mag3085.txt,magazine_text,1535
 Datasets/magazine_raw/mag3086.txt,magazine_text,3621
 Datasets/magazine_raw/mag3087.txt,magazine_text,2535
 Datasets/magazine_raw/mag3088.txt,magazine_text,2262
@@ -3132,7 +3061,6 @@ Datasets/magazine_raw/mag3129.txt,magazine_text,2639
 Datasets/magazine_raw/mag3130.txt,magazine_text,3511
 Datasets/magazine_raw/mag3131.txt,magazine_text,2892
 Datasets/magazine_raw/mag3132.txt,magazine_text,3977
-Datasets/magazine_raw/mag3133.txt,magazine_text,3454
 Datasets/magazine_raw/mag3134.txt,magazine_text,2972
 Datasets/magazine_raw/mag3135.txt,magazine_text,3865
 Datasets/magazine_raw/mag3136.txt,magazine_text,1378
@@ -3151,7 +3079,6 @@ Datasets/magazine_raw/mag3148.txt,magazine_text,4138
 Datasets/magazine_raw/mag3149.txt,magazine_text,6270
 Datasets/magazine_raw/mag3150.txt,magazine_text,2464
 Datasets/magazine_raw/mag3151.txt,magazine_text,10797
-Datasets/magazine_raw/mag3152.txt,magazine_text,1597
 Datasets/magazine_raw/mag3153.txt,magazine_text,3934
 Datasets/magazine_raw/mag3154.txt,magazine_text,3853
 Datasets/magazine_raw/mag3155.txt,magazine_text,3963
@@ -3164,14 +3091,11 @@ Datasets/magazine_raw/mag3161.txt,magazine_text,4971
 Datasets/magazine_raw/mag3162.txt,magazine_text,3032
 Datasets/magazine_raw/mag3163.txt,magazine_text,2613
 Datasets/magazine_raw/mag3164.txt,magazine_text,4188
-Datasets/magazine_raw/mag3165.txt,magazine_text,3335
 Datasets/magazine_raw/mag3166.txt,magazine_text,8174
-Datasets/magazine_raw/mag3167.txt,magazine_text,3475
 Datasets/magazine_raw/mag3168.txt,magazine_text,4206
 Datasets/magazine_raw/mag3169.txt,magazine_text,5235
 Datasets/magazine_raw/mag3170.txt,magazine_text,1639
 Datasets/magazine_raw/mag3171.txt,magazine_text,6851
-Datasets/magazine_raw/mag3172.txt,magazine_text,1887
 Datasets/magazine_raw/mag3173.txt,magazine_text,2977
 Datasets/magazine_raw/mag3174.txt,magazine_text,7908
 Datasets/magazine_raw/mag3175.txt,magazine_text,3832
@@ -3209,7 +3133,6 @@ Datasets/magazine_raw/mag3206.txt,magazine_text,3491
 Datasets/magazine_raw/mag3207.txt,magazine_text,3995
 Datasets/magazine_raw/mag3208.txt,magazine_text,14940
 Datasets/magazine_raw/mag3209.txt,magazine_text,3313
-Datasets/magazine_raw/mag3210.txt,magazine_text,1394
 Datasets/magazine_raw/mag3211.txt,magazine_text,3788
 Datasets/magazine_raw/mag3212.txt,magazine_text,3789
 Datasets/magazine_raw/mag3213.txt,magazine_text,4765
@@ -3296,7 +3219,6 @@ Datasets/magazine_raw/mag3293.txt,magazine_text,3898
 Datasets/magazine_raw/mag3294.txt,magazine_text,3054
 Datasets/magazine_raw/mag3295.txt,magazine_text,6571
 Datasets/magazine_raw/mag3296.txt,magazine_text,4164
-Datasets/magazine_raw/mag3297.txt,magazine_text,2658
 Datasets/magazine_raw/mag3298.txt,magazine_text,3770
 Datasets/magazine_raw/mag3299.txt,magazine_text,8862
 Datasets/magazine_raw/mag3300.txt,magazine_text,3691
@@ -3325,7 +3247,6 @@ Datasets/magazine_raw/mag3322.txt,magazine_text,5173
 Datasets/magazine_raw/mag3323.txt,magazine_text,2196
 Datasets/magazine_raw/mag3324.txt,magazine_text,4680
 Datasets/magazine_raw/mag3325.txt,magazine_text,3613
-Datasets/magazine_raw/mag3326.txt,magazine_text,3048
 Datasets/magazine_raw/mag3327.txt,magazine_text,10220
 Datasets/magazine_raw/mag3328.txt,magazine_text,7923
 Datasets/magazine_raw/mag3329.txt,magazine_text,5501
@@ -3342,7 +3263,6 @@ Datasets/magazine_raw/mag3339.txt,magazine_text,3700
 Datasets/magazine_raw/mag3340.txt,magazine_text,4434
 Datasets/magazine_raw/mag3341.txt,magazine_text,7518
 Datasets/magazine_raw/mag3342.txt,magazine_text,4087
-Datasets/magazine_raw/mag3343.txt,magazine_text,3884
 Datasets/magazine_raw/mag3344.txt,magazine_text,5478
 Datasets/magazine_raw/mag3345.txt,magazine_text,2869
 Datasets/magazine_raw/mag3346.txt,magazine_text,4027
@@ -3450,7 +3370,6 @@ Datasets/magazine_raw/mag3447.txt,magazine_text,8574
 Datasets/magazine_raw/mag3448.txt,magazine_text,2295
 Datasets/magazine_raw/mag3449.txt,magazine_text,3625
 Datasets/magazine_raw/mag3450.txt,magazine_text,7050
-Datasets/magazine_raw/mag3451.txt,magazine_text,4901
 Datasets/magazine_raw/mag3452.txt,magazine_text,4306
 Datasets/magazine_raw/mag3453.txt,magazine_text,2135
 Datasets/magazine_raw/mag3454.txt,magazine_text,3623
@@ -3474,7 +3393,6 @@ Datasets/magazine_raw/mag3471.txt,magazine_text,4548
 Datasets/magazine_raw/mag3472.txt,magazine_text,2882
 Datasets/magazine_raw/mag3473.txt,magazine_text,4312
 Datasets/magazine_raw/mag3474.txt,magazine_text,7678
-Datasets/magazine_raw/mag3475.txt,magazine_text,2514
 Datasets/magazine_raw/mag3476.txt,magazine_text,5345
 Datasets/magazine_raw/mag3477.txt,magazine_text,3724
 Datasets/magazine_raw/mag3478.txt,magazine_text,3274
@@ -3501,7 +3419,6 @@ Datasets/magazine_raw/mag3498.txt,magazine_text,6369
 Datasets/magazine_raw/mag3499.txt,magazine_text,9353
 Datasets/magazine_raw/mag3500.txt,magazine_text,11951
 Datasets/magazine_raw/mag3501.txt,magazine_text,7007
-Datasets/magazine_raw/mag3502.txt,magazine_text,4149
 Datasets/magazine_raw/mag3503.txt,magazine_text,2201
 Datasets/magazine_raw/mag3504.txt,magazine_text,13362
 Datasets/magazine_raw/mag3505.txt,magazine_text,5169
@@ -3584,9 +3501,7 @@ Datasets/magazine_raw/mag3581.txt,magazine_text,3374
 Datasets/magazine_raw/mag3582.txt,magazine_text,3074
 Datasets/magazine_raw/mag3583.txt,magazine_text,2220
 Datasets/magazine_raw/mag3584.txt,magazine_text,8445
-Datasets/magazine_raw/mag3585.txt,magazine_text,2336
 Datasets/magazine_raw/mag3586.txt,magazine_text,5179
-Datasets/magazine_raw/mag3587.txt,magazine_text,4218
 Datasets/magazine_raw/mag3588.txt,magazine_text,3677
 Datasets/magazine_raw/mag3589.txt,magazine_text,4535
 Datasets/magazine_raw/mag3590.txt,magazine_text,7455
@@ -3614,7 +3529,6 @@ Datasets/magazine_raw/mag3611.txt,magazine_text,2318
 Datasets/magazine_raw/mag3612.txt,magazine_text,5018
 Datasets/magazine_raw/mag3613.txt,magazine_text,4618
 Datasets/magazine_raw/mag3614.txt,magazine_text,27002
-Datasets/magazine_raw/mag3615.txt,magazine_text,2503
 Datasets/magazine_raw/mag3616.txt,magazine_text,3831
 Datasets/magazine_raw/mag3617.txt,magazine_text,9004
 Datasets/magazine_raw/mag3618.txt,magazine_text,4250
@@ -3634,7 +3548,6 @@ Datasets/magazine_raw/mag3631.txt,magazine_text,4018
 Datasets/magazine_raw/mag3632.txt,magazine_text,2189
 Datasets/magazine_raw/mag3633.txt,magazine_text,2138
 Datasets/magazine_raw/mag3634.txt,magazine_text,4624
-Datasets/magazine_raw/mag3635.txt,magazine_text,5397
 Datasets/magazine_raw/mag3636.txt,magazine_text,6039
 Datasets/magazine_raw/mag3637.txt,magazine_text,12590
 Datasets/magazine_raw/mag3638.txt,magazine_text,2108
@@ -3700,7 +3613,6 @@ Datasets/magazine_raw/mag3697.txt,magazine_text,5119
 Datasets/magazine_raw/mag3698.txt,magazine_text,2553
 Datasets/magazine_raw/mag3699.txt,magazine_text,2082
 Datasets/magazine_raw/mag3700.txt,magazine_text,3282
-Datasets/magazine_raw/mag3701.txt,magazine_text,1569
 Datasets/magazine_raw/mag3702.txt,magazine_text,3381
 Datasets/magazine_raw/mag3703.txt,magazine_text,3442
 Datasets/magazine_raw/mag3704.txt,magazine_text,11056
@@ -3708,7 +3620,6 @@ Datasets/magazine_raw/mag3705.txt,magazine_text,1670
 Datasets/magazine_raw/mag3706.txt,magazine_text,3503
 Datasets/magazine_raw/mag3707.txt,magazine_text,7604
 Datasets/magazine_raw/mag3708.txt,magazine_text,3213
-Datasets/magazine_raw/mag3709.txt,magazine_text,2663
 Datasets/magazine_raw/mag3710.txt,magazine_text,8281
 Datasets/magazine_raw/mag3711.txt,magazine_text,45545
 Datasets/magazine_raw/mag3712.txt,magazine_text,3658
@@ -3734,7 +3645,6 @@ Datasets/magazine_raw/mag3731.txt,magazine_text,10368
 Datasets/magazine_raw/mag3732.txt,magazine_text,3005
 Datasets/magazine_raw/mag3733.txt,magazine_text,5846
 Datasets/magazine_raw/mag3734.txt,magazine_text,2537
-Datasets/magazine_raw/mag3735.txt,magazine_text,2875
 Datasets/magazine_raw/mag3736.txt,magazine_text,4045
 Datasets/magazine_raw/mag3737.txt,magazine_text,3063
 Datasets/magazine_raw/mag3738.txt,magazine_text,2168
@@ -3748,12 +3658,10 @@ Datasets/magazine_raw/mag3745.txt,magazine_text,8768
 Datasets/magazine_raw/mag3746.txt,magazine_text,6805
 Datasets/magazine_raw/mag3747.txt,magazine_text,28411
 Datasets/magazine_raw/mag3748.txt,magazine_text,3025
-Datasets/magazine_raw/mag3749.txt,magazine_text,1811
 Datasets/magazine_raw/mag3750.txt,magazine_text,2276
 Datasets/magazine_raw/mag3751.txt,magazine_text,13038
 Datasets/magazine_raw/mag3752.txt,magazine_text,28784
 Datasets/magazine_raw/mag3753.txt,magazine_text,12473
-Datasets/magazine_raw/mag3754.txt,magazine_text,1729
 Datasets/magazine_raw/mag3755.txt,magazine_text,12339
 Datasets/magazine_raw/mag3756.txt,magazine_text,5214
 Datasets/magazine_raw/mag3757.txt,magazine_text,6168
@@ -3800,7 +3708,6 @@ Datasets/magazine_raw/mag3797.txt,magazine_text,6542
 Datasets/magazine_raw/mag3798.txt,magazine_text,1390
 Datasets/magazine_raw/mag3799.txt,magazine_text,2584
 Datasets/magazine_raw/mag3800.txt,magazine_text,3879
-Datasets/magazine_raw/mag3801.txt,magazine_text,5761
 Datasets/magazine_raw/mag3802.txt,magazine_text,5801
 Datasets/magazine_raw/mag3803.txt,magazine_text,2072
 Datasets/magazine_raw/mag3804.txt,magazine_text,8015
@@ -3812,7 +3719,6 @@ Datasets/magazine_raw/mag3809.txt,magazine_text,7487
 Datasets/magazine_raw/mag3810.txt,magazine_text,1168
 Datasets/magazine_raw/mag3811.txt,magazine_text,6454
 Datasets/magazine_raw/mag3812.txt,magazine_text,2578
-Datasets/magazine_raw/mag3813.txt,magazine_text,1574
 Datasets/magazine_raw/mag3814.txt,magazine_text,2023
 Datasets/magazine_raw/mag3815.txt,magazine_text,1975
 Datasets/magazine_raw/mag3816.txt,magazine_text,5240
@@ -3830,7 +3736,6 @@ Datasets/magazine_raw/mag3827.txt,magazine_text,1969
 Datasets/magazine_raw/mag3828.txt,magazine_text,2262
 Datasets/magazine_raw/mag3829.txt,magazine_text,6496
 Datasets/magazine_raw/mag3830.txt,magazine_text,23374
-Datasets/magazine_raw/mag3831.txt,magazine_text,5474
 Datasets/magazine_raw/mag3832.txt,magazine_text,7056
 Datasets/magazine_raw/mag3833.txt,magazine_text,5177
 Datasets/magazine_raw/mag3834.txt,magazine_text,8131
@@ -3838,8 +3743,6 @@ Datasets/magazine_raw/mag3835.txt,magazine_text,4889
 Datasets/magazine_raw/mag3836.txt,magazine_text,5768
 Datasets/magazine_raw/mag3837.txt,magazine_text,1190
 Datasets/magazine_raw/mag3838.txt,magazine_text,2425
-Datasets/magazine_raw/mag3839.txt,magazine_text,1392
-Datasets/magazine_raw/mag3840.txt,magazine_text,11296
 Datasets/magazine_raw/mag3841.txt,magazine_text,3723
 Datasets/magazine_raw/mag3842.txt,magazine_text,2227
 Datasets/magazine_raw/mag3843.txt,magazine_text,8203
@@ -3863,9 +3766,7 @@ Datasets/magazine_raw/mag3860.txt,magazine_text,7224
 Datasets/magazine_raw/mag3861.txt,magazine_text,6143
 Datasets/magazine_raw/mag3862.txt,magazine_text,2925
 Datasets/magazine_raw/mag3863.txt,magazine_text,8867
-Datasets/magazine_raw/mag3864.txt,magazine_text,4357
 Datasets/magazine_raw/mag3865.txt,magazine_text,4265
-Datasets/magazine_raw/mag3866.txt,magazine_text,2563
 Datasets/magazine_raw/mag3867.txt,magazine_text,9446
 Datasets/magazine_raw/mag3868.txt,magazine_text,2868
 Datasets/magazine_raw/mag3869.txt,magazine_text,7147
@@ -3895,7 +3796,6 @@ Datasets/magazine_raw/mag3892.txt,magazine_text,2491
 Datasets/magazine_raw/mag3893.txt,magazine_text,16059
 Datasets/magazine_raw/mag3894.txt,magazine_text,7000
 Datasets/magazine_raw/mag3895.txt,magazine_text,3837
-Datasets/magazine_raw/mag3896.txt,magazine_text,2349
 Datasets/magazine_raw/mag3897.txt,magazine_text,5342
 Datasets/magazine_raw/mag3898.txt,magazine_text,17894
 Datasets/magazine_raw/mag3899.txt,magazine_text,7516
@@ -3926,7 +3826,6 @@ Datasets/magazine_raw/mag3923.txt,magazine_text,7440
 Datasets/magazine_raw/mag3924.txt,magazine_text,17205
 Datasets/magazine_raw/mag3925.txt,magazine_text,19023
 Datasets/magazine_raw/mag3926.txt,magazine_text,3100
-Datasets/magazine_raw/mag3927.txt,magazine_text,2496
 Datasets/magazine_raw/mag3928.txt,magazine_text,3848
 Datasets/magazine_raw/mag3929.txt,magazine_text,5890
 Datasets/magazine_raw/mag3930.txt,magazine_text,3557
@@ -3941,13 +3840,11 @@ Datasets/magazine_raw/mag3938.txt,magazine_text,2522
 Datasets/magazine_raw/mag3939.txt,magazine_text,5127
 Datasets/magazine_raw/mag3940.txt,magazine_text,3259
 Datasets/magazine_raw/mag3941.txt,magazine_text,6398
-Datasets/magazine_raw/mag3942.txt,magazine_text,10907
 Datasets/magazine_raw/mag3943.txt,magazine_text,20173
 Datasets/magazine_raw/mag3944.txt,magazine_text,4355
 Datasets/magazine_raw/mag3945.txt,magazine_text,3216
 Datasets/magazine_raw/mag3946.txt,magazine_text,3684
 Datasets/magazine_raw/mag3947.txt,magazine_text,4734
-Datasets/magazine_raw/mag3948.txt,magazine_text,3504
 Datasets/magazine_raw/mag3949.txt,magazine_text,7629
 Datasets/magazine_raw/mag3950.txt,magazine_text,4065
 Datasets/magazine_raw/mag3951.txt,magazine_text,7182
@@ -3958,7 +3855,6 @@ Datasets/magazine_raw/mag3955.txt,magazine_text,5397
 Datasets/magazine_raw/mag3956.txt,magazine_text,2821
 Datasets/magazine_raw/mag3957.txt,magazine_text,5252
 Datasets/magazine_raw/mag3958.txt,magazine_text,2825
-Datasets/magazine_raw/mag3959.txt,magazine_text,2644
 Datasets/magazine_raw/mag3960.txt,magazine_text,3225
 Datasets/magazine_raw/mag3961.txt,magazine_text,2983
 Datasets/magazine_raw/mag3962.txt,magazine_text,2920
@@ -3971,7 +3867,6 @@ Datasets/magazine_raw/mag3968.txt,magazine_text,9075
 Datasets/magazine_raw/mag3969.txt,magazine_text,2333
 Datasets/magazine_raw/mag3970.txt,magazine_text,4048
 Datasets/magazine_raw/mag3971.txt,magazine_text,12844
-Datasets/magazine_raw/mag3972.txt,magazine_text,3882
 Datasets/magazine_raw/mag3973.txt,magazine_text,4204
 Datasets/magazine_raw/mag3974.txt,magazine_text,7055
 Datasets/magazine_raw/mag3975.txt,magazine_text,3528
@@ -3991,8 +3886,6 @@ Datasets/magazine_raw/mag3988.txt,magazine_text,2036
 Datasets/magazine_raw/mag3989.txt,magazine_text,2869
 Datasets/magazine_raw/mag3990.txt,magazine_text,2550
 Datasets/magazine_raw/mag3991.txt,magazine_text,8077
-Datasets/magazine_raw/mag3992.txt,magazine_text,6519
-Datasets/magazine_raw/mag3993.txt,magazine_text,5353
 Datasets/magazine_raw/mag3994.txt,magazine_text,4591
 Datasets/magazine_raw/mag3995.txt,magazine_text,2123
 Datasets/magazine_raw/mag3996.txt,magazine_text,4763
@@ -4018,7 +3911,6 @@ Datasets/magazine_raw/mag4015.txt,magazine_text,15141
 Datasets/magazine_raw/mag4016.txt,magazine_text,1781
 Datasets/magazine_raw/mag4017.txt,magazine_text,6036
 Datasets/magazine_raw/mag4018.txt,magazine_text,5010
-Datasets/magazine_raw/mag4019.txt,magazine_text,4380
 Datasets/magazine_raw/mag4020.txt,magazine_text,3158
 Datasets/magazine_raw/mag4021.txt,magazine_text,4074
 Datasets/magazine_raw/mag4022.txt,magazine_text,5632
@@ -4034,7 +3926,6 @@ Datasets/magazine_raw/mag4031.txt,magazine_text,7674
 Datasets/magazine_raw/mag4032.txt,magazine_text,14832
 Datasets/magazine_raw/mag4033.txt,magazine_text,4095
 Datasets/magazine_raw/mag4034.txt,magazine_text,4221
-Datasets/magazine_raw/mag4035.txt,magazine_text,1226
 Datasets/magazine_raw/mag4036.txt,magazine_text,1361
 Datasets/magazine_raw/mag4037.txt,magazine_text,15443
 Datasets/magazine_raw/mag4038.txt,magazine_text,3361
@@ -4045,10 +3936,8 @@ Datasets/magazine_raw/mag4042.txt,magazine_text,5121
 Datasets/magazine_raw/mag4043.txt,magazine_text,16343
 Datasets/magazine_raw/mag4044.txt,magazine_text,5123
 Datasets/magazine_raw/mag4045.txt,magazine_text,2910
-Datasets/magazine_raw/mag4046.txt,magazine_text,2772
 Datasets/magazine_raw/mag4047.txt,magazine_text,6757
 Datasets/magazine_raw/mag4048.txt,magazine_text,6654
-Datasets/magazine_raw/mag4049.txt,magazine_text,12133
 Datasets/magazine_raw/mag4050.txt,magazine_text,5484
 Datasets/magazine_raw/mag4051.txt,magazine_text,8379
 Datasets/magazine_raw/mag4052.txt,magazine_text,3500
@@ -4062,7 +3951,6 @@ Datasets/magazine_raw/mag4059.txt,magazine_text,3436
 Datasets/magazine_raw/mag4060.txt,magazine_text,5695
 Datasets/magazine_raw/mag4061.txt,magazine_text,4667
 Datasets/magazine_raw/mag4062.txt,magazine_text,7511
-Datasets/magazine_raw/mag4063.txt,magazine_text,3944
 Datasets/magazine_raw/mag4064.txt,magazine_text,3652
 Datasets/magazine_raw/mag4065.txt,magazine_text,5904
 Datasets/magazine_raw/mag4066.txt,magazine_text,11577
@@ -4072,7 +3960,6 @@ Datasets/magazine_raw/mag4069.txt,magazine_text,5297
 Datasets/magazine_raw/mag4070.txt,magazine_text,5423
 Datasets/magazine_raw/mag4071.txt,magazine_text,3443
 Datasets/magazine_raw/mag4072.txt,magazine_text,2817
-Datasets/magazine_raw/mag4073.txt,magazine_text,6102
 Datasets/magazine_raw/mag4074.txt,magazine_text,13046
 Datasets/magazine_raw/mag4075.txt,magazine_text,19524
 Datasets/magazine_raw/mag4076.txt,magazine_text,2058
@@ -4117,7 +4004,6 @@ Datasets/magazine_raw/mag4114.txt,magazine_text,11011
 Datasets/magazine_raw/mag4115.txt,magazine_text,2898
 Datasets/magazine_raw/mag4116.txt,magazine_text,2380
 Datasets/magazine_raw/mag4117.txt,magazine_text,3458
-Datasets/magazine_raw/mag4118.txt,magazine_text,15635
 Datasets/magazine_raw/mag4119.txt,magazine_text,3060
 Datasets/magazine_raw/mag4120.txt,magazine_text,8741
 Datasets/magazine_raw/mag4121.txt,magazine_text,4196
@@ -4158,7 +4044,6 @@ Datasets/magazine_raw/mag4155.txt,magazine_text,4869
 Datasets/magazine_raw/mag4156.txt,magazine_text,4209
 Datasets/magazine_raw/mag4157.txt,magazine_text,3722
 Datasets/magazine_raw/mag4158.txt,magazine_text,4678
-Datasets/magazine_raw/mag4159.txt,magazine_text,6280
 Datasets/magazine_raw/mag4160.txt,magazine_text,6804
 Datasets/magazine_raw/mag4161.txt,magazine_text,4365
 Datasets/magazine_raw/mag4162.txt,magazine_text,4897
@@ -4166,7 +4051,6 @@ Datasets/magazine_raw/mag4163.txt,magazine_text,8835
 Datasets/magazine_raw/mag4164.txt,magazine_text,2299
 Datasets/magazine_raw/mag4165.txt,magazine_text,2810
 Datasets/magazine_raw/mag4166.txt,magazine_text,3630
-Datasets/magazine_raw/mag4167.txt,magazine_text,2662
 Datasets/magazine_raw/mag4168.txt,magazine_text,3540
 Datasets/magazine_raw/mag4169.txt,magazine_text,5862
 Datasets/magazine_raw/mag4170.txt,magazine_text,3070
@@ -4174,14 +4058,12 @@ Datasets/magazine_raw/mag4171.txt,magazine_text,4386
 Datasets/magazine_raw/mag4172.txt,magazine_text,2189
 Datasets/magazine_raw/mag4173.txt,magazine_text,1613
 Datasets/magazine_raw/mag4174.txt,magazine_text,2842
-Datasets/magazine_raw/mag4175.txt,magazine_text,1624
 Datasets/magazine_raw/mag4176.txt,magazine_text,3514
 Datasets/magazine_raw/mag4177.txt,magazine_text,4571
 Datasets/magazine_raw/mag4178.txt,magazine_text,4442
 Datasets/magazine_raw/mag4179.txt,magazine_text,12633
 Datasets/magazine_raw/mag4180.txt,magazine_text,1697
 Datasets/magazine_raw/mag4181.txt,magazine_text,3542
-Datasets/magazine_raw/mag4182.txt,magazine_text,7496
 Datasets/magazine_raw/mag4183.txt,magazine_text,3790
 Datasets/magazine_raw/mag4184.txt,magazine_text,8638
 Datasets/magazine_raw/mag4185.txt,magazine_text,6442
@@ -4218,11 +4100,9 @@ Datasets/magazine_raw/mag4215.txt,magazine_text,7265
 Datasets/magazine_raw/mag4216.txt,magazine_text,5130
 Datasets/magazine_raw/mag4217.txt,magazine_text,5069
 Datasets/magazine_raw/mag4218.txt,magazine_text,6075
-Datasets/magazine_raw/mag4219.txt,magazine_text,1843
 Datasets/magazine_raw/mag4220.txt,magazine_text,2391
 Datasets/magazine_raw/mag4221.txt,magazine_text,6217
 Datasets/magazine_raw/mag4222.txt,magazine_text,8428
-Datasets/magazine_raw/mag4223.txt,magazine_text,3574
 Datasets/magazine_raw/mag4224.txt,magazine_text,2560
 Datasets/magazine_raw/mag4225.txt,magazine_text,7508
 Datasets/magazine_raw/mag4226.txt,magazine_text,9142
@@ -4252,7 +4132,6 @@ Datasets/magazine_raw/mag4249.txt,magazine_text,4690
 Datasets/magazine_raw/mag4250.txt,magazine_text,2573
 Datasets/magazine_raw/mag4251.txt,magazine_text,2155
 Datasets/magazine_raw/mag4252.txt,magazine_text,2979
-Datasets/magazine_raw/mag4253.txt,magazine_text,1269
 Datasets/magazine_raw/mag4254.txt,magazine_text,5724
 Datasets/magazine_raw/mag4255.txt,magazine_text,3507
 Datasets/magazine_raw/mag4256.txt,magazine_text,6134
@@ -4266,8 +4145,6 @@ Datasets/magazine_raw/mag4263.txt,magazine_text,1694
 Datasets/magazine_raw/mag4264.txt,magazine_text,3652
 Datasets/magazine_raw/mag4265.txt,magazine_text,2793
 Datasets/magazine_raw/mag4266.txt,magazine_text,1754
-Datasets/magazine_raw/mag4267.txt,magazine_text,3252
-Datasets/magazine_raw/mag4268.txt,magazine_text,3249
 Datasets/magazine_raw/mag4269.txt,magazine_text,4863
 Datasets/magazine_raw/mag4270.txt,magazine_text,4727
 Datasets/magazine_raw/mag4271.txt,magazine_text,3521
@@ -4303,7 +4180,6 @@ Datasets/magazine_raw/mag4300.txt,magazine_text,3421
 Datasets/magazine_raw/mag4301.txt,magazine_text,4927
 Datasets/magazine_raw/mag4302.txt,magazine_text,2924
 Datasets/magazine_raw/mag4303.txt,magazine_text,3903
-Datasets/magazine_raw/mag4304.txt,magazine_text,1299
 Datasets/magazine_raw/mag4305.txt,magazine_text,6625
 Datasets/magazine_raw/mag4306.txt,magazine_text,4107
 Datasets/magazine_raw/mag4307.txt,magazine_text,3938
@@ -4323,12 +4199,10 @@ Datasets/magazine_raw/mag4320.txt,magazine_text,1318
 Datasets/magazine_raw/mag4321.txt,magazine_text,6018
 Datasets/magazine_raw/mag4322.txt,magazine_text,1980
 Datasets/magazine_raw/mag4323.txt,magazine_text,5320
-Datasets/magazine_raw/mag4324.txt,magazine_text,1535
 Datasets/magazine_raw/mag4325.txt,magazine_text,9379
 Datasets/magazine_raw/mag4326.txt,magazine_text,3072
 Datasets/magazine_raw/mag4327.txt,magazine_text,2936
 Datasets/magazine_raw/mag4328.txt,magazine_text,2457
-Datasets/magazine_raw/mag4329.txt,magazine_text,1902
 Datasets/magazine_raw/mag4330.txt,magazine_text,5971
 Datasets/magazine_raw/mag4331.txt,magazine_text,4726
 Datasets/magazine_raw/mag4332.txt,magazine_text,6013
@@ -4346,7 +4220,6 @@ Datasets/magazine_raw/mag4343.txt,magazine_text,2554
 Datasets/magazine_raw/mag4344.txt,magazine_text,5878
 Datasets/magazine_raw/mag4345.txt,magazine_text,5387
 Datasets/magazine_raw/mag4346.txt,magazine_text,4865
-Datasets/magazine_raw/mag4347.txt,magazine_text,3196
 Datasets/magazine_raw/mag4348.txt,magazine_text,4209
 Datasets/magazine_raw/mag4349.txt,magazine_text,6034
 Datasets/magazine_raw/mag4350.txt,magazine_text,6306
@@ -4356,7 +4229,6 @@ Datasets/magazine_raw/mag4353.txt,magazine_text,4202
 Datasets/magazine_raw/mag4354.txt,magazine_text,9627
 Datasets/magazine_raw/mag4355.txt,magazine_text,4866
 Datasets/magazine_raw/mag4356.txt,magazine_text,1619
-Datasets/magazine_raw/mag4357.txt,magazine_text,3488
 Datasets/magazine_raw/mag4358.txt,magazine_text,2530
 Datasets/magazine_raw/mag4359.txt,magazine_text,8382
 Datasets/magazine_raw/mag4360.txt,magazine_text,4195
@@ -4367,22 +4239,18 @@ Datasets/magazine_raw/mag4364.txt,magazine_text,11876
 Datasets/magazine_raw/mag4365.txt,magazine_text,6496
 Datasets/magazine_raw/mag4366.txt,magazine_text,3666
 Datasets/magazine_raw/mag4367.txt,magazine_text,6059
-Datasets/magazine_raw/mag4368.txt,magazine_text,1354
 Datasets/magazine_raw/mag4369.txt,magazine_text,4782
-Datasets/magazine_raw/mag4370.txt,magazine_text,5680
 Datasets/magazine_raw/mag4371.txt,magazine_text,2952
 Datasets/magazine_raw/mag4372.txt,magazine_text,8781
 Datasets/magazine_raw/mag4373.txt,magazine_text,2802
 Datasets/magazine_raw/mag4374.txt,magazine_text,14241
 Datasets/magazine_raw/mag4375.txt,magazine_text,3654
-Datasets/magazine_raw/mag4376.txt,magazine_text,2181
 Datasets/magazine_raw/mag4377.txt,magazine_text,7609
 Datasets/magazine_raw/mag4378.txt,magazine_text,2112
 Datasets/magazine_raw/mag4379.txt,magazine_text,5458
 Datasets/magazine_raw/mag4380.txt,magazine_text,4098
 Datasets/magazine_raw/mag4381.txt,magazine_text,4715
 Datasets/magazine_raw/mag4382.txt,magazine_text,3322
-Datasets/magazine_raw/mag4383.txt,magazine_text,4736
 Datasets/magazine_raw/mag4384.txt,magazine_text,6863
 Datasets/magazine_raw/mag4385.txt,magazine_text,3364
 Datasets/magazine_raw/mag4386.txt,magazine_text,3921
@@ -4436,7 +4304,6 @@ Datasets/magazine_raw/mag4433.txt,magazine_text,2256
 Datasets/magazine_raw/mag4434.txt,magazine_text,5748
 Datasets/magazine_raw/mag4435.txt,magazine_text,3771
 Datasets/magazine_raw/mag4436.txt,magazine_text,6147
-Datasets/magazine_raw/mag4437.txt,magazine_text,1742
 Datasets/magazine_raw/mag4438.txt,magazine_text,4925
 Datasets/magazine_raw/mag4439.txt,magazine_text,14842
 Datasets/magazine_raw/mag4440.txt,magazine_text,4093
@@ -4452,7 +4319,6 @@ Datasets/magazine_raw/mag4449.txt,magazine_text,2672
 Datasets/magazine_raw/mag4450.txt,magazine_text,11103
 Datasets/magazine_raw/mag4451.txt,magazine_text,7593
 Datasets/magazine_raw/mag4452.txt,magazine_text,2458
-Datasets/magazine_raw/mag4453.txt,magazine_text,3715
 Datasets/magazine_raw/mag4454.txt,magazine_text,8323
 Datasets/magazine_raw/mag4455.txt,magazine_text,10937
 Datasets/magazine_raw/mag4456.txt,magazine_text,2297
@@ -4484,7 +4350,6 @@ Datasets/magazine_raw/mag4481.txt,magazine_text,5815
 Datasets/magazine_raw/mag4482.txt,magazine_text,3929
 Datasets/magazine_raw/mag4483.txt,magazine_text,5035
 Datasets/magazine_raw/mag4484.txt,magazine_text,19419
-Datasets/magazine_raw/mag4485.txt,magazine_text,1570
 Datasets/magazine_raw/mag4486.txt,magazine_text,4382
 Datasets/magazine_raw/mag4487.txt,magazine_text,2538
 Datasets/magazine_raw/mag4488.txt,magazine_text,6669
@@ -4494,7 +4359,6 @@ Datasets/magazine_raw/mag4491.txt,magazine_text,8514
 Datasets/magazine_raw/mag4492.txt,magazine_text,5330
 Datasets/magazine_raw/mag4493.txt,magazine_text,6461
 Datasets/magazine_raw/mag4494.txt,magazine_text,3335
-Datasets/magazine_raw/mag4495.txt,magazine_text,2689
 Datasets/magazine_raw/mag4496.txt,magazine_text,5558
 Datasets/magazine_raw/mag4497.txt,magazine_text,3667
 Datasets/magazine_raw/mag4498.txt,magazine_text,6062
@@ -4505,7 +4369,6 @@ Datasets/magazine_raw/mag4502.txt,magazine_text,4424
 Datasets/magazine_raw/mag4503.txt,magazine_text,4312
 Datasets/magazine_raw/mag4504.txt,magazine_text,2014
 Datasets/magazine_raw/mag4505.txt,magazine_text,4421
-Datasets/magazine_raw/mag4506.txt,magazine_text,4387
 Datasets/magazine_raw/mag4507.txt,magazine_text,2657
 Datasets/magazine_raw/mag4508.txt,magazine_text,4916
 Datasets/magazine_raw/mag4509.txt,magazine_text,15625
@@ -4516,7 +4379,6 @@ Datasets/magazine_raw/mag4513.txt,magazine_text,4482
 Datasets/magazine_raw/mag4514.txt,magazine_text,4856
 Datasets/magazine_raw/mag4515.txt,magazine_text,4057
 Datasets/magazine_raw/mag4516.txt,magazine_text,4556
-Datasets/magazine_raw/mag4517.txt,magazine_text,3585
 Datasets/magazine_raw/mag4518.txt,magazine_text,4521
 Datasets/magazine_raw/mag4519.txt,magazine_text,4662
 Datasets/magazine_raw/mag4520.txt,magazine_text,2439
@@ -4530,13 +4392,11 @@ Datasets/magazine_raw/mag4527.txt,magazine_text,3939
 Datasets/magazine_raw/mag4528.txt,magazine_text,2345
 Datasets/magazine_raw/mag4529.txt,magazine_text,7287
 Datasets/magazine_raw/mag4530.txt,magazine_text,6346
-Datasets/magazine_raw/mag4531.txt,magazine_text,12809
 Datasets/magazine_raw/mag4532.txt,magazine_text,4958
 Datasets/magazine_raw/mag4533.txt,magazine_text,4630
 Datasets/magazine_raw/mag4534.txt,magazine_text,3316
 Datasets/magazine_raw/mag4535.txt,magazine_text,4362
 Datasets/magazine_raw/mag4536.txt,magazine_text,3311
-Datasets/magazine_raw/mag4537.txt,magazine_text,2177
 Datasets/magazine_raw/mag4538.txt,magazine_text,5476
 Datasets/magazine_raw/mag4539.txt,magazine_text,5392
 Datasets/magazine_raw/mag4540.txt,magazine_text,3906
@@ -4559,7 +4419,6 @@ Datasets/magazine_raw/mag4556.txt,magazine_text,6703
 Datasets/magazine_raw/mag4557.txt,magazine_text,10240
 Datasets/magazine_raw/mag4558.txt,magazine_text,6112
 Datasets/magazine_raw/mag4559.txt,magazine_text,5435
-Datasets/magazine_raw/mag4560.txt,magazine_text,2816
 Datasets/magazine_raw/mag4561.txt,magazine_text,3688
 Datasets/magazine_raw/mag4562.txt,magazine_text,2679
 Datasets/magazine_raw/mag4563.txt,magazine_text,5036
@@ -4569,7 +4428,6 @@ Datasets/magazine_raw/mag4566.txt,magazine_text,6318
 Datasets/magazine_raw/mag4567.txt,magazine_text,2848
 Datasets/magazine_raw/mag4568.txt,magazine_text,2454
 Datasets/magazine_raw/mag4569.txt,magazine_text,5487
-Datasets/magazine_raw/mag4570.txt,magazine_text,1960
 Datasets/magazine_raw/mag4571.txt,magazine_text,7147
 Datasets/magazine_raw/mag4572.txt,magazine_text,3527
 Datasets/magazine_raw/mag4573.txt,magazine_text,3131
@@ -4586,7 +4444,6 @@ Datasets/magazine_raw/mag4583.txt,magazine_text,3856
 Datasets/magazine_raw/mag4584.txt,magazine_text,2510
 Datasets/magazine_raw/mag4585.txt,magazine_text,6984
 Datasets/magazine_raw/mag4586.txt,magazine_text,12840
-Datasets/magazine_raw/mag4587.txt,magazine_text,2549
 Datasets/magazine_raw/mag4588.txt,magazine_text,7763
 Datasets/magazine_raw/mag4589.txt,magazine_text,7700
 Datasets/magazine_raw/mag4590.txt,magazine_text,6656
@@ -4607,7 +4464,6 @@ Datasets/magazine_raw/mag4604.txt,magazine_text,4245
 Datasets/magazine_raw/mag4605.txt,magazine_text,4223
 Datasets/magazine_raw/mag4606.txt,magazine_text,5227
 Datasets/magazine_raw/mag4607.txt,magazine_text,7580
-Datasets/magazine_raw/mag4608.txt,magazine_text,3742
 Datasets/magazine_raw/mag4609.txt,magazine_text,3926
 Datasets/magazine_raw/mag4610.txt,magazine_text,5029
 Datasets/magazine_raw/mag4611.txt,magazine_text,15355
@@ -4634,7 +4490,6 @@ Datasets/magazine_raw/mag4631.txt,magazine_text,6673
 Datasets/magazine_raw/mag4632.txt,magazine_text,5266
 Datasets/magazine_raw/mag4633.txt,magazine_text,4000
 Datasets/magazine_raw/mag4634.txt,magazine_text,7599
-Datasets/magazine_raw/mag4635.txt,magazine_text,1912
 Datasets/magazine_raw/mag4636.txt,magazine_text,4421
 Datasets/magazine_raw/mag4637.txt,magazine_text,4871
 Datasets/magazine_raw/mag4638.txt,magazine_text,9925
@@ -4658,7 +4513,6 @@ Datasets/magazine_raw/mag4655.txt,magazine_text,1036
 Datasets/magazine_raw/mag4656.txt,magazine_text,6616
 Datasets/magazine_raw/mag4657.txt,magazine_text,5255
 Datasets/magazine_raw/mag4658.txt,magazine_text,5232
-Datasets/magazine_raw/mag4659.txt,magazine_text,3488
 Datasets/magazine_raw/mag4660.txt,magazine_text,2757
 Datasets/magazine_raw/mag4661.txt,magazine_text,7664
 Datasets/magazine_raw/mag4662.txt,magazine_text,4538
@@ -4687,7 +4541,6 @@ Datasets/magazine_raw/mag4684.txt,magazine_text,3333
 Datasets/magazine_raw/mag4685.txt,magazine_text,8308
 Datasets/magazine_raw/mag4686.txt,magazine_text,4749
 Datasets/magazine_raw/mag4687.txt,magazine_text,3913
-Datasets/magazine_raw/mag4688.txt,magazine_text,1522
 Datasets/magazine_raw/mag4689.txt,magazine_text,2297
 Datasets/magazine_raw/mag4690.txt,magazine_text,4436
 Datasets/magazine_raw/mag4691.txt,magazine_text,2084
@@ -4700,7 +4553,6 @@ Datasets/magazine_raw/mag4697.txt,magazine_text,2881
 Datasets/magazine_raw/mag4698.txt,magazine_text,2458
 Datasets/magazine_raw/mag4699.txt,magazine_text,1222
 Datasets/magazine_raw/mag4700.txt,magazine_text,9084
-Datasets/magazine_raw/mag4701.txt,magazine_text,5106
 Datasets/magazine_raw/mag4702.txt,magazine_text,1241
 Datasets/magazine_raw/mag4703.txt,magazine_text,1935
 Datasets/magazine_raw/mag4704.txt,magazine_text,2298
@@ -4718,9 +4570,7 @@ Datasets/magazine_raw/mag4715.txt,magazine_text,4372
 Datasets/magazine_raw/mag4716.txt,magazine_text,2305
 Datasets/magazine_raw/mag4717.txt,magazine_text,11478
 Datasets/magazine_raw/mag4718.txt,magazine_text,4930
-Datasets/magazine_raw/mag4719.txt,magazine_text,1196
 Datasets/magazine_raw/mag4720.txt,magazine_text,1502
-Datasets/magazine_raw/mag4721.txt,magazine_text,1392
 Datasets/magazine_raw/mag4722.txt,magazine_text,4841
 Datasets/magazine_raw/mag4723.txt,magazine_text,15943
 Datasets/magazine_raw/mag4724.txt,magazine_text,7442
@@ -4731,7 +4581,6 @@ Datasets/magazine_raw/mag4728.txt,magazine_text,5910
 Datasets/magazine_raw/mag4729.txt,magazine_text,9137
 Datasets/magazine_raw/mag4730.txt,magazine_text,7922
 Datasets/magazine_raw/mag4731.txt,magazine_text,10938
-Datasets/magazine_raw/mag4732.txt,magazine_text,6880
 Datasets/magazine_raw/mag4733.txt,magazine_text,14208
 Datasets/magazine_raw/mag4734.txt,magazine_text,9821
 Datasets/magazine_raw/mag4735.txt,magazine_text,4523
@@ -4740,7 +4589,6 @@ Datasets/magazine_raw/mag4737.txt,magazine_text,3710
 Datasets/magazine_raw/mag4738.txt,magazine_text,1066
 Datasets/magazine_raw/mag4739.txt,magazine_text,1975
 Datasets/magazine_raw/mag4740.txt,magazine_text,5459
-Datasets/magazine_raw/mag4741.txt,magazine_text,9659
 Datasets/magazine_raw/mag4742.txt,magazine_text,2880
 Datasets/magazine_raw/mag4743.txt,magazine_text,1358
 Datasets/magazine_raw/mag4744.txt,magazine_text,1117
@@ -4759,7 +4607,6 @@ Datasets/magazine_raw/mag4756.txt,magazine_text,15566
 Datasets/magazine_raw/mag4757.txt,magazine_text,1858
 Datasets/magazine_raw/mag4758.txt,magazine_text,2899
 Datasets/magazine_raw/mag4759.txt,magazine_text,4353
-Datasets/magazine_raw/mag4760.txt,magazine_text,1575
 Datasets/magazine_raw/mag4761.txt,magazine_text,1663
 Datasets/magazine_raw/mag4762.txt,magazine_text,1550
 Datasets/magazine_raw/mag4763.txt,magazine_text,1679
@@ -4773,7 +4620,6 @@ Datasets/magazine_raw/mag4770.txt,magazine_text,1684
 Datasets/magazine_raw/mag4771.txt,magazine_text,2965
 Datasets/magazine_raw/mag4772.txt,magazine_text,15672
 Datasets/magazine_raw/mag4773.txt,magazine_text,4174
-Datasets/magazine_raw/mag4774.txt,magazine_text,6899
 Datasets/magazine_raw/mag4775.txt,magazine_text,2382
 Datasets/magazine_raw/mag4776.txt,magazine_text,13742
 Datasets/magazine_raw/mag4777.txt,magazine_text,3759
@@ -4821,7 +4667,6 @@ Datasets/magazine_raw/mag4818.txt,magazine_text,10951
 Datasets/magazine_raw/mag4819.txt,magazine_text,9956
 Datasets/magazine_raw/mag4820.txt,magazine_text,824
 Datasets/magazine_raw/mag4821.txt,magazine_text,943
-Datasets/magazine_raw/mag4822.txt,magazine_text,1439
 Datasets/magazine_raw/mag4823.txt,magazine_text,2623
 Datasets/magazine_raw/mag4824.txt,magazine_text,2708
 Datasets/magazine_raw/mag4825.txt,magazine_text,4387
@@ -4832,7 +4677,6 @@ Datasets/magazine_raw/mag4829.txt,magazine_text,7055
 Datasets/magazine_raw/mag4830.txt,magazine_text,5878
 Datasets/magazine_raw/mag4831.txt,magazine_text,2407
 Datasets/magazine_raw/mag4832.txt,magazine_text,3000
-Datasets/magazine_raw/mag4833.txt,magazine_text,5370
 Datasets/magazine_raw/mag4834.txt,magazine_text,4825
 Datasets/magazine_raw/mag4835.txt,magazine_text,12835
 Datasets/magazine_raw/mag4836.txt,magazine_text,10100
@@ -4881,8 +4725,6 @@ Datasets/magazine_raw/mag4878.txt,magazine_text,7350
 Datasets/magazine_raw/mag4879.txt,magazine_text,1756
 Datasets/magazine_raw/mag4880.txt,magazine_text,650
 Datasets/magazine_raw/mag4881.txt,magazine_text,9044
-Datasets/magazine_raw/mag4882.txt,magazine_text,9181
-Datasets/magazine_raw/mag4883.txt,magazine_text,1782
 Datasets/magazine_raw/mag4884.txt,magazine_text,2304
 Datasets/magazine_raw/mag4885.txt,magazine_text,2027
 Datasets/magazine_raw/mag4886.txt,magazine_text,7619
@@ -4891,7 +4733,6 @@ Datasets/magazine_raw/mag4888.txt,magazine_text,7903
 Datasets/magazine_raw/mag4889.txt,magazine_text,7160
 Datasets/magazine_raw/mag4890.txt,magazine_text,2454
 Datasets/magazine_raw/mag4891.txt,magazine_text,3264
-Datasets/magazine_raw/mag4892.txt,magazine_text,1035
 Datasets/magazine_raw/mag4893.txt,magazine_text,1784
 Datasets/magazine_raw/mag4894.txt,magazine_text,1226
 Datasets/magazine_raw/mag4895.txt,magazine_text,1821
@@ -4901,7 +4742,6 @@ Datasets/magazine_raw/mag4898.txt,magazine_text,2885
 Datasets/magazine_raw/mag4899.txt,magazine_text,2633
 Datasets/magazine_raw/mag4900.txt,magazine_text,6800
 Datasets/magazine_raw/mag4901.txt,magazine_text,9678
-Datasets/magazine_raw/mag4902.txt,magazine_text,2125
 Datasets/magazine_raw/mag4903.txt,magazine_text,4984
 Datasets/magazine_raw/mag4904.txt,magazine_text,3835
 Datasets/magazine_raw/mag4905.txt,magazine_text,4767
@@ -4956,7 +4796,6 @@ Datasets/magazine_raw/mag4953.txt,magazine_text,11886
 Datasets/magazine_raw/mag4954.txt,magazine_text,3422
 Datasets/magazine_raw/mag4955.txt,magazine_text,5014
 Datasets/magazine_raw/mag4956.txt,magazine_text,23037
-Datasets/magazine_raw/mag4957.txt,magazine_text,2569
 Datasets/magazine_raw/mag4958.txt,magazine_text,1446
 Datasets/magazine_raw/mag4959.txt,magazine_text,7589
 Datasets/magazine_raw/mag4960.txt,magazine_text,7047
@@ -4973,14 +4812,12 @@ Datasets/magazine_raw/mag4970.txt,magazine_text,6166
 Datasets/magazine_raw/mag4971.txt,magazine_text,2944
 Datasets/magazine_raw/mag4972.txt,magazine_text,4936
 Datasets/magazine_raw/mag4973.txt,magazine_text,2396
-Datasets/magazine_raw/mag4974.txt,magazine_text,924
 Datasets/magazine_raw/mag4975.txt,magazine_text,4466
 Datasets/magazine_raw/mag4976.txt,magazine_text,3678
 Datasets/magazine_raw/mag4977.txt,magazine_text,3176
 Datasets/magazine_raw/mag4978.txt,magazine_text,1962
 Datasets/magazine_raw/mag4979.txt,magazine_text,4270
 Datasets/magazine_raw/mag4980.txt,magazine_text,2128
-Datasets/magazine_raw/mag4981.txt,magazine_text,2290
 Datasets/magazine_raw/mag4982.txt,magazine_text,1740
 Datasets/magazine_raw/mag4983.txt,magazine_text,3879
 Datasets/magazine_raw/mag4984.txt,magazine_text,5484
@@ -4996,7 +4833,6 @@ Datasets/magazine_raw/mag4993.txt,magazine_text,3485
 Datasets/magazine_raw/mag4994.txt,magazine_text,5804
 Datasets/magazine_raw/mag4995.txt,magazine_text,3784
 Datasets/magazine_raw/mag4996.txt,magazine_text,6024
-Datasets/magazine_raw/mag4997.txt,magazine_text,1382
 Datasets/magazine_raw/mag4998.txt,magazine_text,4227
 Datasets/magazine_raw/mag4999.txt,magazine_text,9316
 Datasets/magazine_raw/mag5000.txt,magazine_text,4026
@@ -5020,7 +4856,6 @@ Datasets/magazine_raw/mag5017.txt,magazine_text,4879
 Datasets/magazine_raw/mag5018.txt,magazine_text,6201
 Datasets/magazine_raw/mag5019.txt,magazine_text,5326
 Datasets/magazine_raw/mag5020.txt,magazine_text,3527
-Datasets/magazine_raw/mag5021.txt,magazine_text,1140
 Datasets/magazine_raw/mag5022.txt,magazine_text,3008
 Datasets/magazine_raw/mag5023.txt,magazine_text,1804
 Datasets/magazine_raw/mag5024.txt,magazine_text,3287
@@ -5033,12 +4868,10 @@ Datasets/magazine_raw/mag5030.txt,magazine_text,4539
 Datasets/magazine_raw/mag5031.txt,magazine_text,4756
 Datasets/magazine_raw/mag5032.txt,magazine_text,2947
 Datasets/magazine_raw/mag5033.txt,magazine_text,1463
-Datasets/magazine_raw/mag5034.txt,magazine_text,2641
 Datasets/magazine_raw/mag5035.txt,magazine_text,1295
 Datasets/magazine_raw/mag5036.txt,magazine_text,4915
 Datasets/magazine_raw/mag5037.txt,magazine_text,3579
 Datasets/magazine_raw/mag5038.txt,magazine_text,961
-Datasets/magazine_raw/mag5039.txt,magazine_text,1265
 Datasets/magazine_raw/mag5040.txt,magazine_text,7604
 Datasets/magazine_raw/mag5041.txt,magazine_text,18142
 Datasets/magazine_raw/mag5042.txt,magazine_text,6896
@@ -5081,7 +4914,6 @@ Datasets/magazine_raw/mag5078.txt,magazine_text,1746
 Datasets/magazine_raw/mag5079.txt,magazine_text,2196
 Datasets/magazine_raw/mag5080.txt,magazine_text,2083
 Datasets/magazine_raw/mag5081.txt,magazine_text,10366
-Datasets/magazine_raw/mag5082.txt,magazine_text,1423
 Datasets/magazine_raw/mag5083.txt,magazine_text,12375
 Datasets/magazine_raw/mag5084.txt,magazine_text,4514
 Datasets/magazine_raw/mag5085.txt,magazine_text,4127
@@ -5096,13 +4928,11 @@ Datasets/magazine_raw/mag5093.txt,magazine_text,12091
 Datasets/magazine_raw/mag5094.txt,magazine_text,3101
 Datasets/magazine_raw/mag5095.txt,magazine_text,7080
 Datasets/magazine_raw/mag5096.txt,magazine_text,6374
-Datasets/magazine_raw/mag5097.txt,magazine_text,2188
 Datasets/magazine_raw/mag5098.txt,magazine_text,16020
 Datasets/magazine_raw/mag5099.txt,magazine_text,2739
 Datasets/magazine_raw/mag5100.txt,magazine_text,1610
 Datasets/magazine_raw/mag5101.txt,magazine_text,4600
 Datasets/magazine_raw/mag5102.txt,magazine_text,7852
-Datasets/magazine_raw/mag5103.txt,magazine_text,1992
 Datasets/magazine_raw/mag5104.txt,magazine_text,2316
 Datasets/magazine_raw/mag5105.txt,magazine_text,1900
 Datasets/magazine_raw/mag5106.txt,magazine_text,8499
@@ -5110,7 +4940,6 @@ Datasets/magazine_raw/mag5107.txt,magazine_text,4093
 Datasets/magazine_raw/mag5108.txt,magazine_text,2995
 Datasets/magazine_raw/mag5109.txt,magazine_text,7578
 Datasets/magazine_raw/mag5110.txt,magazine_text,2491
-Datasets/magazine_raw/mag5111.txt,magazine_text,2092
 Datasets/magazine_raw/mag5112.txt,magazine_text,6923
 Datasets/magazine_raw/mag5113.txt,magazine_text,736
 Datasets/magazine_raw/mag5114.txt,magazine_text,3719
@@ -5130,7 +4959,6 @@ Datasets/magazine_raw/mag5127.txt,magazine_text,4180
 Datasets/magazine_raw/mag5128.txt,magazine_text,1157
 Datasets/magazine_raw/mag5129.txt,magazine_text,7026
 Datasets/magazine_raw/mag5130.txt,magazine_text,9569
-Datasets/magazine_raw/mag5131.txt,magazine_text,5326
 Datasets/magazine_raw/mag5132.txt,magazine_text,1910
 Datasets/magazine_raw/mag5133.txt,magazine_text,2897
 Datasets/magazine_raw/mag5134.txt,magazine_text,1767
@@ -5139,7 +4967,6 @@ Datasets/magazine_raw/mag5136.txt,magazine_text,1374
 Datasets/magazine_raw/mag5137.txt,magazine_text,4934
 Datasets/magazine_raw/mag5138.txt,magazine_text,3629
 Datasets/magazine_raw/mag5139.txt,magazine_text,4163
-Datasets/magazine_raw/mag5140.txt,magazine_text,1629
 Datasets/magazine_raw/mag5141.txt,magazine_text,1931
 Datasets/magazine_raw/mag5142.txt,magazine_text,4295
 Datasets/magazine_raw/mag5143.txt,magazine_text,4580
@@ -5187,7 +5014,6 @@ Datasets/magazine_raw/mag5184.txt,magazine_text,2231
 Datasets/magazine_raw/mag5185.txt,magazine_text,11061
 Datasets/magazine_raw/mag5186.txt,magazine_text,3829
 Datasets/magazine_raw/mag5187.txt,magazine_text,2102
-Datasets/magazine_raw/mag5188.txt,magazine_text,1553
 Datasets/magazine_raw/mag5189.txt,magazine_text,11255
 Datasets/magazine_raw/mag5190.txt,magazine_text,3188
 Datasets/magazine_raw/mag5191.txt,magazine_text,6988
@@ -5199,7 +5025,6 @@ Datasets/magazine_raw/mag5196.txt,magazine_text,3328
 Datasets/magazine_raw/mag5197.txt,magazine_text,4175
 Datasets/magazine_raw/mag5198.txt,magazine_text,4308
 Datasets/magazine_raw/mag5199.txt,magazine_text,7191
-Datasets/magazine_raw/mag5200.txt,magazine_text,5157
 Datasets/magazine_raw/mag5201.txt,magazine_text,5967
 Datasets/magazine_raw/mag5202.txt,magazine_text,3279
 Datasets/magazine_raw/mag5203.txt,magazine_text,2038
@@ -5213,7 +5038,6 @@ Datasets/magazine_raw/mag5210.txt,magazine_text,9730
 Datasets/magazine_raw/mag5211.txt,magazine_text,1644
 Datasets/magazine_raw/mag5212.txt,magazine_text,8607
 Datasets/magazine_raw/mag5213.txt,magazine_text,3178
-Datasets/magazine_raw/mag5214.txt,magazine_text,1362
 Datasets/magazine_raw/mag5215.txt,magazine_text,5023
 Datasets/magazine_raw/mag5216.txt,magazine_text,6359
 Datasets/magazine_raw/mag5217.txt,magazine_text,3165
@@ -5224,15 +5048,12 @@ Datasets/magazine_raw/mag5221.txt,magazine_text,2239
 Datasets/magazine_raw/mag5222.txt,magazine_text,4659
 Datasets/magazine_raw/mag5223.txt,magazine_text,6116
 Datasets/magazine_raw/mag5224.txt,magazine_text,11034
-Datasets/magazine_raw/mag5225.txt,magazine_text,4122
 Datasets/magazine_raw/mag5226.txt,magazine_text,2768
 Datasets/magazine_raw/mag5227.txt,magazine_text,3050
 Datasets/magazine_raw/mag5228.txt,magazine_text,2340
 Datasets/magazine_raw/mag5229.txt,magazine_text,3694
 Datasets/magazine_raw/mag5230.txt,magazine_text,1549
 Datasets/magazine_raw/mag5231.txt,magazine_text,4755
-Datasets/magazine_raw/mag5232.txt,magazine_text,1965
-Datasets/magazine_raw/mag5233.txt,magazine_text,11662
 Datasets/magazine_raw/mag5234.txt,magazine_text,2846
 Datasets/magazine_raw/mag5235.txt,magazine_text,2337
 Datasets/magazine_raw/mag5236.txt,magazine_text,2452
@@ -5254,7 +5075,6 @@ Datasets/magazine_raw/mag5251.txt,magazine_text,3033
 Datasets/magazine_raw/mag5252.txt,magazine_text,4159
 Datasets/magazine_raw/mag5253.txt,magazine_text,7528
 Datasets/magazine_raw/mag5254.txt,magazine_text,10696
-Datasets/magazine_raw/mag5255.txt,magazine_text,3291
 Datasets/magazine_raw/mag5256.txt,magazine_text,29973
 Datasets/magazine_raw/mag5257.txt,magazine_text,2430
 Datasets/magazine_raw/mag5258.txt,magazine_text,3955
@@ -5280,7 +5100,6 @@ Datasets/magazine_raw/mag5277.txt,magazine_text,6065
 Datasets/magazine_raw/mag5278.txt,magazine_text,3705
 Datasets/magazine_raw/mag5279.txt,magazine_text,1550
 Datasets/magazine_raw/mag5280.txt,magazine_text,768
-Datasets/magazine_raw/mag5281.txt,magazine_text,2504
 Datasets/magazine_raw/mag5282.txt,magazine_text,2703
 Datasets/magazine_raw/mag5283.txt,magazine_text,3979
 Datasets/magazine_raw/mag5284.txt,magazine_text,5697
@@ -5302,7 +5121,6 @@ Datasets/magazine_raw/mag5299.txt,magazine_text,4885
 Datasets/magazine_raw/mag5300.txt,magazine_text,1342
 Datasets/magazine_raw/mag5301.txt,magazine_text,1763
 Datasets/magazine_raw/mag5302.txt,magazine_text,1267
-Datasets/magazine_raw/mag5303.txt,magazine_text,2739
 Datasets/magazine_raw/mag5304.txt,magazine_text,2945
 Datasets/magazine_raw/mag5305.txt,magazine_text,2600
 Datasets/magazine_raw/mag5306.txt,magazine_text,2464
@@ -5310,10 +5128,8 @@ Datasets/magazine_raw/mag5307.txt,magazine_text,2475
 Datasets/magazine_raw/mag5308.txt,magazine_text,5047
 Datasets/magazine_raw/mag5309.txt,magazine_text,7098
 Datasets/magazine_raw/mag5310.txt,magazine_text,2280
-Datasets/magazine_raw/mag5311.txt,magazine_text,6419
 Datasets/magazine_raw/mag5312.txt,magazine_text,3293
 Datasets/magazine_raw/mag5313.txt,magazine_text,3922
-Datasets/magazine_raw/mag5314.txt,magazine_text,848
 Datasets/magazine_raw/mag5315.txt,magazine_text,3063
 Datasets/magazine_raw/mag5316.txt,magazine_text,3308
 Datasets/magazine_raw/mag5317.txt,magazine_text,5625
@@ -5353,7 +5169,6 @@ Datasets/magazine_raw/mag5350.txt,magazine_text,4479
 Datasets/magazine_raw/mag5351.txt,magazine_text,4218
 Datasets/magazine_raw/mag5352.txt,magazine_text,3214
 Datasets/magazine_raw/mag5353.txt,magazine_text,1803
-Datasets/magazine_raw/mag5354.txt,magazine_text,2012
 Datasets/magazine_raw/mag5355.txt,magazine_text,8895
 Datasets/magazine_raw/mag5356.txt,magazine_text,2436
 Datasets/magazine_raw/mag5357.txt,magazine_text,4782
@@ -5362,7 +5177,6 @@ Datasets/magazine_raw/mag5359.txt,magazine_text,4642
 Datasets/magazine_raw/mag5360.txt,magazine_text,2303
 Datasets/magazine_raw/mag5361.txt,magazine_text,6616
 Datasets/magazine_raw/mag5362.txt,magazine_text,3858
-Datasets/magazine_raw/mag5363.txt,magazine_text,1878
 Datasets/magazine_raw/mag5364.txt,magazine_text,6213
 Datasets/magazine_raw/mag5365.txt,magazine_text,4241
 Datasets/magazine_raw/mag5366.txt,magazine_text,2098
@@ -5370,20 +5184,17 @@ Datasets/magazine_raw/mag5367.txt,magazine_text,11305
 Datasets/magazine_raw/mag5368.txt,magazine_text,1112
 Datasets/magazine_raw/mag5369.txt,magazine_text,7914
 Datasets/magazine_raw/mag5370.txt,magazine_text,8932
-Datasets/magazine_raw/mag5371.txt,magazine_text,1305
 Datasets/magazine_raw/mag5372.txt,magazine_text,3703
 Datasets/magazine_raw/mag5373.txt,magazine_text,3664
 Datasets/magazine_raw/mag5374.txt,magazine_text,1020
 Datasets/magazine_raw/mag5375.txt,magazine_text,1214
 Datasets/magazine_raw/mag5376.txt,magazine_text,1336
 Datasets/magazine_raw/mag5377.txt,magazine_text,4933
-Datasets/magazine_raw/mag5378.txt,magazine_text,1827
 Datasets/magazine_raw/mag5379.txt,magazine_text,1918
 Datasets/magazine_raw/mag5380.txt,magazine_text,2166
 Datasets/magazine_raw/mag5381.txt,magazine_text,3488
 Datasets/magazine_raw/mag5382.txt,magazine_text,6502
 Datasets/magazine_raw/mag5383.txt,magazine_text,14759
-Datasets/magazine_raw/mag5384.txt,magazine_text,2173
 Datasets/magazine_raw/mag5385.txt,magazine_text,3260
 Datasets/magazine_raw/mag5386.txt,magazine_text,1515
 Datasets/magazine_raw/mag5387.txt,magazine_text,1751
@@ -5392,16 +5203,13 @@ Datasets/magazine_raw/mag5389.txt,magazine_text,4218
 Datasets/magazine_raw/mag5390.txt,magazine_text,2827
 Datasets/magazine_raw/mag5391.txt,magazine_text,2427
 Datasets/magazine_raw/mag5392.txt,magazine_text,2472
-Datasets/magazine_raw/mag5393.txt,magazine_text,2557
 Datasets/magazine_raw/mag5394.txt,magazine_text,942
 Datasets/magazine_raw/mag5395.txt,magazine_text,1105
 Datasets/magazine_raw/mag5396.txt,magazine_text,6580
-Datasets/magazine_raw/mag5397.txt,magazine_text,7626
 Datasets/magazine_raw/mag5398.txt,magazine_text,19827
 Datasets/magazine_raw/mag5399.txt,magazine_text,6962
 Datasets/magazine_raw/mag5400.txt,magazine_text,33147
 Datasets/magazine_raw/mag5401.txt,magazine_text,2333
-Datasets/magazine_raw/mag5402.txt,magazine_text,1622
 Datasets/magazine_raw/mag5403.txt,magazine_text,3374
 Datasets/magazine_raw/mag5404.txt,magazine_text,6768
 Datasets/magazine_raw/mag5405.txt,magazine_text,1298
@@ -5414,7 +5222,6 @@ Datasets/magazine_raw/mag5411.txt,magazine_text,2065
 Datasets/magazine_raw/mag5412.txt,magazine_text,1464
 Datasets/magazine_raw/mag5413.txt,magazine_text,1336
 Datasets/magazine_raw/mag5414.txt,magazine_text,3219
-Datasets/magazine_raw/mag5415.txt,magazine_text,1546
 Datasets/magazine_raw/mag5416.txt,magazine_text,3501
 Datasets/magazine_raw/mag5417.txt,magazine_text,1958
 Datasets/magazine_raw/mag5418.txt,magazine_text,2331
@@ -5423,7 +5230,6 @@ Datasets/magazine_raw/mag5420.txt,magazine_text,2052
 Datasets/magazine_raw/mag5421.txt,magazine_text,4102
 Datasets/magazine_raw/mag5422.txt,magazine_text,4409
 Datasets/magazine_raw/mag5423.txt,magazine_text,3033
-Datasets/magazine_raw/mag5424.txt,magazine_text,1498
 Datasets/magazine_raw/mag5425.txt,magazine_text,1200
 Datasets/magazine_raw/mag5426.txt,magazine_text,3350
 Datasets/magazine_raw/mag5427.txt,magazine_text,1773
@@ -5439,9 +5245,7 @@ Datasets/magazine_raw/mag5436.txt,magazine_text,2157
 Datasets/magazine_raw/mag5437.txt,magazine_text,3266
 Datasets/magazine_raw/mag5438.txt,magazine_text,6781
 Datasets/magazine_raw/mag5439.txt,magazine_text,899
-Datasets/magazine_raw/mag5440.txt,magazine_text,6826
 Datasets/magazine_raw/mag5441.txt,magazine_text,13808
-Datasets/magazine_raw/mag5442.txt,magazine_text,3558
 Datasets/magazine_raw/mag5443.txt,magazine_text,14805
 Datasets/magazine_raw/mag5444.txt,magazine_text,6398
 Datasets/magazine_raw/mag5445.txt,magazine_text,1923
@@ -5456,11 +5260,9 @@ Datasets/magazine_raw/mag5453.txt,magazine_text,1248
 Datasets/magazine_raw/mag5454.txt,magazine_text,1155
 Datasets/magazine_raw/mag5455.txt,magazine_text,5931
 Datasets/magazine_raw/mag5456.txt,magazine_text,1238
-Datasets/magazine_raw/mag5457.txt,magazine_text,6276
 Datasets/magazine_raw/mag5458.txt,magazine_text,1039
 Datasets/magazine_raw/mag5459.txt,magazine_text,14887
 Datasets/magazine_raw/mag5460.txt,magazine_text,7058
-Datasets/magazine_raw/mag5461.txt,magazine_text,1551
 Datasets/magazine_raw/mag5462.txt,magazine_text,2765
 Datasets/magazine_raw/mag5463.txt,magazine_text,8997
 Datasets/magazine_raw/mag5464.txt,magazine_text,1820
@@ -5487,7 +5289,6 @@ Datasets/magazine_raw/mag5484.txt,magazine_text,10559
 Datasets/magazine_raw/mag5485.txt,magazine_text,3596
 Datasets/magazine_raw/mag5486.txt,magazine_text,4704
 Datasets/magazine_raw/mag5487.txt,magazine_text,3851
-Datasets/magazine_raw/mag5488.txt,magazine_text,3783
 Datasets/magazine_raw/mag5489.txt,magazine_text,1919
 Datasets/magazine_raw/mag5490.txt,magazine_text,15213
 Datasets/magazine_raw/mag5491.txt,magazine_text,1055
@@ -5500,12 +5301,10 @@ Datasets/magazine_raw/mag5497.txt,magazine_text,1758
 Datasets/magazine_raw/mag5498.txt,magazine_text,5213
 Datasets/magazine_raw/mag5499.txt,magazine_text,3775
 Datasets/magazine_raw/mag5500.txt,magazine_text,3975
-Datasets/magazine_raw/mag5501.txt,magazine_text,2176
 Datasets/magazine_raw/mag5502.txt,magazine_text,35336
 Datasets/magazine_raw/mag5503.txt,magazine_text,2551
 Datasets/magazine_raw/mag5504.txt,magazine_text,3072
 Datasets/magazine_raw/mag5505.txt,magazine_text,1555
-Datasets/magazine_raw/mag5506.txt,magazine_text,4307
 Datasets/magazine_raw/mag5507.txt,magazine_text,4585
 Datasets/magazine_raw/mag5508.txt,magazine_text,3831
 Datasets/magazine_raw/mag5509.txt,magazine_text,7425
@@ -5515,7 +5314,6 @@ Datasets/magazine_raw/mag5512.txt,magazine_text,6526
 Datasets/magazine_raw/mag5513.txt,magazine_text,3437
 Datasets/magazine_raw/mag5514.txt,magazine_text,895
 Datasets/magazine_raw/mag5515.txt,magazine_text,5363
-Datasets/magazine_raw/mag5516.txt,magazine_text,4951
 Datasets/magazine_raw/mag5517.txt,magazine_text,447
 Datasets/magazine_raw/mag5518.txt,magazine_text,1831
 Datasets/magazine_raw/mag5519.txt,magazine_text,2663
@@ -5537,7 +5335,6 @@ Datasets/magazine_raw/mag5534.txt,magazine_text,1779
 Datasets/magazine_raw/mag5535.txt,magazine_text,1430
 Datasets/magazine_raw/mag5536.txt,magazine_text,971
 Datasets/magazine_raw/mag5537.txt,magazine_text,15820
-Datasets/magazine_raw/mag5538.txt,magazine_text,3294
 Datasets/magazine_raw/mag5539.txt,magazine_text,1800
 Datasets/magazine_raw/mag5540.txt,magazine_text,1900
 Datasets/magazine_raw/mag5541.txt,magazine_text,2965
@@ -5552,7 +5349,6 @@ Datasets/magazine_raw/mag5549.txt,magazine_text,3051
 Datasets/magazine_raw/mag5550.txt,magazine_text,13182
 Datasets/magazine_raw/mag5551.txt,magazine_text,3191
 Datasets/magazine_raw/mag5552.txt,magazine_text,3016
-Datasets/magazine_raw/mag5553.txt,magazine_text,6246
 Datasets/magazine_raw/mag5554.txt,magazine_text,2733
 Datasets/magazine_raw/mag5555.txt,magazine_text,701
 Datasets/magazine_raw/mag5556.txt,magazine_text,5944
@@ -5561,7 +5357,6 @@ Datasets/magazine_raw/mag5558.txt,magazine_text,1913
 Datasets/magazine_raw/mag5559.txt,magazine_text,3297
 Datasets/magazine_raw/mag5560.txt,magazine_text,14001
 Datasets/magazine_raw/mag5561.txt,magazine_text,2656
-Datasets/magazine_raw/mag5562.txt,magazine_text,1313
 Datasets/magazine_raw/mag5563.txt,magazine_text,6099
 Datasets/magazine_raw/mag5564.txt,magazine_text,1505
 Datasets/magazine_raw/mag5565.txt,magazine_text,3781
@@ -5576,8 +5371,6 @@ Datasets/magazine_raw/mag5573.txt,magazine_text,873
 Datasets/magazine_raw/mag5574.txt,magazine_text,3884
 Datasets/magazine_raw/mag5575.txt,magazine_text,10261
 Datasets/magazine_raw/mag5576.txt,magazine_text,2188
-Datasets/magazine_raw/mag5577.txt,magazine_text,5922
-Datasets/magazine_raw/mag5578.txt,magazine_text,1825
 Datasets/magazine_raw/mag5579.txt,magazine_text,7549
 Datasets/magazine_raw/mag5580.txt,magazine_text,3172
 Datasets/magazine_raw/mag5581.txt,magazine_text,2404
@@ -5594,13 +5387,11 @@ Datasets/magazine_raw/mag5591.txt,magazine_text,9297
 Datasets/magazine_raw/mag5592.txt,magazine_text,6665
 Datasets/magazine_raw/mag5593.txt,magazine_text,2548
 Datasets/magazine_raw/mag5594.txt,magazine_text,1048
-Datasets/magazine_raw/mag5595.txt,magazine_text,976
 Datasets/magazine_raw/mag5596.txt,magazine_text,1659
 Datasets/magazine_raw/mag5597.txt,magazine_text,989
 Datasets/magazine_raw/mag5598.txt,magazine_text,2578
 Datasets/magazine_raw/mag5599.txt,magazine_text,6228
 Datasets/magazine_raw/mag5600.txt,magazine_text,2540
-Datasets/magazine_raw/mag5601.txt,magazine_text,2375
 Datasets/magazine_raw/mag5602.txt,magazine_text,753
 Datasets/magazine_raw/mag5603.txt,magazine_text,2844
 Datasets/magazine_raw/mag5604.txt,magazine_text,3365
@@ -5626,7 +5417,6 @@ Datasets/magazine_raw/mag5623.txt,magazine_text,3519
 Datasets/magazine_raw/mag5624.txt,magazine_text,3194
 Datasets/magazine_raw/mag5625.txt,magazine_text,2330
 Datasets/magazine_raw/mag5626.txt,magazine_text,2582
-Datasets/magazine_raw/mag5627.txt,magazine_text,4904
 Datasets/magazine_raw/mag5628.txt,magazine_text,4573
 Datasets/magazine_raw/mag5629.txt,magazine_text,8930
 Datasets/magazine_raw/mag5630.txt,magazine_text,3055
@@ -5661,8 +5451,6 @@ Datasets/magazine_raw/mag5658.txt,magazine_text,1626
 Datasets/magazine_raw/mag5659.txt,magazine_text,12635
 Datasets/magazine_raw/mag5660.txt,magazine_text,1581
 Datasets/magazine_raw/mag5661.txt,magazine_text,7448
-Datasets/magazine_raw/mag5662.txt,magazine_text,1959
-Datasets/magazine_raw/mag5663.txt,magazine_text,1528
 Datasets/magazine_raw/mag5664.txt,magazine_text,1181
 Datasets/magazine_raw/mag5665.txt,magazine_text,17086
 Datasets/magazine_raw/mag5666.txt,magazine_text,12973
@@ -5671,7 +5459,6 @@ Datasets/magazine_raw/mag5668.txt,magazine_text,4692
 Datasets/magazine_raw/mag5669.txt,magazine_text,20419
 Datasets/magazine_raw/mag5670.txt,magazine_text,2878
 Datasets/magazine_raw/mag5671.txt,magazine_text,2176
-Datasets/magazine_raw/mag5672.txt,magazine_text,4032
 Datasets/magazine_raw/mag5673.txt,magazine_text,4429
 Datasets/magazine_raw/mag5674.txt,magazine_text,6961
 Datasets/magazine_raw/mag5675.txt,magazine_text,1140
@@ -5689,7 +5476,6 @@ Datasets/magazine_raw/mag5686.txt,magazine_text,6766
 Datasets/magazine_raw/mag5687.txt,magazine_text,8652
 Datasets/magazine_raw/mag5688.txt,magazine_text,1268
 Datasets/magazine_raw/mag5689.txt,magazine_text,5043
-Datasets/magazine_raw/mag5690.txt,magazine_text,2434
 Datasets/magazine_raw/mag5691.txt,magazine_text,1401
 Datasets/magazine_raw/mag5692.txt,magazine_text,2339
 Datasets/magazine_raw/mag5693.txt,magazine_text,9616
@@ -5719,7 +5505,6 @@ Datasets/magazine_raw/mag5716.txt,magazine_text,390
 Datasets/magazine_raw/mag5717.txt,magazine_text,7302
 Datasets/magazine_raw/mag5718.txt,magazine_text,2961
 Datasets/magazine_raw/mag5719.txt,magazine_text,8214
-Datasets/magazine_raw/mag5720.txt,magazine_text,1198
 Datasets/magazine_raw/mag5721.txt,magazine_text,2034
 Datasets/magazine_raw/mag5722.txt,magazine_text,5316
 Datasets/magazine_raw/mag5723.txt,magazine_text,2390
@@ -5750,22 +5535,18 @@ Datasets/magazine_raw/mag5747.txt,magazine_text,2007
 Datasets/magazine_raw/mag5748.txt,magazine_text,1210
 Datasets/magazine_raw/mag5749.txt,magazine_text,2255
 Datasets/magazine_raw/mag5750.txt,magazine_text,653
-Datasets/magazine_raw/mag5751.txt,magazine_text,3611
 Datasets/magazine_raw/mag5752.txt,magazine_text,3531
 Datasets/magazine_raw/mag5753.txt,magazine_text,1040
 Datasets/magazine_raw/mag5754.txt,magazine_text,3561
 Datasets/magazine_raw/mag5755.txt,magazine_text,1311
-Datasets/magazine_raw/mag5756.txt,magazine_text,3041
 Datasets/magazine_raw/mag5757.txt,magazine_text,5173
 Datasets/magazine_raw/mag5758.txt,magazine_text,8753
 Datasets/magazine_raw/mag5759.txt,magazine_text,4607
 Datasets/magazine_raw/mag5760.txt,magazine_text,4466
-Datasets/magazine_raw/mag5761.txt,magazine_text,5954
 Datasets/magazine_raw/mag5762.txt,magazine_text,5725
 Datasets/magazine_raw/mag5763.txt,magazine_text,4013
 Datasets/magazine_raw/mag5764.txt,magazine_text,14165
 Datasets/magazine_raw/mag5765.txt,magazine_text,5411
-Datasets/magazine_raw/mag5766.txt,magazine_text,965
 Datasets/magazine_raw/mag5767.txt,magazine_text,4012
 Datasets/magazine_raw/mag5768.txt,magazine_text,5815
 Datasets/magazine_raw/mag5769.txt,magazine_text,4684
@@ -5805,7 +5586,6 @@ Datasets/magazine_raw/mag5802.txt,magazine_text,4507
 Datasets/magazine_raw/mag5803.txt,magazine_text,5440
 Datasets/magazine_raw/mag5804.txt,magazine_text,2031
 Datasets/magazine_raw/mag5805.txt,magazine_text,3979
-Datasets/magazine_raw/mag5806.txt,magazine_text,1973
 Datasets/magazine_raw/mag5807.txt,magazine_text,4598
 Datasets/magazine_raw/mag5808.txt,magazine_text,3417
 Datasets/magazine_raw/mag5809.txt,magazine_text,3793
@@ -5828,7 +5608,6 @@ Datasets/magazine_raw/mag5825.txt,magazine_text,3393
 Datasets/magazine_raw/mag5826.txt,magazine_text,2858
 Datasets/magazine_raw/mag5827.txt,magazine_text,2224
 Datasets/magazine_raw/mag5828.txt,magazine_text,3972
-Datasets/magazine_raw/mag5829.txt,magazine_text,7800
 Datasets/magazine_raw/mag5830.txt,magazine_text,3173
 Datasets/magazine_raw/mag5831.txt,magazine_text,7103
 Datasets/magazine_raw/mag5832.txt,magazine_text,947
@@ -5851,12 +5630,9 @@ Datasets/magazine_raw/mag5848.txt,magazine_text,3786
 Datasets/magazine_raw/mag5849.txt,magazine_text,8776
 Datasets/magazine_raw/mag5850.txt,magazine_text,5770
 Datasets/magazine_raw/mag5851.txt,magazine_text,8396
-Datasets/magazine_raw/mag5852.txt,magazine_text,1338
 Datasets/magazine_raw/mag5853.txt,magazine_text,6220
 Datasets/magazine_raw/mag5854.txt,magazine_text,15550
-Datasets/magazine_raw/mag5855.txt,magazine_text,3863
 Datasets/magazine_raw/mag5856.txt,magazine_text,1624
-Datasets/magazine_raw/mag5857.txt,magazine_text,1932
 Datasets/magazine_raw/mag5858.txt,magazine_text,5725
 Datasets/magazine_raw/mag5859.txt,magazine_text,2727
 Datasets/magazine_raw/mag5860.txt,magazine_text,4201
@@ -5866,7 +5642,6 @@ Datasets/magazine_raw/mag5863.txt,magazine_text,8183
 Datasets/magazine_raw/mag5864.txt,magazine_text,2345
 Datasets/magazine_raw/mag5865.txt,magazine_text,3289
 Datasets/magazine_raw/mag5866.txt,magazine_text,3279
-Datasets/magazine_raw/mag5867.txt,magazine_text,5762
 Datasets/magazine_raw/mag5868.txt,magazine_text,730
 Datasets/magazine_raw/mag5869.txt,magazine_text,1453
 Datasets/magazine_raw/mag5870.txt,magazine_text,6197
@@ -5884,13 +5659,11 @@ Datasets/magazine_raw/mag5881.txt,magazine_text,8381
 Datasets/magazine_raw/mag5882.txt,magazine_text,948
 Datasets/magazine_raw/mag5883.txt,magazine_text,3090
 Datasets/magazine_raw/mag5884.txt,magazine_text,3090
-Datasets/magazine_raw/mag5885.txt,magazine_text,3058
 Datasets/magazine_raw/mag5886.txt,magazine_text,9054
 Datasets/magazine_raw/mag5887.txt,magazine_text,6992
 Datasets/magazine_raw/mag5888.txt,magazine_text,5445
 Datasets/magazine_raw/mag5889.txt,magazine_text,7082
 Datasets/magazine_raw/mag5890.txt,magazine_text,6442
-Datasets/magazine_raw/mag5891.txt,magazine_text,1679
 Datasets/magazine_raw/mag5892.txt,magazine_text,2910
 Datasets/magazine_raw/mag5893.txt,magazine_text,4107
 Datasets/magazine_raw/mag5894.txt,magazine_text,4108
@@ -5936,7 +5709,6 @@ Datasets/magazine_raw/mag5933.txt,magazine_text,3576
 Datasets/magazine_raw/mag5934.txt,magazine_text,1360
 Datasets/magazine_raw/mag5935.txt,magazine_text,12525
 Datasets/magazine_raw/mag5936.txt,magazine_text,1668
-Datasets/magazine_raw/mag5937.txt,magazine_text,2390
 Datasets/magazine_raw/mag5938.txt,magazine_text,1578
 Datasets/magazine_raw/mag5939.txt,magazine_text,12336
 Datasets/magazine_raw/mag5940.txt,magazine_text,815
@@ -6024,7 +5796,6 @@ Datasets/magazine_raw/mag6021.txt,magazine_text,8757
 Datasets/magazine_raw/mag6022.txt,magazine_text,6795
 Datasets/magazine_raw/mag6023.txt,magazine_text,2847
 Datasets/magazine_raw/mag6024.txt,magazine_text,3912
-Datasets/magazine_raw/mag6025.txt,magazine_text,3339
 Datasets/magazine_raw/mag6026.txt,magazine_text,5454
 Datasets/magazine_raw/mag6027.txt,magazine_text,2872
 Datasets/magazine_raw/mag6028.txt,magazine_text,2466
@@ -6042,7 +5813,6 @@ Datasets/magazine_raw/mag6039.txt,magazine_text,4622
 Datasets/magazine_raw/mag6040.txt,magazine_text,4095
 Datasets/magazine_raw/mag6041.txt,magazine_text,1176
 Datasets/magazine_raw/mag6042.txt,magazine_text,7256
-Datasets/magazine_raw/mag6043.txt,magazine_text,1381
 Datasets/magazine_raw/mag6044.txt,magazine_text,7989
 Datasets/magazine_raw/mag6045.txt,magazine_text,4786
 Datasets/magazine_raw/mag6046.txt,magazine_text,2440
@@ -6050,7 +5820,6 @@ Datasets/magazine_raw/mag6047.txt,magazine_text,7314
 Datasets/magazine_raw/mag6048.txt,magazine_text,2033
 Datasets/magazine_raw/mag6049.txt,magazine_text,902
 Datasets/magazine_raw/mag6050.txt,magazine_text,6357
-Datasets/magazine_raw/mag6051.txt,magazine_text,1387
 Datasets/magazine_raw/mag6052.txt,magazine_text,5556
 Datasets/magazine_raw/mag6053.txt,magazine_text,2042
 Datasets/magazine_raw/mag6054.txt,magazine_text,2176
@@ -6072,7 +5841,6 @@ Datasets/magazine_raw/mag6069.txt,magazine_text,15462
 Datasets/magazine_raw/mag6070.txt,magazine_text,5647
 Datasets/magazine_raw/mag6071.txt,magazine_text,2151
 Datasets/magazine_raw/mag6072.txt,magazine_text,921
-Datasets/magazine_raw/mag6073.txt,magazine_text,736
 Datasets/magazine_raw/mag6074.txt,magazine_text,4310
 Datasets/magazine_raw/mag6075.txt,magazine_text,3817
 Datasets/magazine_raw/mag6076.txt,magazine_text,4662
@@ -6090,7 +5858,6 @@ Datasets/magazine_raw/mag6087.txt,magazine_text,1803
 Datasets/magazine_raw/mag6088.txt,magazine_text,2555
 Datasets/magazine_raw/mag6089.txt,magazine_text,1354
 Datasets/magazine_raw/mag6090.txt,magazine_text,739
-Datasets/magazine_raw/mag6091.txt,magazine_text,866
 Datasets/magazine_raw/mag6092.txt,magazine_text,1625
 Datasets/magazine_raw/mag6093.txt,magazine_text,639
 Datasets/magazine_raw/mag6094.txt,magazine_text,4238
@@ -6143,16 +5910,13 @@ Datasets/magazine_raw/mag6140.txt,magazine_text,4259
 Datasets/magazine_raw/mag6141.txt,magazine_text,1513
 Datasets/magazine_raw/mag6142.txt,magazine_text,1462
 Datasets/magazine_raw/mag6143.txt,magazine_text,4981
-Datasets/magazine_raw/mag6144.txt,magazine_text,2320
 Datasets/magazine_raw/mag6145.txt,magazine_text,5257
 Datasets/magazine_raw/mag6146.txt,magazine_text,4443
 Datasets/magazine_raw/mag6147.txt,magazine_text,3999
-Datasets/magazine_raw/mag6148.txt,magazine_text,1247
 Datasets/magazine_raw/mag6149.txt,magazine_text,3700
 Datasets/magazine_raw/mag6150.txt,magazine_text,756
 Datasets/magazine_raw/mag6151.txt,magazine_text,695
 Datasets/magazine_raw/mag6152.txt,magazine_text,7580
-Datasets/magazine_raw/mag6153.txt,magazine_text,19229
 Datasets/magazine_raw/mag6154.txt,magazine_text,13516
 Datasets/magazine_raw/mag6155.txt,magazine_text,6178
 Datasets/magazine_raw/mag6156.txt,magazine_text,1352
@@ -6183,7 +5947,6 @@ Datasets/magazine_raw/mag6180.txt,magazine_text,8906
 Datasets/magazine_raw/mag6181.txt,magazine_text,5223
 Datasets/magazine_raw/mag6182.txt,magazine_text,6126
 Datasets/magazine_raw/mag6183.txt,magazine_text,1174
-Datasets/magazine_raw/mag6184.txt,magazine_text,1558
 Datasets/magazine_raw/mag6185.txt,magazine_text,4434
 Datasets/magazine_raw/mag6186.txt,magazine_text,8826
 Datasets/magazine_raw/mag6187.txt,magazine_text,3011
@@ -6192,7 +5955,6 @@ Datasets/magazine_raw/mag6189.txt,magazine_text,3208
 Datasets/magazine_raw/mag6190.txt,magazine_text,3412
 Datasets/magazine_raw/mag6191.txt,magazine_text,15522
 Datasets/magazine_raw/mag6192.txt,magazine_text,4748
-Datasets/magazine_raw/mag6193.txt,magazine_text,1095
 Datasets/magazine_raw/mag6194.txt,magazine_text,1017
 Datasets/magazine_raw/mag6195.txt,magazine_text,4916
 Datasets/magazine_raw/mag6196.txt,magazine_text,4664
@@ -6225,7 +5987,6 @@ Datasets/magazine_raw/mag6222.txt,magazine_text,3585
 Datasets/magazine_raw/mag6223.txt,magazine_text,1527
 Datasets/magazine_raw/mag6224.txt,magazine_text,988
 Datasets/magazine_raw/mag6225.txt,magazine_text,1081
-Datasets/magazine_raw/mag6226.txt,magazine_text,1567
 Datasets/magazine_raw/mag6227.txt,magazine_text,1240
 Datasets/magazine_raw/mag6228.txt,magazine_text,6145
 Datasets/magazine_raw/mag6229.txt,magazine_text,6077
@@ -6251,8 +6012,6 @@ Datasets/magazine_raw/mag6248.txt,magazine_text,8635
 Datasets/magazine_raw/mag6249.txt,magazine_text,8934
 Datasets/magazine_raw/mag6250.txt,magazine_text,4979
 Datasets/magazine_raw/mag6251.txt,magazine_text,2021
-Datasets/magazine_raw/mag6252.txt,magazine_text,713
-Datasets/magazine_raw/mag6253.txt,magazine_text,1015
 Datasets/magazine_raw/mag6254.txt,magazine_text,8559
 Datasets/magazine_raw/mag6255.txt,magazine_text,3587
 Datasets/magazine_raw/mag6256.txt,magazine_text,7614
@@ -6269,7 +6028,6 @@ Datasets/magazine_raw/mag6266.txt,magazine_text,8787
 Datasets/magazine_raw/mag6267.txt,magazine_text,7121
 Datasets/magazine_raw/mag6268.txt,magazine_text,6301
 Datasets/magazine_raw/mag6269.txt,magazine_text,6048
-Datasets/magazine_raw/mag6270.txt,magazine_text,6338
 Datasets/magazine_raw/mag6271.txt,magazine_text,3858
 Datasets/magazine_raw/mag6272.txt,magazine_text,4323
 Datasets/magazine_raw/mag6273.txt,magazine_text,436
@@ -6298,7 +6056,6 @@ Datasets/magazine_raw/mag6295.txt,magazine_text,4303
 Datasets/magazine_raw/mag6296.txt,magazine_text,23235
 Datasets/magazine_raw/mag6297.txt,magazine_text,14828
 Datasets/magazine_raw/mag6298.txt,magazine_text,5784
-Datasets/magazine_raw/mag6299.txt,magazine_text,6263
 Datasets/magazine_raw/mag6300.txt,magazine_text,9754
 Datasets/magazine_raw/mag6301.txt,magazine_text,4329
 Datasets/magazine_raw/mag6302.txt,magazine_text,4969
@@ -6350,7 +6107,6 @@ Datasets/magazine_raw/mag6347.txt,magazine_text,5256
 Datasets/magazine_raw/mag6348.txt,magazine_text,5868
 Datasets/magazine_raw/mag6349.txt,magazine_text,8856
 Datasets/magazine_raw/mag6350.txt,magazine_text,4028
-Datasets/magazine_raw/mag6351.txt,magazine_text,8317
 Datasets/magazine_raw/mag6352.txt,magazine_text,9108
 Datasets/magazine_raw/mag6353.txt,magazine_text,4344
 Datasets/magazine_raw/mag6354.txt,magazine_text,10076
@@ -6371,7 +6127,6 @@ Datasets/magazine_raw/mag6368.txt,magazine_text,6568
 Datasets/magazine_raw/mag6369.txt,magazine_text,16790
 Datasets/magazine_raw/mag6370.txt,magazine_text,13708
 Datasets/magazine_raw/mag6371.txt,magazine_text,4980
-Datasets/magazine_raw/mag6372.txt,magazine_text,6909
 Datasets/magazine_raw/mag6373.txt,magazine_text,2700
 Datasets/magazine_raw/mag6374.txt,magazine_text,6056
 Datasets/magazine_raw/mag6375.txt,magazine_text,9358
@@ -6425,7 +6180,6 @@ Datasets/magazine_raw/mag6422.txt,magazine_text,7829
 Datasets/magazine_raw/mag6423.txt,magazine_text,9014
 Datasets/magazine_raw/mag6424.txt,magazine_text,9007
 Datasets/magazine_raw/mag6425.txt,magazine_text,5545
-Datasets/magazine_raw/mag6426.txt,magazine_text,11702
 Datasets/magazine_raw/mag6427.txt,magazine_text,8300
 Datasets/magazine_raw/mag6428.txt,magazine_text,3969
 Datasets/magazine_raw/mag6429.txt,magazine_text,1055
@@ -6476,7 +6230,6 @@ Datasets/magazine_raw/mag6473.txt,magazine_text,5216
 Datasets/magazine_raw/mag6474.txt,magazine_text,4334
 Datasets/magazine_raw/mag6475.txt,magazine_text,5974
 Datasets/magazine_raw/mag6476.txt,magazine_text,7987
-Datasets/magazine_raw/mag6477.txt,magazine_text,1951
 Datasets/magazine_raw/mag6478.txt,magazine_text,6493
 Datasets/magazine_raw/mag6479.txt,magazine_text,7668
 Datasets/magazine_raw/mag6480.txt,magazine_text,7711
@@ -6511,7 +6264,6 @@ Datasets/magazine_raw/mag6508.txt,magazine_text,919
 Datasets/magazine_raw/mag6509.txt,magazine_text,3697
 Datasets/magazine_raw/mag6510.txt,magazine_text,16979
 Datasets/magazine_raw/mag6511.txt,magazine_text,8391
-Datasets/magazine_raw/mag6512.txt,magazine_text,3422
 Datasets/magazine_raw/mag6513.txt,magazine_text,4532
 Datasets/magazine_raw/mag6514.txt,magazine_text,12048
 Datasets/magazine_raw/mag6515.txt,magazine_text,6036
@@ -6560,7 +6312,6 @@ Datasets/magazine_raw/mag6557.txt,magazine_text,8123
 Datasets/magazine_raw/mag6558.txt,magazine_text,8038
 Datasets/magazine_raw/mag6559.txt,magazine_text,19119
 Datasets/magazine_raw/mag6560.txt,magazine_text,8101
-Datasets/magazine_raw/mag6561.txt,magazine_text,2710
 Datasets/magazine_raw/mag6562.txt,magazine_text,4035
 Datasets/magazine_raw/mag6563.txt,magazine_text,5112
 Datasets/magazine_raw/mag6564.txt,magazine_text,766
@@ -6592,7 +6343,6 @@ Datasets/magazine_raw/mag6589.txt,magazine_text,4883
 Datasets/magazine_raw/mag6590.txt,magazine_text,12399
 Datasets/magazine_raw/mag6591.txt,magazine_text,3191
 Datasets/magazine_raw/mag6592.txt,magazine_text,4924
-Datasets/magazine_raw/mag6593.txt,magazine_text,8943
 Datasets/magazine_raw/mag6594.txt,magazine_text,4827
 Datasets/magazine_raw/mag6595.txt,magazine_text,5294
 Datasets/magazine_raw/mag6596.txt,magazine_text,10015
@@ -6602,12 +6352,10 @@ Datasets/magazine_raw/mag6599.txt,magazine_text,6182
 Datasets/magazine_raw/mag6600.txt,magazine_text,5008
 Datasets/magazine_raw/mag6601.txt,magazine_text,3880
 Datasets/magazine_raw/mag6602.txt,magazine_text,3527
-Datasets/magazine_raw/mag6603.txt,magazine_text,5595
 Datasets/magazine_raw/mag6604.txt,magazine_text,10328
 Datasets/magazine_raw/mag6605.txt,magazine_text,5235
 Datasets/magazine_raw/mag6606.txt,magazine_text,6013
 Datasets/magazine_raw/mag6607.txt,magazine_text,7449
-Datasets/magazine_raw/mag6608.txt,magazine_text,1229
 Datasets/magazine_raw/mag6609.txt,magazine_text,3955
 Datasets/magazine_raw/mag6610.txt,magazine_text,5451
 Datasets/magazine_raw/mag6611.txt,magazine_text,6053
@@ -6679,7 +6427,6 @@ Datasets/magazine_raw/mag6676.txt,magazine_text,9188
 Datasets/magazine_raw/mag6677.txt,magazine_text,16025
 Datasets/magazine_raw/mag6678.txt,magazine_text,925
 Datasets/magazine_raw/mag6679.txt,magazine_text,10875
-Datasets/magazine_raw/mag6680.txt,magazine_text,522
 Datasets/magazine_raw/mag6681.txt,magazine_text,1597
 Datasets/magazine_raw/mag6682.txt,magazine_text,5900
 Datasets/magazine_raw/mag6683.txt,magazine_text,13469
@@ -6688,7 +6435,6 @@ Datasets/magazine_raw/mag6685.txt,magazine_text,10782
 Datasets/magazine_raw/mag6686.txt,magazine_text,7573
 Datasets/magazine_raw/mag6687.txt,magazine_text,4185
 Datasets/magazine_raw/mag6688.txt,magazine_text,5646
-Datasets/magazine_raw/mag6689.txt,magazine_text,7921
 Datasets/magazine_raw/mag6690.txt,magazine_text,8030
 Datasets/magazine_raw/mag6691.txt,magazine_text,8973
 Datasets/magazine_raw/mag6692.txt,magazine_text,4740
@@ -6702,19 +6448,14 @@ Datasets/magazine_raw/mag6699.txt,magazine_text,10453
 Datasets/magazine_raw/mag6700.txt,magazine_text,3233
 Datasets/magazine_raw/mag6701.txt,magazine_text,584
 Datasets/magazine_raw/mag6702.txt,magazine_text,1057
-Datasets/magazine_raw/mag6703.txt,magazine_text,1129
-Datasets/magazine_raw/mag6704.txt,magazine_text,1484
 Datasets/magazine_raw/mag6705.txt,magazine_text,611
 Datasets/magazine_raw/mag6706.txt,magazine_text,744
 Datasets/magazine_raw/mag6707.txt,magazine_text,5470
 Datasets/magazine_raw/mag6708.txt,magazine_text,1070
 Datasets/magazine_raw/mag6709.txt,magazine_text,4556
 Datasets/magazine_raw/mag6710.txt,magazine_text,741
-Datasets/magazine_raw/mag6711.txt,magazine_text,709
 Datasets/magazine_raw/mag6712.txt,magazine_text,850
-Datasets/magazine_raw/mag6713.txt,magazine_text,4773
 Datasets/magazine_raw/mag6714.txt,magazine_text,702
-Datasets/magazine_raw/mag6715.txt,magazine_text,1154
 Datasets/magazine_raw/mag6716.txt,magazine_text,2142
 Datasets/magazine_raw/mag6717.txt,magazine_text,11031
 Datasets/magazine_raw/mag6718.txt,magazine_text,9889
@@ -6736,7 +6477,6 @@ Datasets/magazine_raw/mag6733.txt,magazine_text,7662
 Datasets/magazine_raw/mag6734.txt,magazine_text,4047
 Datasets/magazine_raw/mag6735.txt,magazine_text,3539
 Datasets/magazine_raw/mag6736.txt,magazine_text,4003
-Datasets/magazine_raw/mag6737.txt,magazine_text,1047
 Datasets/magazine_raw/mag6738.txt,magazine_text,1544
 Datasets/magazine_raw/mag6739.txt,magazine_text,9652
 Datasets/magazine_raw/mag6740.txt,magazine_text,5266
@@ -6763,7 +6503,6 @@ Datasets/magazine_raw/mag6760.txt,magazine_text,12525
 Datasets/magazine_raw/mag6761.txt,magazine_text,8592
 Datasets/magazine_raw/mag6762.txt,magazine_text,7033
 Datasets/magazine_raw/mag6763.txt,magazine_text,6040
-Datasets/magazine_raw/mag6764.txt,magazine_text,3812
 Datasets/magazine_raw/mag6765.txt,magazine_text,402
 Datasets/magazine_raw/mag6766.txt,magazine_text,9580
 Datasets/magazine_raw/mag6767.txt,magazine_text,9820
@@ -6776,8 +6515,6 @@ Datasets/magazine_raw/mag6773.txt,magazine_text,5817
 Datasets/magazine_raw/mag6774.txt,magazine_text,726
 Datasets/magazine_raw/mag6775.txt,magazine_text,4369
 Datasets/magazine_raw/mag6776.txt,magazine_text,685
-Datasets/magazine_raw/mag6777.txt,magazine_text,861
-Datasets/magazine_raw/mag6778.txt,magazine_text,5034
 Datasets/magazine_raw/mag6779.txt,magazine_text,7735
 Datasets/magazine_raw/mag6780.txt,magazine_text,15009
 Datasets/magazine_raw/mag6781.txt,magazine_text,6567
@@ -6802,7 +6539,6 @@ Datasets/magazine_raw/mag6799.txt,magazine_text,761
 Datasets/magazine_raw/mag6800.txt,magazine_text,1265
 Datasets/magazine_raw/mag6801.txt,magazine_text,4859
 Datasets/magazine_raw/mag6802.txt,magazine_text,907
-Datasets/magazine_raw/mag6803.txt,magazine_text,3054
 Datasets/magazine_raw/mag6804.txt,magazine_text,1906
 Datasets/magazine_raw/mag6805.txt,magazine_text,814
 Datasets/magazine_raw/mag6806.txt,magazine_text,3133
@@ -6823,7 +6559,6 @@ Datasets/magazine_raw/mag6820.txt,magazine_text,849
 Datasets/magazine_raw/mag6821.txt,magazine_text,2965
 Datasets/magazine_raw/mag6822.txt,magazine_text,1028
 Datasets/magazine_raw/mag6823.txt,magazine_text,357
-Datasets/magazine_raw/mag6824.txt,magazine_text,991
 Datasets/magazine_raw/mag6825.txt,magazine_text,5042
 Datasets/magazine_raw/mag6826.txt,magazine_text,7905
 Datasets/magazine_raw/mag6827.txt,magazine_text,3983
@@ -6861,16 +6596,13 @@ Datasets/magazine_raw/mag6858.txt,magazine_text,6955
 Datasets/magazine_raw/mag6859.txt,magazine_text,8623
 Datasets/magazine_raw/mag6860.txt,magazine_text,3999
 Datasets/magazine_raw/mag6861.txt,magazine_text,14847
-Datasets/magazine_raw/mag6862.txt,magazine_text,8131
 Datasets/magazine_raw/mag6863.txt,magazine_text,7253
 Datasets/magazine_raw/mag6864.txt,magazine_text,11004
 Datasets/magazine_raw/mag6865.txt,magazine_text,9769
-Datasets/magazine_raw/mag6866.txt,magazine_text,1242
 Datasets/magazine_raw/mag6867.txt,magazine_text,8092
 Datasets/magazine_raw/mag6868.txt,magazine_text,1291
 Datasets/magazine_raw/mag6869.txt,magazine_text,5268
 Datasets/magazine_raw/mag6870.txt,magazine_text,6377
-Datasets/magazine_raw/mag6871.txt,magazine_text,11691
 Datasets/magazine_raw/mag6872.txt,magazine_text,6722
 Datasets/magazine_raw/mag6873.txt,magazine_text,7851
 Datasets/magazine_raw/mag6874.txt,magazine_text,8797
@@ -6899,7 +6631,6 @@ Datasets/magazine_raw/mag6896.txt,magazine_text,7698
 Datasets/magazine_raw/mag6897.txt,magazine_text,6673
 Datasets/magazine_raw/mag6898.txt,magazine_text,8062
 Datasets/magazine_raw/mag6899.txt,magazine_text,9363
-Datasets/magazine_raw/mag6900.txt,magazine_text,6122
 Datasets/magazine_raw/mag6901.txt,magazine_text,833
 Datasets/magazine_raw/mag6902.txt,magazine_text,8538
 Datasets/magazine_raw/mag6903.txt,magazine_text,7400
@@ -6915,13 +6646,11 @@ Datasets/magazine_raw/mag6912.txt,magazine_text,384
 Datasets/magazine_raw/mag6913.txt,magazine_text,7113
 Datasets/magazine_raw/mag6914.txt,magazine_text,10279
 Datasets/magazine_raw/mag6915.txt,magazine_text,6920
-Datasets/magazine_raw/mag6916.txt,magazine_text,22153
 Datasets/magazine_raw/mag6917.txt,magazine_text,505
 Datasets/magazine_raw/mag6918.txt,magazine_text,5882
 Datasets/magazine_raw/mag6919.txt,magazine_text,1355
 Datasets/magazine_raw/mag6920.txt,magazine_text,1966
 Datasets/magazine_raw/mag6921.txt,magazine_text,329
-Datasets/magazine_raw/mag6922.txt,magazine_text,702
 Datasets/magazine_raw/mag6923.txt,magazine_text,6685
 Datasets/magazine_raw/mag6924.txt,magazine_text,6681
 Datasets/magazine_raw/mag6925.txt,magazine_text,13029
@@ -6948,7 +6677,6 @@ Datasets/magazine_raw/mag6945.txt,magazine_text,655
 Datasets/magazine_raw/mag6946.txt,magazine_text,3041
 Datasets/magazine_raw/mag6947.txt,magazine_text,4501
 Datasets/magazine_raw/mag6948.txt,magazine_text,4625
-Datasets/magazine_raw/mag6949.txt,magazine_text,950
 Datasets/magazine_raw/mag6950.txt,magazine_text,11149
 Datasets/magazine_raw/mag6951.txt,magazine_text,10612
 Datasets/magazine_raw/mag6952.txt,magazine_text,8541
@@ -6983,10 +6711,8 @@ Datasets/magazine_raw/mag6980.txt,magazine_text,3998
 Datasets/magazine_raw/mag6981.txt,magazine_text,9126
 Datasets/magazine_raw/mag6982.txt,magazine_text,12008
 Datasets/magazine_raw/mag6983.txt,magazine_text,6640
-Datasets/magazine_raw/mag6984.txt,magazine_text,5696
 Datasets/magazine_raw/mag6985.txt,magazine_text,4140
 Datasets/magazine_raw/mag6986.txt,magazine_text,5783
-Datasets/magazine_raw/mag6987.txt,magazine_text,9812
 Datasets/magazine_raw/mag6988.txt,magazine_text,8420
 Datasets/magazine_raw/mag6989.txt,magazine_text,5505
 Datasets/magazine_raw/mag6990.txt,magazine_text,838
@@ -7012,7 +6738,6 @@ Datasets/magazine_raw/mag7009.txt,magazine_text,9030
 Datasets/magazine_raw/mag7010.txt,magazine_text,4989
 Datasets/magazine_raw/mag7011.txt,magazine_text,10091
 Datasets/magazine_raw/mag7012.txt,magazine_text,1319
-Datasets/magazine_raw/mag7013.txt,magazine_text,6227
 Datasets/magazine_raw/mag7014.txt,magazine_text,14046
 Datasets/magazine_raw/mag7015.txt,magazine_text,2023
 Datasets/magazine_raw/mag7016.txt,magazine_text,3106
@@ -7020,7 +6745,6 @@ Datasets/magazine_raw/mag7017.txt,magazine_text,876
 Datasets/magazine_raw/mag7018.txt,magazine_text,1151
 Datasets/magazine_raw/mag7019.txt,magazine_text,420
 Datasets/magazine_raw/mag7020.txt,magazine_text,858
-Datasets/magazine_raw/mag7021.txt,magazine_text,9942
 Datasets/magazine_raw/mag7022.txt,magazine_text,4518
 Datasets/magazine_raw/mag7023.txt,magazine_text,801
 Datasets/magazine_raw/mag7024.txt,magazine_text,2325
@@ -7032,13 +6756,11 @@ Datasets/magazine_raw/mag7029.txt,magazine_text,4623
 Datasets/magazine_raw/mag7030.txt,magazine_text,2991
 Datasets/magazine_raw/mag7031.txt,magazine_text,1505
 Datasets/magazine_raw/mag7032.txt,magazine_text,1006
-Datasets/magazine_raw/mag7033.txt,magazine_text,6170
 Datasets/magazine_raw/mag7034.txt,magazine_text,730
 Datasets/magazine_raw/mag7035.txt,magazine_text,469
 Datasets/magazine_raw/mag7036.txt,magazine_text,5830
 Datasets/magazine_raw/mag7037.txt,magazine_text,1804
 Datasets/magazine_raw/mag7038.txt,magazine_text,375
-Datasets/magazine_raw/mag7039.txt,magazine_text,1491
 Datasets/magazine_raw/mag7040.txt,magazine_text,2464
 Datasets/magazine_raw/mag7041.txt,magazine_text,1333
 Datasets/magazine_raw/mag7042.txt,magazine_text,884
@@ -7052,7 +6774,6 @@ Datasets/magazine_raw/mag7049.txt,magazine_text,2603
 Datasets/magazine_raw/mag7050.txt,magazine_text,10322
 Datasets/magazine_raw/mag7051.txt,magazine_text,5571
 Datasets/magazine_raw/mag7052.txt,magazine_text,9940
-Datasets/magazine_raw/mag7053.txt,magazine_text,4083
 Datasets/magazine_raw/mag7054.txt,magazine_text,6262
 Datasets/magazine_raw/mag7055.txt,magazine_text,602
 Datasets/magazine_raw/mag7056.txt,magazine_text,3681
@@ -7116,7 +6837,6 @@ Datasets/magazine_raw/mag7113.txt,magazine_text,9543
 Datasets/magazine_raw/mag7114.txt,magazine_text,8042
 Datasets/magazine_raw/mag7115.txt,magazine_text,11781
 Datasets/magazine_raw/mag7116.txt,magazine_text,934
-Datasets/magazine_raw/mag7117.txt,magazine_text,10097
 Datasets/magazine_raw/mag7118.txt,magazine_text,1422
 Datasets/magazine_raw/mag7119.txt,magazine_text,1531
 Datasets/magazine_raw/mag7120.txt,magazine_text,3352
@@ -7130,7 +6850,6 @@ Datasets/magazine_raw/mag7127.txt,magazine_text,3762
 Datasets/magazine_raw/mag7128.txt,magazine_text,1563
 Datasets/magazine_raw/mag7129.txt,magazine_text,7869
 Datasets/magazine_raw/mag7130.txt,magazine_text,2963
-Datasets/magazine_raw/mag7131.txt,magazine_text,3773
 Datasets/magazine_raw/mag7132.txt,magazine_text,5289
 Datasets/magazine_raw/mag7133.txt,magazine_text,7587
 Datasets/magazine_raw/mag7134.txt,magazine_text,4675
@@ -7159,7 +6878,6 @@ Datasets/magazine_raw/mag7156.txt,magazine_text,657
 Datasets/magazine_raw/mag7157.txt,magazine_text,4127
 Datasets/magazine_raw/mag7158.txt,magazine_text,875
 Datasets/magazine_raw/mag7159.txt,magazine_text,355
-Datasets/magazine_raw/mag7160.txt,magazine_text,634
 Datasets/magazine_raw/mag7161.txt,magazine_text,1202
 Datasets/magazine_raw/mag7162.txt,magazine_text,4210
 Datasets/magazine_raw/mag7163.txt,magazine_text,1018
@@ -7223,7 +6941,6 @@ Datasets/magazine_raw/mag7220.txt,magazine_text,8431
 Datasets/magazine_raw/mag7221.txt,magazine_text,3763
 Datasets/magazine_raw/mag7222.txt,magazine_text,2167
 Datasets/magazine_raw/mag7223.txt,magazine_text,9394
-Datasets/magazine_raw/mag7224.txt,magazine_text,491
 Datasets/magazine_raw/mag7225.txt,magazine_text,1022
 Datasets/magazine_raw/mag7226.txt,magazine_text,963
 Datasets/magazine_raw/mag7227.txt,magazine_text,8144
@@ -7235,7 +6952,6 @@ Datasets/magazine_raw/mag7232.txt,magazine_text,1021
 Datasets/magazine_raw/mag7233.txt,magazine_text,3104
 Datasets/magazine_raw/mag7234.txt,magazine_text,9107
 Datasets/magazine_raw/mag7235.txt,magazine_text,6977
-Datasets/magazine_raw/mag7236.txt,magazine_text,335
 Datasets/magazine_raw/mag7237.txt,magazine_text,11521
 Datasets/magazine_raw/mag7238.txt,magazine_text,1804
 Datasets/magazine_raw/mag7239.txt,magazine_text,410
@@ -7277,7 +6993,6 @@ Datasets/magazine_raw/mag7274.txt,magazine_text,647
 Datasets/magazine_raw/mag7275.txt,magazine_text,5550
 Datasets/magazine_raw/mag7276.txt,magazine_text,8179
 Datasets/magazine_raw/mag7277.txt,magazine_text,4558
-Datasets/magazine_raw/mag7278.txt,magazine_text,618
 Datasets/magazine_raw/mag7279.txt,magazine_text,1182
 Datasets/magazine_raw/mag7280.txt,magazine_text,3105
 Datasets/magazine_raw/mag7281.txt,magazine_text,5657
@@ -7292,7 +7007,6 @@ Datasets/magazine_raw/mag7289.txt,magazine_text,8239
 Datasets/magazine_raw/mag7290.txt,magazine_text,3044
 Datasets/magazine_raw/mag7291.txt,magazine_text,6133
 Datasets/magazine_raw/mag7292.txt,magazine_text,5919
-Datasets/magazine_raw/mag7293.txt,magazine_text,737
 Datasets/magazine_raw/mag7294.txt,magazine_text,9938
 Datasets/magazine_raw/mag7295.txt,magazine_text,1727
 Datasets/magazine_raw/mag7296.txt,magazine_text,1833
@@ -7309,7 +7023,6 @@ Datasets/magazine_raw/mag7306.txt,magazine_text,2924
 Datasets/magazine_raw/mag7307.txt,magazine_text,7436
 Datasets/magazine_raw/mag7308.txt,magazine_text,942
 Datasets/magazine_raw/mag7309.txt,magazine_text,7562
-Datasets/magazine_raw/mag7310.txt,magazine_text,10969
 Datasets/magazine_raw/mag7311.txt,magazine_text,13270
 Datasets/magazine_raw/mag7312.txt,magazine_text,574
 Datasets/magazine_raw/mag7313.txt,magazine_text,669
@@ -7326,7 +7039,6 @@ Datasets/magazine_raw/mag7323.txt,magazine_text,2965
 Datasets/magazine_raw/mag7324.txt,magazine_text,5090
 Datasets/magazine_raw/mag7325.txt,magazine_text,5961
 Datasets/magazine_raw/mag7326.txt,magazine_text,7807
-Datasets/magazine_raw/mag7327.txt,magazine_text,787
 Datasets/magazine_raw/mag7328.txt,magazine_text,4530
 Datasets/magazine_raw/mag7329.txt,magazine_text,6002
 Datasets/magazine_raw/mag7330.txt,magazine_text,8687
@@ -7358,7 +7070,6 @@ Datasets/magazine_raw/mag7355.txt,magazine_text,1093
 Datasets/magazine_raw/mag7356.txt,magazine_text,860
 Datasets/magazine_raw/mag7357.txt,magazine_text,7882
 Datasets/magazine_raw/mag7358.txt,magazine_text,3504
-Datasets/magazine_raw/mag7359.txt,magazine_text,917
 Datasets/magazine_raw/mag7360.txt,magazine_text,11083
 Datasets/magazine_raw/mag7361.txt,magazine_text,2910
 Datasets/magazine_raw/mag7362.txt,magazine_text,701
@@ -7415,14 +7126,12 @@ Datasets/magazine_raw/mag7412.txt,magazine_text,817
 Datasets/magazine_raw/mag7413.txt,magazine_text,5917
 Datasets/magazine_raw/mag7414.txt,magazine_text,2940
 Datasets/magazine_raw/mag7415.txt,magazine_text,18859
-Datasets/magazine_raw/mag7416.txt,magazine_text,2251
 Datasets/magazine_raw/mag7417.txt,magazine_text,1750
 Datasets/magazine_raw/mag7418.txt,magazine_text,12981
 Datasets/magazine_raw/mag7419.txt,magazine_text,8109
 Datasets/magazine_raw/mag7420.txt,magazine_text,11408
 Datasets/magazine_raw/mag7421.txt,magazine_text,478
 Datasets/magazine_raw/mag7422.txt,magazine_text,826
-Datasets/magazine_raw/mag7423.txt,magazine_text,1213
 Datasets/magazine_raw/mag7424.txt,magazine_text,455
 Datasets/magazine_raw/mag7425.txt,magazine_text,451
 Datasets/magazine_raw/mag7426.txt,magazine_text,1989
@@ -7461,7 +7170,6 @@ Datasets/magazine_raw/mag7458.txt,magazine_text,1363
 Datasets/magazine_raw/mag7459.txt,magazine_text,426
 Datasets/magazine_raw/mag7460.txt,magazine_text,692
 Datasets/magazine_raw/mag7461.txt,magazine_text,9534
-Datasets/magazine_raw/mag7462.txt,magazine_text,462
 Datasets/magazine_raw/mag7463.txt,magazine_text,1917
 Datasets/magazine_raw/mag7464.txt,magazine_text,10560
 Datasets/magazine_raw/mag7465.txt,magazine_text,1417
@@ -7487,7 +7195,6 @@ Datasets/magazine_raw/mag7484.txt,magazine_text,1053
 Datasets/magazine_raw/mag7485.txt,magazine_text,4367
 Datasets/magazine_raw/mag7486.txt,magazine_text,1097
 Datasets/magazine_raw/mag7487.txt,magazine_text,631
-Datasets/magazine_raw/mag7488.txt,magazine_text,5081
 Datasets/magazine_raw/mag7489.txt,magazine_text,828
 Datasets/magazine_raw/mag7490.txt,magazine_text,691
 Datasets/magazine_raw/mag7491.txt,magazine_text,1028
@@ -7503,7 +7210,6 @@ Datasets/magazine_raw/mag7500.txt,magazine_text,584
 Datasets/magazine_raw/mag7501.txt,magazine_text,354
 Datasets/magazine_raw/mag7502.txt,magazine_text,2141
 Datasets/magazine_raw/mag7503.txt,magazine_text,7038
-Datasets/magazine_raw/mag7504.txt,magazine_text,2366
 Datasets/magazine_raw/mag7505.txt,magazine_text,964
 Datasets/magazine_raw/mag7506.txt,magazine_text,605
 Datasets/magazine_raw/mag7507.txt,magazine_text,684
@@ -7515,19 +7221,16 @@ Datasets/magazine_raw/mag7512.txt,magazine_text,3030
 Datasets/magazine_raw/mag7513.txt,magazine_text,979
 Datasets/magazine_raw/mag7514.txt,magazine_text,5574
 Datasets/magazine_raw/mag7515.txt,magazine_text,7921
-Datasets/magazine_raw/mag7516.txt,magazine_text,389
 Datasets/magazine_raw/mag7517.txt,magazine_text,1790
 Datasets/magazine_raw/mag7518.txt,magazine_text,700
 Datasets/magazine_raw/mag7519.txt,magazine_text,467
 Datasets/magazine_raw/mag7520.txt,magazine_text,375
 Datasets/magazine_raw/mag7521.txt,magazine_text,538
 Datasets/magazine_raw/mag7522.txt,magazine_text,633
-Datasets/magazine_raw/mag7523.txt,magazine_text,1017
 Datasets/magazine_raw/mag7524.txt,magazine_text,681
 Datasets/magazine_raw/mag7525.txt,magazine_text,5492
 Datasets/magazine_raw/mag7526.txt,magazine_text,781
 Datasets/magazine_raw/mag7527.txt,magazine_text,5161
-Datasets/magazine_raw/mag7528.txt,magazine_text,418
 Datasets/magazine_raw/mag7529.txt,magazine_text,3554
 Datasets/magazine_raw/mag7530.txt,magazine_text,599
 Datasets/magazine_raw/mag7531.txt,magazine_text,965
@@ -7597,7 +7300,6 @@ Datasets/magazine_raw/mag7594.txt,magazine_text,2589
 Datasets/magazine_raw/mag7595.txt,magazine_text,1251
 Datasets/magazine_raw/mag7596.txt,magazine_text,323
 Datasets/magazine_raw/mag7597.txt,magazine_text,795
-Datasets/magazine_raw/mag7598.txt,magazine_text,397
 Datasets/magazine_raw/mag7599.txt,magazine_text,2514
 Datasets/magazine_raw/mag7600.txt,magazine_text,3429
 Datasets/magazine_raw/mag7601.txt,magazine_text,858
@@ -7622,7 +7324,6 @@ Datasets/magazine_raw/mag7619.txt,magazine_text,505
 Datasets/magazine_raw/mag7620.txt,magazine_text,609
 Datasets/magazine_raw/mag7621.txt,magazine_text,237
 Datasets/magazine_raw/mag7622.txt,magazine_text,863
-Datasets/magazine_raw/mag7623.txt,magazine_text,1002
 Datasets/magazine_raw/mag7624.txt,magazine_text,959
 Datasets/magazine_raw/mag7625.txt,magazine_text,4801
 Datasets/magazine_raw/mag7626.txt,magazine_text,3081
@@ -7647,12 +7348,9 @@ Datasets/magazine_raw/mag7644.txt,magazine_text,254
 Datasets/magazine_raw/mag7645.txt,magazine_text,1369
 Datasets/magazine_raw/mag7646.txt,magazine_text,10339
 Datasets/magazine_raw/mag7647.txt,magazine_text,1228
-Datasets/magazine_raw/mag7648.txt,magazine_text,301
-Datasets/magazine_raw/mag7649.txt,magazine_text,1736
 Datasets/magazine_raw/mag7650.txt,magazine_text,523
 Datasets/magazine_raw/mag7651.txt,magazine_text,5045
 Datasets/magazine_raw/mag7652.txt,magazine_text,2163
-Datasets/magazine_raw/mag7653.txt,magazine_text,1645
 Datasets/magazine_raw/mag7654.txt,magazine_text,20084
 Datasets/magazine_raw/mag7655.txt,magazine_text,722
 Datasets/magazine_raw/mag7656.txt,magazine_text,8746
@@ -7667,7 +7365,6 @@ Datasets/magazine_raw/mag7664.txt,magazine_text,3889
 Datasets/magazine_raw/mag7665.txt,magazine_text,815
 Datasets/magazine_raw/mag7666.txt,magazine_text,5000
 Datasets/magazine_raw/mag7667.txt,magazine_text,603
-Datasets/magazine_raw/mag7668.txt,magazine_text,4918
 Datasets/magazine_raw/mag7669.txt,magazine_text,869
 Datasets/magazine_raw/mag7670.txt,magazine_text,1167
 Datasets/magazine_raw/mag7671.txt,magazine_text,779
@@ -7711,14 +7408,11 @@ Datasets/magazine_raw/mag7708.txt,magazine_text,742
 Datasets/magazine_raw/mag7709.txt,magazine_text,294
 Datasets/magazine_raw/mag7710.txt,magazine_text,1087
 Datasets/magazine_raw/mag7711.txt,magazine_text,4847
-Datasets/magazine_raw/mag7712.txt,magazine_text,1188
 Datasets/magazine_raw/mag7713.txt,magazine_text,578
 Datasets/magazine_raw/mag7714.txt,magazine_text,975
-Datasets/magazine_raw/mag7715.txt,magazine_text,6863
 Datasets/magazine_raw/mag7716.txt,magazine_text,881
 Datasets/magazine_raw/mag7717.txt,magazine_text,1864
 Datasets/magazine_raw/mag7718.txt,magazine_text,1030
-Datasets/magazine_raw/mag7719.txt,magazine_text,3869
 Datasets/magazine_raw/mag7720.txt,magazine_text,8329
 Datasets/magazine_raw/mag7721.txt,magazine_text,2433
 Datasets/magazine_raw/mag7722.txt,magazine_text,481
@@ -7732,13 +7426,11 @@ Datasets/magazine_raw/mag7729.txt,magazine_text,4342
 Datasets/magazine_raw/mag7730.txt,magazine_text,4365
 Datasets/magazine_raw/mag7731.txt,magazine_text,524
 Datasets/magazine_raw/mag7732.txt,magazine_text,1245
-Datasets/magazine_raw/mag7733.txt,magazine_text,378
 Datasets/magazine_raw/mag7734.txt,magazine_text,2842
 Datasets/magazine_raw/mag7735.txt,magazine_text,4755
 Datasets/magazine_raw/mag7736.txt,magazine_text,5346
 Datasets/magazine_raw/mag7737.txt,magazine_text,720
 Datasets/magazine_raw/mag7738.txt,magazine_text,1120
-Datasets/magazine_raw/mag7739.txt,magazine_text,756
 Datasets/magazine_raw/mag7740.txt,magazine_text,2832
 Datasets/magazine_raw/mag7741.txt,magazine_text,6334
 Datasets/magazine_raw/mag7742.txt,magazine_text,5642
@@ -7748,11 +7440,8 @@ Datasets/magazine_raw/mag7745.txt,magazine_text,625
 Datasets/magazine_raw/mag7746.txt,magazine_text,1359
 Datasets/magazine_raw/mag7747.txt,magazine_text,13201
 Datasets/magazine_raw/mag7748.txt,magazine_text,565
-Datasets/magazine_raw/mag7749.txt,magazine_text,7809
 Datasets/magazine_raw/mag7750.txt,magazine_text,522
-Datasets/magazine_raw/mag7751.txt,magazine_text,3245
 Datasets/magazine_raw/mag7752.txt,magazine_text,1246
-Datasets/magazine_raw/mag7753.txt,magazine_text,2798
 Datasets/magazine_raw/mag7754.txt,magazine_text,1021
 Datasets/magazine_raw/mag7755.txt,magazine_text,9521
 Datasets/magazine_raw/mag7756.txt,magazine_text,2034
@@ -7773,14 +7462,12 @@ Datasets/magazine_raw/mag7770.txt,magazine_text,353
 Datasets/magazine_raw/mag7771.txt,magazine_text,430
 Datasets/magazine_raw/mag7772.txt,magazine_text,343
 Datasets/magazine_raw/mag7773.txt,magazine_text,2851
-Datasets/magazine_raw/mag7774.txt,magazine_text,1531
 Datasets/magazine_raw/mag7775.txt,magazine_text,3228
 Datasets/magazine_raw/mag7776.txt,magazine_text,822
 Datasets/magazine_raw/mag7777.txt,magazine_text,3540
 Datasets/magazine_raw/mag7778.txt,magazine_text,518
 Datasets/magazine_raw/mag7779.txt,magazine_text,11354
 Datasets/magazine_raw/mag7780.txt,magazine_text,562
-Datasets/magazine_raw/mag7781.txt,magazine_text,2429
 Datasets/magazine_raw/mag7782.txt,magazine_text,408
 Datasets/magazine_raw/mag7783.txt,magazine_text,10682
 Datasets/magazine_raw/mag7784.txt,magazine_text,2429
@@ -7789,16 +7476,13 @@ Datasets/magazine_raw/mag7786.txt,magazine_text,579
 Datasets/magazine_raw/mag7787.txt,magazine_text,906
 Datasets/magazine_raw/mag7788.txt,magazine_text,4855
 Datasets/magazine_raw/mag7789.txt,magazine_text,3893
-Datasets/magazine_raw/mag7790.txt,magazine_text,1991
 Datasets/magazine_raw/mag7791.txt,magazine_text,561
 Datasets/magazine_raw/mag7792.txt,magazine_text,608
 Datasets/magazine_raw/mag7793.txt,magazine_text,986
 Datasets/magazine_raw/mag7794.txt,magazine_text,1209
 Datasets/magazine_raw/mag7795.txt,magazine_text,14744
-Datasets/magazine_raw/mag7796.txt,magazine_text,1835
 Datasets/magazine_raw/mag7797.txt,magazine_text,2121
 Datasets/magazine_raw/mag7798.txt,magazine_text,333
-Datasets/magazine_raw/mag7799.txt,magazine_text,2110
 Datasets/magazine_raw/mag7800.txt,magazine_text,1341
 Datasets/magazine_raw/mag7801.txt,magazine_text,10100
 Datasets/magazine_raw/mag7802.txt,magazine_text,9079
@@ -7806,16 +7490,13 @@ Datasets/magazine_raw/mag7803.txt,magazine_text,8664
 Datasets/magazine_raw/mag7804.txt,magazine_text,5266
 Datasets/magazine_raw/mag7805.txt,magazine_text,478
 Datasets/magazine_raw/mag7806.txt,magazine_text,617
-Datasets/magazine_raw/mag7807.txt,magazine_text,441
 Datasets/magazine_raw/mag7808.txt,magazine_text,5383
 Datasets/magazine_raw/mag7809.txt,magazine_text,4114
 Datasets/magazine_raw/mag7810.txt,magazine_text,733
 Datasets/magazine_raw/mag7811.txt,magazine_text,1200
 Datasets/magazine_raw/mag7812.txt,magazine_text,1420
-Datasets/magazine_raw/mag7813.txt,magazine_text,9036
 Datasets/magazine_raw/mag7814.txt,magazine_text,1214
 Datasets/magazine_raw/mag7815.txt,magazine_text,22181
-Datasets/magazine_raw/mag7816.txt,magazine_text,1243
 Datasets/magazine_raw/mag7817.txt,magazine_text,1167
 Datasets/magazine_raw/mag7818.txt,magazine_text,6167
 Datasets/magazine_raw/mag7819.txt,magazine_text,233
@@ -7838,8 +7519,6 @@ Datasets/magazine_raw/mag7835.txt,magazine_text,1833
 Datasets/magazine_raw/mag7836.txt,magazine_text,11804
 Datasets/magazine_raw/mag7837.txt,magazine_text,4158
 Datasets/magazine_raw/mag7838.txt,magazine_text,7954
-Datasets/magazine_raw/mag7839.txt,magazine_text,1551
-Datasets/magazine_raw/mag7840.txt,magazine_text,2536
 Datasets/magazine_raw/mag7841.txt,magazine_text,819
 Datasets/magazine_raw/mag7842.txt,magazine_text,556
 Datasets/magazine_raw/mag7843.txt,magazine_text,1027
@@ -7848,15 +7527,12 @@ Datasets/magazine_raw/mag7845.txt,magazine_text,1872
 Datasets/magazine_raw/mag7846.txt,magazine_text,6602
 Datasets/magazine_raw/mag7847.txt,magazine_text,5529
 Datasets/magazine_raw/mag7848.txt,magazine_text,5750
-Datasets/magazine_raw/mag7849.txt,magazine_text,2635
 Datasets/magazine_raw/mag7850.txt,magazine_text,8149
 Datasets/magazine_raw/mag7851.txt,magazine_text,1941
 Datasets/magazine_raw/mag7852.txt,magazine_text,6957
 Datasets/magazine_raw/mag7853.txt,magazine_text,1449
 Datasets/magazine_raw/mag7854.txt,magazine_text,3482
 Datasets/magazine_raw/mag7855.txt,magazine_text,1490
-Datasets/magazine_raw/mag7856.txt,magazine_text,3479
-Datasets/magazine_raw/mag7857.txt,magazine_text,2310
 Datasets/magazine_raw/mag7858.txt,magazine_text,655
 Datasets/magazine_raw/mag7859.txt,magazine_text,1180
 Datasets/magazine_raw/mag7860.txt,magazine_text,2629
