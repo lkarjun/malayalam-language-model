@@ -2,7 +2,6 @@ file_path,dataset_name,length
 Datasets\articles_raw\article0.txt,article_text,1592
 Datasets\articles_raw\article1.txt,article_text,3251
 Datasets\articles_raw\article2.txt,article_text,1464
-Datasets\articles_raw\article3.txt,article_text,227
 Datasets\articles_raw\article4.txt,article_text,3631
 Datasets\articles_raw\article5.txt,article_text,1434
 Datasets\articles_raw\article6.txt,article_text,3213
@@ -77,7 +76,6 @@ Datasets\articles_raw\article74.txt,article_text,1057
 Datasets\articles_raw\article75.txt,article_text,1708
 Datasets\articles_raw\article76.txt,article_text,8603
 Datasets\articles_raw\article77.txt,article_text,3846
-Datasets\articles_raw\article78.txt,article_text,110
 Datasets\articles_raw\article79.txt,article_text,1985
 Datasets\articles_raw\article80.txt,article_text,5569
 Datasets\articles_raw\article81.txt,article_text,1381
@@ -131,7 +129,6 @@ Datasets\articles_raw\article128.txt,article_text,1460
 Datasets\articles_raw\article129.txt,article_text,3515
 Datasets\articles_raw\article130.txt,article_text,750
 Datasets\articles_raw\article131.txt,article_text,1131
-Datasets\articles_raw\article132.txt,article_text,245
 Datasets\articles_raw\article133.txt,article_text,1226
 Datasets\articles_raw\article134.txt,article_text,1605
 Datasets\articles_raw\article135.txt,article_text,892
@@ -153,12 +150,10 @@ Datasets\articles_raw\article150.txt,article_text,872
 Datasets\articles_raw\article151.txt,article_text,626
 Datasets\articles_raw\article152.txt,article_text,1032
 Datasets\articles_raw\article153.txt,article_text,407
-Datasets\articles_raw\article154.txt,article_text,348
 Datasets\articles_raw\article155.txt,article_text,1503
 Datasets\articles_raw\article156.txt,article_text,3132
 Datasets\articles_raw\article157.txt,article_text,2035
 Datasets\articles_raw\article158.txt,article_text,5062
-Datasets\articles_raw\article159.txt,article_text,301
 Datasets\articles_raw\article160.txt,article_text,1409
 Datasets\articles_raw\article161.txt,article_text,582
 Datasets\articles_raw\article162.txt,article_text,1015
@@ -173,7 +168,6 @@ Datasets\articles_raw\article170.txt,article_text,839
 Datasets\articles_raw\article171.txt,article_text,934
 Datasets\articles_raw\article172.txt,article_text,867
 Datasets\articles_raw\article173.txt,article_text,3862
-Datasets\articles_raw\article174.txt,article_text,362
 Datasets\articles_raw\article175.txt,article_text,2212
 Datasets\articles_raw\article176.txt,article_text,2408
 Datasets\articles_raw\article177.txt,article_text,1287
@@ -190,7 +184,6 @@ Datasets\articles_raw\article187.txt,article_text,941
 Datasets\articles_raw\article188.txt,article_text,1335
 Datasets\articles_raw\article189.txt,article_text,1162
 Datasets\articles_raw\article190.txt,article_text,3594
-Datasets\articles_raw\article191.txt,article_text,345
 Datasets\articles_raw\article192.txt,article_text,793
 Datasets\articles_raw\article193.txt,article_text,883
 Datasets\articles_raw\article194.txt,article_text,580
@@ -448,7 +441,6 @@ Datasets\articles_raw\article445.txt,article_text,1820
 Datasets\articles_raw\article446.txt,article_text,2938
 Datasets\articles_raw\article447.txt,article_text,4619
 Datasets\articles_raw\article448.txt,article_text,9962
-Datasets\articles_raw\article449.txt,article_text,155
 Datasets\articles_raw\article450.txt,article_text,1268
 Datasets\articles_raw\article451.txt,article_text,3267
 Datasets\articles_raw\article452.txt,article_text,10733
@@ -491,7 +483,6 @@ Datasets\articles_raw\article488.txt,article_text,749
 Datasets\articles_raw\article489.txt,article_text,5425
 Datasets\articles_raw\article490.txt,article_text,749
 Datasets\articles_raw\article491.txt,article_text,6978
-Datasets\articles_raw\article492.txt,article_text,324
 Datasets\articles_raw\article493.txt,article_text,2314
 Datasets\articles_raw\article494.txt,article_text,5618
 Datasets\articles_raw\article495.txt,article_text,3138
@@ -502,7 +493,6 @@ Datasets\articles_raw\article499.txt,article_text,2855
 Datasets\articles_raw\article500.txt,article_text,2564
 Datasets\articles_raw\article501.txt,article_text,1079
 Datasets\articles_raw\article502.txt,article_text,4227
-Datasets\articles_raw\article503.txt,article_text,324
 Datasets\articles_raw\article504.txt,article_text,1551
 Datasets\articles_raw\article505.txt,article_text,6360
 Datasets\articles_raw\article506.txt,article_text,2623
@@ -529,7 +519,6 @@ Datasets\articles_raw\article526.txt,article_text,530
 Datasets\articles_raw\article527.txt,article_text,2291
 Datasets\articles_raw\article528.txt,article_text,812
 Datasets\articles_raw\article529.txt,article_text,5900
-Datasets\articles_raw\article530.txt,article_text,266
 Datasets\articles_raw\article531.txt,article_text,8728
 Datasets\articles_raw\article532.txt,article_text,1208
 Datasets\articles_raw\article533.txt,article_text,2315
@@ -703,9 +692,7 @@ Datasets\articles_raw\article700.txt,article_text,9153
 Datasets\articles_raw\article701.txt,article_text,1914
 Datasets\articles_raw\article702.txt,article_text,2180
 Datasets\articles_raw\article703.txt,article_text,1360
-Datasets\articles_raw\article704.txt,article_text,186
 Datasets\articles_raw\article705.txt,article_text,1543
-Datasets\articles_raw\article706.txt,article_text,288
 Datasets\articles_raw\article707.txt,article_text,3018
 Datasets\articles_raw\article708.txt,article_text,4205
 Datasets\articles_raw\article709.txt,article_text,4084
@@ -874,18 +861,14 @@ Datasets\articles_raw\article871.txt,article_text,1941
 Datasets\articles_raw\article872.txt,article_text,1687
 Datasets\articles_raw\article873.txt,article_text,7517
 Datasets\articles_raw\article874.txt,article_text,10446
-Datasets\articles_raw\article875.txt,article_text,279
 Datasets\articles_raw\article876.txt,article_text,3761
 Datasets\articles_raw\article877.txt,article_text,3069
-Datasets\articles_raw\article878.txt,article_text,278
-Datasets\articles_raw\article879.txt,article_text,255
 Datasets\articles_raw\article880.txt,article_text,4452
 Datasets\articles_raw\article881.txt,article_text,9265
 Datasets\articles_raw\article882.txt,article_text,920
 Datasets\articles_raw\article883.txt,article_text,2868
 Datasets\articles_raw\article884.txt,article_text,1849
 Datasets\articles_raw\article885.txt,article_text,4679
-Datasets\articles_raw\article886.txt,article_text,190
 Datasets\articles_raw\article887.txt,article_text,8189
 Datasets\articles_raw\article888.txt,article_text,407
 Datasets\articles_raw\article889.txt,article_text,6778
@@ -910,7 +893,6 @@ Datasets\articles_raw\article907.txt,article_text,639
 Datasets\articles_raw\article908.txt,article_text,2902
 Datasets\articles_raw\article909.txt,article_text,6862
 Datasets\articles_raw\article910.txt,article_text,4365
-Datasets\articles_raw\article911.txt,article_text,1
 Datasets\articles_raw\article912.txt,article_text,4155
 Datasets\articles_raw\article913.txt,article_text,4639
 Datasets\articles_raw\article914.txt,article_text,5278
@@ -1167,7 +1149,6 @@ Datasets\articles_raw\article1164.txt,article_text,1578
 Datasets\articles_raw\article1165.txt,article_text,3274
 Datasets\articles_raw\article1166.txt,article_text,1281
 Datasets\articles_raw\article1167.txt,article_text,2458
-Datasets\articles_raw\article1168.txt,article_text,289
 Datasets\articles_raw\article1169.txt,article_text,1549
 Datasets\articles_raw\article1170.txt,article_text,2557
 Datasets\articles_raw\article1171.txt,article_text,678
@@ -1230,7 +1211,6 @@ Datasets\articles_raw\article1227.txt,article_text,921
 Datasets\articles_raw\article1228.txt,article_text,1136
 Datasets\articles_raw\article1229.txt,article_text,632
 Datasets\articles_raw\article1230.txt,article_text,1089
-Datasets\articles_raw\article1231.txt,article_text,332
 Datasets\articles_raw\article1232.txt,article_text,562
 Datasets\articles_raw\article1233.txt,article_text,1440
 Datasets\articles_raw\article1234.txt,article_text,1177
@@ -2717,7 +2697,6 @@ Datasets\articles_raw\article2714.txt,article_text,1473
 Datasets\articles_raw\article2715.txt,article_text,951
 Datasets\articles_raw\article2716.txt,article_text,1137
 Datasets\articles_raw\article2717.txt,article_text,584
-Datasets\articles_raw\article2718.txt,article_text,359
 Datasets\articles_raw\article2719.txt,article_text,1653
 Datasets\articles_raw\article2720.txt,article_text,1385
 Datasets\articles_raw\article2721.txt,article_text,1270
@@ -2835,7 +2814,6 @@ Datasets\articles_raw\article2832.txt,article_text,1189
 Datasets\articles_raw\article2833.txt,article_text,3550
 Datasets\articles_raw\article2834.txt,article_text,821
 Datasets\articles_raw\article2835.txt,article_text,818
-Datasets\articles_raw\article2836.txt,article_text,340
 Datasets\articles_raw\article2837.txt,article_text,2369
 Datasets\articles_raw\article2838.txt,article_text,8257
 Datasets\articles_raw\article2839.txt,article_text,925
@@ -2898,7 +2876,6 @@ Datasets\articles_raw\article2895.txt,article_text,1629
 Datasets\articles_raw\article2896.txt,article_text,859
 Datasets\articles_raw\article2897.txt,article_text,771
 Datasets\articles_raw\article2898.txt,article_text,933
-Datasets\articles_raw\article2899.txt,article_text,338
 Datasets\articles_raw\article2900.txt,article_text,1523
 Datasets\articles_raw\article2901.txt,article_text,976
 Datasets\articles_raw\article2902.txt,article_text,1063
@@ -2945,7 +2922,6 @@ Datasets\articles_raw\article2942.txt,article_text,986
 Datasets\articles_raw\article2943.txt,article_text,796
 Datasets\articles_raw\article2944.txt,article_text,657
 Datasets\articles_raw\article2945.txt,article_text,727
-Datasets\articles_raw\article2946.txt,article_text,470
 Datasets\articles_raw\article2947.txt,article_text,962
 Datasets\articles_raw\article2948.txt,article_text,3340
 Datasets\articles_raw\article2949.txt,article_text,1761
@@ -3275,7 +3251,6 @@ Datasets\articles_raw\article3272.txt,article_text,1890
 Datasets\articles_raw\article3273.txt,article_text,2393
 Datasets\articles_raw\article3274.txt,article_text,1026
 Datasets\articles_raw\article3275.txt,article_text,2283
-Datasets\articles_raw\article3276.txt,article_text,537
 Datasets\articles_raw\article3277.txt,article_text,910
 Datasets\articles_raw\article3278.txt,article_text,2387
 Datasets\articles_raw\article3279.txt,article_text,1181
@@ -3766,14 +3741,12 @@ Datasets\articles_raw\article3763.txt,article_text,443
 Datasets\articles_raw\article3764.txt,article_text,2302
 Datasets\articles_raw\article3765.txt,article_text,2536
 Datasets\articles_raw\article3766.txt,article_text,1072
-Datasets\articles_raw\article3767.txt,article_text,309
 Datasets\articles_raw\article3768.txt,article_text,3212
 Datasets\articles_raw\article3769.txt,article_text,3432
 Datasets\articles_raw\article3770.txt,article_text,859
 Datasets\articles_raw\article3771.txt,article_text,3273
 Datasets\articles_raw\article3772.txt,article_text,708
 Datasets\articles_raw\article3773.txt,article_text,1869
-Datasets\articles_raw\article3774.txt,article_text,344
 Datasets\articles_raw\article3775.txt,article_text,1340
 Datasets\articles_raw\article3776.txt,article_text,2213
 Datasets\articles_raw\article3777.txt,article_text,1845
@@ -3832,7 +3805,6 @@ Datasets\articles_raw\article3829.txt,article_text,515
 Datasets\articles_raw\article3830.txt,article_text,2165
 Datasets\articles_raw\article3831.txt,article_text,1106
 Datasets\articles_raw\article3832.txt,article_text,2364
-Datasets\articles_raw\article3833.txt,article_text,356
 Datasets\articles_raw\article3834.txt,article_text,799
 Datasets\articles_raw\article3835.txt,article_text,457
 Datasets\articles_raw\article3836.txt,article_text,1778
@@ -3851,7 +3823,6 @@ Datasets\articles_raw\article3848.txt,article_text,674
 Datasets\articles_raw\article3849.txt,article_text,2103
 Datasets\articles_raw\article3850.txt,article_text,1379
 Datasets\articles_raw\article3851.txt,article_text,1088
-Datasets\articles_raw\article3852.txt,article_text,321
 Datasets\articles_raw\article3853.txt,article_text,785
 Datasets\articles_raw\article3854.txt,article_text,764
 Datasets\articles_raw\article3855.txt,article_text,938
@@ -4097,7 +4068,6 @@ Datasets\articles_raw\article4094.txt,article_text,993
 Datasets\articles_raw\article4095.txt,article_text,647
 Datasets\articles_raw\article4096.txt,article_text,488
 Datasets\articles_raw\article4097.txt,article_text,475
-Datasets\articles_raw\article4098.txt,article_text,323
 Datasets\articles_raw\article4099.txt,article_text,1224
 Datasets\articles_raw\article4100.txt,article_text,1506
 Datasets\articles_raw\article4101.txt,article_text,606
@@ -4163,7 +4133,6 @@ Datasets\articles_raw\article4160.txt,article_text,2512
 Datasets\articles_raw\article4161.txt,article_text,419
 Datasets\articles_raw\article4162.txt,article_text,586
 Datasets\articles_raw\article4163.txt,article_text,998
-Datasets\articles_raw\article4164.txt,article_text,427
 Datasets\articles_raw\article4165.txt,article_text,915
 Datasets\articles_raw\article4166.txt,article_text,2075
 Datasets\articles_raw\article4167.txt,article_text,1953
@@ -4172,7 +4141,6 @@ Datasets\articles_raw\article4169.txt,article_text,2541
 Datasets\articles_raw\article4170.txt,article_text,1104
 Datasets\articles_raw\article4171.txt,article_text,611
 Datasets\articles_raw\article4172.txt,article_text,2459
-Datasets\articles_raw\article4173.txt,article_text,345
 Datasets\articles_raw\article4174.txt,article_text,455
 Datasets\articles_raw\article4175.txt,article_text,556
 Datasets\articles_raw\article4176.txt,article_text,4045
@@ -4184,7 +4152,6 @@ Datasets\articles_raw\article4181.txt,article_text,1090
 Datasets\articles_raw\article4182.txt,article_text,3314
 Datasets\articles_raw\article4183.txt,article_text,3816
 Datasets\articles_raw\article4184.txt,article_text,3530
-Datasets\articles_raw\article4185.txt,article_text,324
 Datasets\articles_raw\article4186.txt,article_text,2276
 Datasets\articles_raw\article4187.txt,article_text,2111
 Datasets\articles_raw\article4188.txt,article_text,1131
@@ -4248,7 +4215,6 @@ Datasets\articles_raw\article4245.txt,article_text,997
 Datasets\articles_raw\article4246.txt,article_text,643
 Datasets\articles_raw\article4247.txt,article_text,861
 Datasets\articles_raw\article4248.txt,article_text,1631
-Datasets\articles_raw\article4249.txt,article_text,320
 Datasets\articles_raw\article4250.txt,article_text,1557
 Datasets\articles_raw\article4251.txt,article_text,1622
 Datasets\articles_raw\article4252.txt,article_text,751
@@ -4287,7 +4253,6 @@ Datasets\articles_raw\article4284.txt,article_text,3578
 Datasets\articles_raw\article4285.txt,article_text,2939
 Datasets\articles_raw\article4286.txt,article_text,1513
 Datasets\articles_raw\article4287.txt,article_text,882
-Datasets\articles_raw\article4288.txt,article_text,362
 Datasets\articles_raw\article4289.txt,article_text,966
 Datasets\articles_raw\article4290.txt,article_text,1376
 Datasets\articles_raw\article4291.txt,article_text,1872
@@ -4353,7 +4318,6 @@ Datasets\articles_raw\article4350.txt,article_text,1405
 Datasets\articles_raw\article4351.txt,article_text,476
 Datasets\articles_raw\article4352.txt,article_text,1152
 Datasets\articles_raw\article4353.txt,article_text,1076
-Datasets\articles_raw\article4354.txt,article_text,326
 Datasets\articles_raw\article4355.txt,article_text,2545
 Datasets\articles_raw\article4356.txt,article_text,919
 Datasets\articles_raw\article4357.txt,article_text,1158
@@ -4371,11 +4335,9 @@ Datasets\articles_raw\article4368.txt,article_text,1390
 Datasets\articles_raw\article4369.txt,article_text,1870
 Datasets\articles_raw\article4370.txt,article_text,996
 Datasets\articles_raw\article4371.txt,article_text,1126
-Datasets\articles_raw\article4372.txt,article_text,344
 Datasets\articles_raw\article4373.txt,article_text,1717
 Datasets\articles_raw\article4374.txt,article_text,1818
 Datasets\articles_raw\article4375.txt,article_text,2374
-Datasets\articles_raw\article4376.txt,article_text,305
 Datasets\articles_raw\article4377.txt,article_text,905
 Datasets\articles_raw\article4378.txt,article_text,577
 Datasets\articles_raw\article4379.txt,article_text,405
@@ -4391,7 +4353,6 @@ Datasets\articles_raw\article4388.txt,article_text,1866
 Datasets\articles_raw\article4389.txt,article_text,3305
 Datasets\articles_raw\article4390.txt,article_text,888
 Datasets\articles_raw\article4391.txt,article_text,998
-Datasets\articles_raw\article4392.txt,article_text,347
 Datasets\articles_raw\article4393.txt,article_text,981
 Datasets\articles_raw\article4394.txt,article_text,1924
 Datasets\articles_raw\article4395.txt,article_text,1789
@@ -4412,23 +4373,19 @@ Datasets\articles_raw\article4409.txt,article_text,879
 Datasets\articles_raw\article4410.txt,article_text,1553
 Datasets\articles_raw\article4411.txt,article_text,1276
 Datasets\articles_raw\article4412.txt,article_text,1388
-Datasets\articles_raw\article4413.txt,article_text,312
 Datasets\articles_raw\article4414.txt,article_text,1085
 Datasets\articles_raw\article4415.txt,article_text,1251
 Datasets\articles_raw\article4416.txt,article_text,1723
-Datasets\articles_raw\article4417.txt,article_text,331
 Datasets\articles_raw\article4418.txt,article_text,681
 Datasets\articles_raw\article4419.txt,article_text,692
 Datasets\articles_raw\article4420.txt,article_text,391
 Datasets\articles_raw\article4421.txt,article_text,617
 Datasets\articles_raw\article4422.txt,article_text,1356
-Datasets\articles_raw\article4423.txt,article_text,367
 Datasets\articles_raw\article4424.txt,article_text,1885
 Datasets\articles_raw\article4425.txt,article_text,2035
 Datasets\articles_raw\article4426.txt,article_text,1536
 Datasets\articles_raw\article4427.txt,article_text,902
 Datasets\articles_raw\article4428.txt,article_text,2271
-Datasets\articles_raw\article4429.txt,article_text,310
 Datasets\articles_raw\article4430.txt,article_text,2386
 Datasets\articles_raw\article4431.txt,article_text,707
 Datasets\articles_raw\article4432.txt,article_text,778
@@ -4466,7 +4423,6 @@ Datasets\articles_raw\article4463.txt,article_text,1348
 Datasets\articles_raw\article4464.txt,article_text,1542
 Datasets\articles_raw\article4465.txt,article_text,540
 Datasets\articles_raw\article4466.txt,article_text,1443
-Datasets\articles_raw\article4467.txt,article_text,372
 Datasets\articles_raw\article4468.txt,article_text,1391
 Datasets\articles_raw\article4469.txt,article_text,835
 Datasets\articles_raw\article4470.txt,article_text,1294
@@ -4505,12 +4461,10 @@ Datasets\articles_raw\article4502.txt,article_text,1514
 Datasets\articles_raw\article4503.txt,article_text,455
 Datasets\articles_raw\article4504.txt,article_text,483
 Datasets\articles_raw\article4505.txt,article_text,1394
-Datasets\articles_raw\article4506.txt,article_text,323
 Datasets\articles_raw\article4507.txt,article_text,534
 Datasets\articles_raw\article4508.txt,article_text,1211
 Datasets\articles_raw\article4509.txt,article_text,918
 Datasets\articles_raw\article4510.txt,article_text,416
-Datasets\articles_raw\article4511.txt,article_text,345
 Datasets\articles_raw\article4512.txt,article_text,480
 Datasets\articles_raw\article4513.txt,article_text,2031
 Datasets\articles_raw\article4514.txt,article_text,1050
@@ -4555,10 +4509,8 @@ Datasets\articles_raw\article4552.txt,article_text,526
 Datasets\articles_raw\article4553.txt,article_text,396
 Datasets\articles_raw\article4554.txt,article_text,924
 Datasets\articles_raw\article4555.txt,article_text,964
-Datasets\articles_raw\article4556.txt,article_text,346
 Datasets\articles_raw\article4557.txt,article_text,944
 Datasets\articles_raw\article4558.txt,article_text,1581
-Datasets\articles_raw\article4559.txt,article_text,313
 Datasets\articles_raw\article4560.txt,article_text,1188
 Datasets\articles_raw\article4561.txt,article_text,482
 Datasets\articles_raw\article4562.txt,article_text,772
@@ -4581,7 +4533,6 @@ Datasets\articles_raw\article4578.txt,article_text,549
 Datasets\articles_raw\article4579.txt,article_text,700
 Datasets\articles_raw\article4580.txt,article_text,1450
 Datasets\articles_raw\article4581.txt,article_text,2021
-Datasets\articles_raw\article4582.txt,article_text,323
 Datasets\articles_raw\article4583.txt,article_text,1522
 Datasets\articles_raw\article4584.txt,article_text,1121
 Datasets\articles_raw\article4585.txt,article_text,1832
@@ -4592,10 +4543,8 @@ Datasets\articles_raw\article4589.txt,article_text,873
 Datasets\articles_raw\article4590.txt,article_text,1663
 Datasets\articles_raw\article4591.txt,article_text,1108
 Datasets\articles_raw\article4592.txt,article_text,1820
-Datasets\articles_raw\article4593.txt,article_text,308
 Datasets\articles_raw\article4594.txt,article_text,3343
 Datasets\articles_raw\article4595.txt,article_text,799
-Datasets\articles_raw\article4596.txt,article_text,363
 Datasets\articles_raw\article4597.txt,article_text,1908
 Datasets\articles_raw\article4598.txt,article_text,968
 Datasets\articles_raw\article4599.txt,article_text,1407
@@ -4608,7 +4557,6 @@ Datasets\articles_raw\article4605.txt,article_text,3098
 Datasets\articles_raw\article4606.txt,article_text,1540
 Datasets\articles_raw\article4607.txt,article_text,1032
 Datasets\articles_raw\article4608.txt,article_text,705
-Datasets\articles_raw\article4609.txt,article_text,332
 Datasets\articles_raw\article4610.txt,article_text,419
 Datasets\articles_raw\article4611.txt,article_text,428
 Datasets\articles_raw\article4612.txt,article_text,1658
@@ -4626,7 +4574,6 @@ Datasets\articles_raw\article4623.txt,article_text,423
 Datasets\articles_raw\article4624.txt,article_text,794
 Datasets\articles_raw\article4625.txt,article_text,4045
 Datasets\articles_raw\article4626.txt,article_text,660
-Datasets\articles_raw\article4627.txt,article_text,374
 Datasets\articles_raw\article4628.txt,article_text,3643
 Datasets\articles_raw\article4629.txt,article_text,666
 Datasets\articles_raw\article4630.txt,article_text,1533
@@ -4682,7 +4629,6 @@ Datasets\articles_raw\article4679.txt,article_text,922
 Datasets\articles_raw\article4680.txt,article_text,1232
 Datasets\articles_raw\article4681.txt,article_text,586
 Datasets\articles_raw\article4682.txt,article_text,2180
-Datasets\articles_raw\article4683.txt,article_text,332
 Datasets\articles_raw\article4684.txt,article_text,1461
 Datasets\articles_raw\article4685.txt,article_text,1245
 Datasets\articles_raw\article4686.txt,article_text,703
@@ -4731,7 +4677,6 @@ Datasets\articles_raw\article4728.txt,article_text,2316
 Datasets\articles_raw\article4729.txt,article_text,730
 Datasets\articles_raw\article4730.txt,article_text,1134
 Datasets\articles_raw\article4731.txt,article_text,824
-Datasets\articles_raw\article4732.txt,article_text,353
 Datasets\articles_raw\article4733.txt,article_text,551
 Datasets\articles_raw\article4734.txt,article_text,3219
 Datasets\articles_raw\article4735.txt,article_text,1524
@@ -4774,7 +4719,6 @@ Datasets\articles_raw\article4771.txt,article_text,983
 Datasets\articles_raw\article4772.txt,article_text,1021
 Datasets\articles_raw\article4773.txt,article_text,940
 Datasets\articles_raw\article4774.txt,article_text,2819
-Datasets\articles_raw\article4775.txt,article_text,320
 Datasets\articles_raw\article4776.txt,article_text,407
 Datasets\articles_raw\article4777.txt,article_text,622
 Datasets\articles_raw\article4778.txt,article_text,655
@@ -4784,7 +4728,6 @@ Datasets\articles_raw\article4781.txt,article_text,1711
 Datasets\articles_raw\article4782.txt,article_text,5199
 Datasets\articles_raw\article4783.txt,article_text,1382
 Datasets\articles_raw\article4784.txt,article_text,1535
-Datasets\articles_raw\article4785.txt,article_text,336
 Datasets\articles_raw\article4786.txt,article_text,480
 Datasets\articles_raw\article4787.txt,article_text,665
 Datasets\articles_raw\article4788.txt,article_text,3655
@@ -4802,10 +4745,8 @@ Datasets\articles_raw\article4799.txt,article_text,2932
 Datasets\articles_raw\article4800.txt,article_text,1482
 Datasets\articles_raw\article4801.txt,article_text,1706
 Datasets\articles_raw\article4802.txt,article_text,701
-Datasets\articles_raw\article4803.txt,article_text,363
 Datasets\articles_raw\article4804.txt,article_text,964
 Datasets\articles_raw\article4805.txt,article_text,1137
-Datasets\articles_raw\article4806.txt,article_text,301
 Datasets\articles_raw\article4807.txt,article_text,374
 Datasets\articles_raw\article4808.txt,article_text,720
 Datasets\articles_raw\article4809.txt,article_text,1088
@@ -4828,11 +4769,9 @@ Datasets\articles_raw\article4825.txt,article_text,1722
 Datasets\articles_raw\article4826.txt,article_text,1286
 Datasets\articles_raw\article4827.txt,article_text,1346
 Datasets\articles_raw\article4828.txt,article_text,841
-Datasets\articles_raw\article4829.txt,article_text,335
 Datasets\articles_raw\article4830.txt,article_text,798
 Datasets\articles_raw\article4831.txt,article_text,3106
 Datasets\articles_raw\article4832.txt,article_text,707
-Datasets\articles_raw\article4833.txt,article_text,326
 Datasets\articles_raw\article4834.txt,article_text,429
 Datasets\articles_raw\article4835.txt,article_text,1044
 Datasets\articles_raw\article4836.txt,article_text,610
@@ -4863,10 +4802,8 @@ Datasets\articles_raw\article4860.txt,article_text,916
 Datasets\articles_raw\article4861.txt,article_text,587
 Datasets\articles_raw\article4862.txt,article_text,471
 Datasets\articles_raw\article4863.txt,article_text,2576
-Datasets\articles_raw\article4864.txt,article_text,359
 Datasets\articles_raw\article4865.txt,article_text,612
 Datasets\articles_raw\article4866.txt,article_text,847
-Datasets\articles_raw\article4867.txt,article_text,365
 Datasets\articles_raw\article4868.txt,article_text,1046
 Datasets\articles_raw\article4869.txt,article_text,641
 Datasets\articles_raw\article4870.txt,article_text,1258
@@ -4898,7 +4835,6 @@ Datasets\articles_raw\article4895.txt,article_text,4289
 Datasets\articles_raw\article4896.txt,article_text,708
 Datasets\articles_raw\article4897.txt,article_text,918
 Datasets\articles_raw\article4898.txt,article_text,1018
-Datasets\articles_raw\article4899.txt,article_text,325
 Datasets\articles_raw\article4900.txt,article_text,662
 Datasets\articles_raw\article4901.txt,article_text,423
 Datasets\articles_raw\article4902.txt,article_text,775
@@ -4940,7 +4876,6 @@ Datasets\articles_raw\article4937.txt,article_text,1347
 Datasets\articles_raw\article4938.txt,article_text,1055
 Datasets\articles_raw\article4939.txt,article_text,1162
 Datasets\articles_raw\article4940.txt,article_text,4241
-Datasets\articles_raw\article4941.txt,article_text,320
 Datasets\articles_raw\article4942.txt,article_text,818
 Datasets\articles_raw\article4943.txt,article_text,1993
 Datasets\articles_raw\article4944.txt,article_text,393
@@ -4959,7 +4894,6 @@ Datasets\articles_raw\article4956.txt,article_text,1957
 Datasets\articles_raw\article4957.txt,article_text,853
 Datasets\articles_raw\article4958.txt,article_text,1355
 Datasets\articles_raw\article4959.txt,article_text,913
-Datasets\articles_raw\article4960.txt,article_text,312
 Datasets\articles_raw\article4961.txt,article_text,810
 Datasets\articles_raw\article4962.txt,article_text,1282
 Datasets\articles_raw\article4963.txt,article_text,15746
@@ -4987,7 +4921,6 @@ Datasets\articles_raw\article4984.txt,article_text,4795
 Datasets\articles_raw\article4985.txt,article_text,2955
 Datasets\articles_raw\article4986.txt,article_text,3954
 Datasets\articles_raw\article4987.txt,article_text,788
-Datasets\articles_raw\article4988.txt,article_text,397
 Datasets\articles_raw\article4989.txt,article_text,3708
 Datasets\articles_raw\article4990.txt,article_text,885
 Datasets\articles_raw\article4991.txt,article_text,2644
@@ -5056,8 +4989,6 @@ Datasets\articles_raw\article5053.txt,article_text,929
 Datasets\articles_raw\article5054.txt,article_text,1501
 Datasets\articles_raw\article5055.txt,article_text,955
 Datasets\articles_raw\article5056.txt,article_text,949
-Datasets\articles_raw\article5057.txt,article_text,336
-Datasets\articles_raw\article5058.txt,article_text,334
 Datasets\articles_raw\article5059.txt,article_text,2989
 Datasets\articles_raw\article5060.txt,article_text,1356
 Datasets\articles_raw\article5061.txt,article_text,2594
@@ -5066,7 +4997,6 @@ Datasets\articles_raw\article5063.txt,article_text,4143
 Datasets\articles_raw\article5064.txt,article_text,1283
 Datasets\articles_raw\article5065.txt,article_text,887
 Datasets\articles_raw\article5066.txt,article_text,650
-Datasets\articles_raw\article5067.txt,article_text,352
 Datasets\articles_raw\article5068.txt,article_text,5144
 Datasets\articles_raw\article5069.txt,article_text,3262
 Datasets\articles_raw\article5070.txt,article_text,1234
@@ -5425,7 +5355,6 @@ Datasets\articles_raw\article5422.txt,article_text,2796
 Datasets\articles_raw\article5423.txt,article_text,1929
 Datasets\articles_raw\article5424.txt,article_text,2314
 Datasets\articles_raw\article5425.txt,article_text,5553
-Datasets\articles_raw\article5426.txt,article_text,353
 Datasets\articles_raw\article5427.txt,article_text,2329
 Datasets\articles_raw\article5428.txt,article_text,1329
 Datasets\articles_raw\article5429.txt,article_text,1094
@@ -5743,7 +5672,6 @@ Datasets\articles_raw\article5740.txt,article_text,1390
 Datasets\articles_raw\article5741.txt,article_text,9120
 Datasets\articles_raw\article5742.txt,article_text,1325
 Datasets\articles_raw\article5743.txt,article_text,713
-Datasets\articles_raw\article5744.txt,article_text,348
 Datasets\articles_raw\article5745.txt,article_text,4066
 Datasets\articles_raw\article5746.txt,article_text,7248
 Datasets\articles_raw\article5747.txt,article_text,499
@@ -5773,7 +5701,6 @@ Datasets\articles_raw\article5770.txt,article_text,1553
 Datasets\articles_raw\article5771.txt,article_text,3124
 Datasets\articles_raw\article5772.txt,article_text,6853
 Datasets\articles_raw\article5773.txt,article_text,2575
-Datasets\articles_raw\article5774.txt,article_text,335
 Datasets\articles_raw\article5775.txt,article_text,5931
 Datasets\articles_raw\article5776.txt,article_text,3046
 Datasets\articles_raw\article5777.txt,article_text,4164
@@ -5823,7 +5750,6 @@ Datasets\articles_raw\article5820.txt,article_text,4801
 Datasets\articles_raw\article5821.txt,article_text,7044
 Datasets\articles_raw\article5822.txt,article_text,8426
 Datasets\articles_raw\article5823.txt,article_text,3444
-Datasets\articles_raw\article5824.txt,article_text,316
 Datasets\articles_raw\article5825.txt,article_text,600
 Datasets\articles_raw\article5826.txt,article_text,879
 Datasets\articles_raw\article5827.txt,article_text,1759
@@ -5908,7 +5834,6 @@ Datasets\articles_raw\article5905.txt,article_text,422
 Datasets\articles_raw\article5906.txt,article_text,989
 Datasets\articles_raw\article5907.txt,article_text,1590
 Datasets\articles_raw\article5908.txt,article_text,1011
-Datasets\articles_raw\article5909.txt,article_text,332
 Datasets\articles_raw\article5910.txt,article_text,6769
 Datasets\articles_raw\article5911.txt,article_text,1189
 Datasets\articles_raw\article5912.txt,article_text,1683
@@ -5934,7 +5859,6 @@ Datasets\articles_raw\article5931.txt,article_text,5643
 Datasets\articles_raw\article5932.txt,article_text,2947
 Datasets\articles_raw\article5933.txt,article_text,1438
 Datasets\articles_raw\article5934.txt,article_text,766
-Datasets\articles_raw\article5935.txt,article_text,320
 Datasets\articles_raw\article5936.txt,article_text,3462
 Datasets\articles_raw\article5937.txt,article_text,3524
 Datasets\articles_raw\article5938.txt,article_text,3115
@@ -5973,7 +5897,6 @@ Datasets\articles_raw\article5970.txt,article_text,757
 Datasets\articles_raw\article5971.txt,article_text,2982
 Datasets\articles_raw\article5972.txt,article_text,1361
 Datasets\articles_raw\article5973.txt,article_text,4882
-Datasets\articles_raw\article5974.txt,article_text,342
 Datasets\articles_raw\article5975.txt,article_text,4923
 Datasets\articles_raw\article5976.txt,article_text,7063
 Datasets\articles_raw\article5977.txt,article_text,9257
@@ -6136,7 +6059,6 @@ Datasets\articles_raw\article6133.txt,article_text,7741
 Datasets\articles_raw\article6134.txt,article_text,1538
 Datasets\articles_raw\article6135.txt,article_text,3444
 Datasets\articles_raw\article6136.txt,article_text,2354
-Datasets\articles_raw\article6137.txt,article_text,310
 Datasets\articles_raw\article6138.txt,article_text,3724
 Datasets\articles_raw\article6139.txt,article_text,4318
 Datasets\articles_raw\article6140.txt,article_text,2507
@@ -6320,7 +6242,6 @@ Datasets\articles_raw\article6317.txt,article_text,5620
 Datasets\articles_raw\article6318.txt,article_text,1229
 Datasets\articles_raw\article6319.txt,article_text,2032
 Datasets\articles_raw\article6320.txt,article_text,1013
-Datasets\articles_raw\article6321.txt,article_text,305
 Datasets\articles_raw\article6322.txt,article_text,3330
 Datasets\articles_raw\article6323.txt,article_text,2127
 Datasets\articles_raw\article6324.txt,article_text,2230
@@ -6338,7 +6259,6 @@ Datasets\articles_raw\article6335.txt,article_text,2124
 Datasets\articles_raw\article6336.txt,article_text,643
 Datasets\articles_raw\article6337.txt,article_text,3737
 Datasets\articles_raw\article6338.txt,article_text,472
-Datasets\articles_raw\article6339.txt,article_text,327
 Datasets\articles_raw\article6340.txt,article_text,518
 Datasets\articles_raw\article6341.txt,article_text,843
 Datasets\articles_raw\article6342.txt,article_text,1085
@@ -6359,7 +6279,6 @@ Datasets\articles_raw\article6356.txt,article_text,1779
 Datasets\articles_raw\article6357.txt,article_text,6273
 Datasets\articles_raw\article6358.txt,article_text,3620
 Datasets\articles_raw\article6359.txt,article_text,1089
-Datasets\articles_raw\article6360.txt,article_text,322
 Datasets\articles_raw\article6361.txt,article_text,4691
 Datasets\articles_raw\article6362.txt,article_text,624
 Datasets\articles_raw\article6363.txt,article_text,2050
@@ -6381,8 +6300,6 @@ Datasets\articles_raw\article6378.txt,article_text,2422
 Datasets\articles_raw\article6379.txt,article_text,2476
 Datasets\articles_raw\article6380.txt,article_text,1297
 Datasets\articles_raw\article6381.txt,article_text,486
-Datasets\articles_raw\article6382.txt,article_text,360
-Datasets\articles_raw\article6383.txt,article_text,366
 Datasets\articles_raw\article6384.txt,article_text,965
 Datasets\articles_raw\article6385.txt,article_text,494
 Datasets\articles_raw\article6386.txt,article_text,3373
@@ -8101,7 +8018,6 @@ Datasets\articles_raw\article8098.txt,article_text,10257
 Datasets\articles_raw\article8099.txt,article_text,4946
 Datasets\articles_raw\article8100.txt,article_text,5506
 Datasets\articles_raw\article8101.txt,article_text,5220
-Datasets\articles_raw\article8102.txt,article_text,362
 Datasets\articles_raw\article8103.txt,article_text,7934
 Datasets\articles_raw\article8104.txt,article_text,9845
 Datasets\articles_raw\article8105.txt,article_text,649
@@ -8334,7 +8250,6 @@ Datasets\articles_raw\article8331.txt,article_text,12920
 Datasets\articles_raw\article8332.txt,article_text,13279
 Datasets\articles_raw\article8333.txt,article_text,3469
 Datasets\articles_raw\article8334.txt,article_text,2127
-Datasets\articles_raw\article8335.txt,article_text,360
 Datasets\articles_raw\article8336.txt,article_text,2695
 Datasets\articles_raw\article8337.txt,article_text,4482
 Datasets\articles_raw\article8338.txt,article_text,410
@@ -9304,7 +9219,6 @@ Datasets\articles_raw\article9301.txt,article_text,22008
 Datasets\articles_raw\article9302.txt,article_text,11058
 Datasets\articles_raw\article9303.txt,article_text,9361
 Datasets\articles_raw\article9304.txt,article_text,4513
-Datasets\articles_raw\article9305.txt,article_text,355
 Datasets\articles_raw\article9306.txt,article_text,13638
 Datasets\articles_raw\article9307.txt,article_text,4582
 Datasets\articles_raw\article9308.txt,article_text,2931
@@ -10125,13 +10039,10 @@ Datasets\articles_raw\article10122.txt,article_text,9110
 Datasets\articles_raw\article10123.txt,article_text,4748
 Datasets\articles_raw\article10124.txt,article_text,462
 Datasets\articles_raw\article10125.txt,article_text,5713
-Datasets\articles_raw\article10126.txt,article_text,349
 Datasets\articles_raw\article10127.txt,article_text,15765
 Datasets\articles_raw\article10128.txt,article_text,12609
 Datasets\articles_raw\article10129.txt,article_text,446
 Datasets\articles_raw\article10130.txt,article_text,4933
-Datasets\articles_raw\article10131.txt,article_text,312
-Datasets\articles_raw\article10132.txt,article_text,304
 Datasets\articles_raw\article10133.txt,article_text,5038
 Datasets\articles_raw\article10134.txt,article_text,3093
 Datasets\articles_raw\article10135.txt,article_text,3425
@@ -10168,16 +10079,11 @@ Datasets\articles_raw\article10165.txt,article_text,466
 Datasets\articles_raw\article10166.txt,article_text,1180
 Datasets\articles_raw\article10167.txt,article_text,1099
 Datasets\articles_raw\article10168.txt,article_text,668
-Datasets\articles_raw\article10169.txt,article_text,325
-Datasets\articles_raw\article10170.txt,article_text,328
 Datasets\articles_raw\article10171.txt,article_text,420
 Datasets\articles_raw\article10172.txt,article_text,581
 Datasets\articles_raw\article10173.txt,article_text,506
-Datasets\articles_raw\article10174.txt,article_text,342
 Datasets\articles_raw\article10175.txt,article_text,463
-Datasets\articles_raw\article10176.txt,article_text,308
 Datasets\articles_raw\article10177.txt,article_text,403
-Datasets\articles_raw\article10178.txt,article_text,367
 Datasets\articles_raw\article10179.txt,article_text,549
 Datasets\articles_raw\article10180.txt,article_text,464
 Datasets\articles_raw\article10181.txt,article_text,509
@@ -11059,7 +10965,6 @@ Datasets\articles_raw\article11056.txt,article_text,4252
 Datasets\articles_raw\article11057.txt,article_text,920
 Datasets\articles_raw\article11058.txt,article_text,3949
 Datasets\articles_raw\article11059.txt,article_text,2036
-Datasets\articles_raw\article11060.txt,article_text,330
 Datasets\articles_raw\article11061.txt,article_text,3724
 Datasets\articles_raw\article11062.txt,article_text,1953
 Datasets\articles_raw\article11063.txt,article_text,392
@@ -11211,7 +11116,6 @@ Datasets\articles_raw\article11208.txt,article_text,6554
 Datasets\articles_raw\article11209.txt,article_text,4639
 Datasets\articles_raw\article11210.txt,article_text,1777
 Datasets\articles_raw\article11211.txt,article_text,7096
-Datasets\articles_raw\article11212.txt,article_text,315
 Datasets\articles_raw\article11213.txt,article_text,3675
 Datasets\articles_raw\article11214.txt,article_text,1853
 Datasets\articles_raw\article11215.txt,article_text,907
@@ -11400,7 +11304,6 @@ Datasets\articles_raw\article11397.txt,article_text,525
 Datasets\articles_raw\article11398.txt,article_text,1751
 Datasets\articles_raw\article11399.txt,article_text,3352
 Datasets\articles_raw\article11400.txt,article_text,1857
-Datasets\articles_raw\article11401.txt,article_text,349
 Datasets\articles_raw\article11402.txt,article_text,744
 Datasets\articles_raw\article11403.txt,article_text,2000
 Datasets\articles_raw\article11404.txt,article_text,4857
@@ -12224,7 +12127,6 @@ Datasets\articles_raw\article12221.txt,article_text,2724
 Datasets\articles_raw\article12222.txt,article_text,3599
 Datasets\articles_raw\article12223.txt,article_text,2556
 Datasets\articles_raw\article12224.txt,article_text,1566
-Datasets\articles_raw\article12225.txt,article_text,394
 Datasets\articles_raw\article12226.txt,article_text,901
 Datasets\articles_raw\article12227.txt,article_text,1073
 Datasets\articles_raw\article12228.txt,article_text,1574
@@ -13484,7 +13386,6 @@ Datasets\articles_raw\article13481.txt,article_text,8228
 Datasets\articles_raw\article13482.txt,article_text,3662
 Datasets\articles_raw\article13483.txt,article_text,5695
 Datasets\articles_raw\article13484.txt,article_text,5087
-Datasets\articles_raw\article13485.txt,article_text,5121
 Datasets\articles_raw\article13486.txt,article_text,3077
 Datasets\articles_raw\article13487.txt,article_text,3764
 Datasets\articles_raw\article13488.txt,article_text,3850
@@ -13503,7 +13404,6 @@ Datasets\articles_raw\article13500.txt,article_text,2874
 Datasets\articles_raw\article13501.txt,article_text,6047
 Datasets\articles_raw\article13502.txt,article_text,3300
 Datasets\articles_raw\article13503.txt,article_text,8291
-Datasets\articles_raw\article13504.txt,article_text,3175
 Datasets\articles_raw\article13505.txt,article_text,6247
 Datasets\articles_raw\article13506.txt,article_text,4279
 Datasets\articles_raw\article13507.txt,article_text,2838
@@ -13552,7 +13452,6 @@ Datasets\articles_raw\article13549.txt,article_text,834
 Datasets\articles_raw\article13550.txt,article_text,7355
 Datasets\articles_raw\article13551.txt,article_text,3654
 Datasets\articles_raw\article13552.txt,article_text,2240
-Datasets\articles_raw\article13553.txt,article_text,348
 Datasets\articles_raw\article13554.txt,article_text,2514
 Datasets\articles_raw\article13555.txt,article_text,5050
 Datasets\articles_raw\article13556.txt,article_text,3144
@@ -13921,7 +13820,6 @@ Datasets\articles_raw\article13918.txt,article_text,804
 Datasets\articles_raw\article13919.txt,article_text,1774
 Datasets\articles_raw\article13920.txt,article_text,2981
 Datasets\articles_raw\article13921.txt,article_text,712
-Datasets\articles_raw\article13922.txt,article_text,345
 Datasets\articles_raw\article13923.txt,article_text,2175
 Datasets\articles_raw\article13924.txt,article_text,1889
 Datasets\articles_raw\article13925.txt,article_text,757
@@ -13955,7 +13853,6 @@ Datasets\articles_raw\article13952.txt,article_text,1763
 Datasets\articles_raw\article13953.txt,article_text,1757
 Datasets\articles_raw\article13954.txt,article_text,522
 Datasets\articles_raw\article13955.txt,article_text,1010
-Datasets\articles_raw\article13956.txt,article_text,330
 Datasets\articles_raw\article13957.txt,article_text,1756
 Datasets\articles_raw\article13958.txt,article_text,545
 Datasets\articles_raw\article13959.txt,article_text,1320
@@ -13964,7 +13861,6 @@ Datasets\articles_raw\article13961.txt,article_text,977
 Datasets\articles_raw\article13962.txt,article_text,4743
 Datasets\articles_raw\article13963.txt,article_text,2532
 Datasets\articles_raw\article13964.txt,article_text,3491
-Datasets\articles_raw\article13965.txt,article_text,333
 Datasets\articles_raw\article13966.txt,article_text,9215
 Datasets\articles_raw\article13967.txt,article_text,1206
 Datasets\articles_raw\article13968.txt,article_text,1792
@@ -14046,7 +13942,6 @@ Datasets\articles_raw\article14043.txt,article_text,1269
 Datasets\articles_raw\article14044.txt,article_text,942
 Datasets\articles_raw\article14045.txt,article_text,1298
 Datasets\articles_raw\article14046.txt,article_text,1045
-Datasets\articles_raw\article14047.txt,article_text,341
 Datasets\articles_raw\article14048.txt,article_text,820
 Datasets\articles_raw\article14049.txt,article_text,2131
 Datasets\articles_raw\article14050.txt,article_text,791
@@ -14069,7 +13964,6 @@ Datasets\articles_raw\article14066.txt,article_text,1014
 Datasets\articles_raw\article14067.txt,article_text,2463
 Datasets\articles_raw\article14068.txt,article_text,1346
 Datasets\articles_raw\article14069.txt,article_text,1002
-Datasets\articles_raw\article14070.txt,article_text,316
 Datasets\articles_raw\article14071.txt,article_text,2635
 Datasets\articles_raw\article14072.txt,article_text,4192
 Datasets\articles_raw\article14073.txt,article_text,612
@@ -14167,8 +14061,6 @@ Datasets\articles_raw\article14164.txt,article_text,1131
 Datasets\articles_raw\article14165.txt,article_text,2071
 Datasets\articles_raw\article14166.txt,article_text,1686
 Datasets\articles_raw\article14167.txt,article_text,890
-Datasets\articles_raw\article14168.txt,article_text,341
-Datasets\articles_raw\article14169.txt,article_text,346
 Datasets\articles_raw\article14170.txt,article_text,727
 Datasets\articles_raw\article14171.txt,article_text,523
 Datasets\articles_raw\article14172.txt,article_text,1589
@@ -14207,11 +14099,9 @@ Datasets\articles_raw\article14204.txt,article_text,3128
 Datasets\articles_raw\article14205.txt,article_text,1039
 Datasets\articles_raw\article14206.txt,article_text,470
 Datasets\articles_raw\article14207.txt,article_text,1416
-Datasets\articles_raw\article14208.txt,article_text,342
 Datasets\articles_raw\article14209.txt,article_text,2816
 Datasets\articles_raw\article14210.txt,article_text,948
 Datasets\articles_raw\article14211.txt,article_text,4289
-Datasets\articles_raw\article14212.txt,article_text,346
 Datasets\articles_raw\article14213.txt,article_text,1076
 Datasets\articles_raw\article14214.txt,article_text,1200
 Datasets\articles_raw\article14215.txt,article_text,1089
@@ -14224,7 +14114,6 @@ Datasets\articles_raw\article14221.txt,article_text,1266
 Datasets\articles_raw\article14222.txt,article_text,427
 Datasets\articles_raw\article14223.txt,article_text,1268
 Datasets\articles_raw\article14224.txt,article_text,617
-Datasets\articles_raw\article14225.txt,article_text,347
 Datasets\articles_raw\article14226.txt,article_text,1143
 Datasets\articles_raw\article14227.txt,article_text,809
 Datasets\articles_raw\article14228.txt,article_text,1437
@@ -14246,7 +14135,6 @@ Datasets\articles_raw\article14243.txt,article_text,2281
 Datasets\articles_raw\article14244.txt,article_text,988
 Datasets\articles_raw\article14245.txt,article_text,1563
 Datasets\articles_raw\article14246.txt,article_text,1000
-Datasets\articles_raw\article14247.txt,article_text,303
 Datasets\articles_raw\article14248.txt,article_text,1301
 Datasets\articles_raw\article14249.txt,article_text,1089
 Datasets\articles_raw\article14250.txt,article_text,493
@@ -15236,7 +15124,6 @@ Datasets\articles_raw\article15233.txt,article_text,1639
 Datasets\articles_raw\article15234.txt,article_text,2125
 Datasets\articles_raw\article15235.txt,article_text,4483
 Datasets\articles_raw\article15236.txt,article_text,3373
-Datasets\articles_raw\article15237.txt,article_text,350
 Datasets\articles_raw\article15238.txt,article_text,2836
 Datasets\articles_raw\article15239.txt,article_text,1757
 Datasets\articles_raw\article15240.txt,article_text,1561
@@ -15549,7 +15436,6 @@ Datasets\articles_raw\article15546.txt,article_text,5150
 Datasets\articles_raw\article15547.txt,article_text,1902
 Datasets\articles_raw\article15548.txt,article_text,2035
 Datasets\articles_raw\article15549.txt,article_text,7994
-Datasets\articles_raw\article15550.txt,article_text,366
 Datasets\articles_raw\article15551.txt,article_text,2941
 Datasets\articles_raw\article15552.txt,article_text,3513
 Datasets\articles_raw\article15553.txt,article_text,1328
@@ -15651,7 +15537,6 @@ Datasets\articles_raw\article15648.txt,article_text,2145
 Datasets\articles_raw\article15649.txt,article_text,6694
 Datasets\articles_raw\article15650.txt,article_text,1750
 Datasets\articles_raw\article15651.txt,article_text,3544
-Datasets\articles_raw\article15652.txt,article_text,314
 Datasets\articles_raw\article15653.txt,article_text,1749
 Datasets\articles_raw\article15654.txt,article_text,2089
 Datasets\articles_raw\article15655.txt,article_text,759
@@ -16168,7 +16053,6 @@ Datasets\articles_raw\article16165.txt,article_text,5018
 Datasets\articles_raw\article16166.txt,article_text,2982
 Datasets\articles_raw\article16167.txt,article_text,1363
 Datasets\articles_raw\article16168.txt,article_text,801
-Datasets\articles_raw\article16169.txt,article_text,303
 Datasets\articles_raw\article16170.txt,article_text,738
 Datasets\articles_raw\article16171.txt,article_text,1885
 Datasets\articles_raw\article16172.txt,article_text,1471
@@ -16179,7 +16063,6 @@ Datasets\articles_raw\article16176.txt,article_text,1264
 Datasets\articles_raw\article16177.txt,article_text,435
 Datasets\articles_raw\article16178.txt,article_text,439
 Datasets\articles_raw\article16179.txt,article_text,497
-Datasets\articles_raw\article16180.txt,article_text,323
 Datasets\articles_raw\article16181.txt,article_text,866
 Datasets\articles_raw\article16182.txt,article_text,1598
 Datasets\articles_raw\article16183.txt,article_text,658
@@ -16254,7 +16137,6 @@ Datasets\articles_raw\article16251.txt,article_text,2371
 Datasets\articles_raw\article16252.txt,article_text,954
 Datasets\articles_raw\article16253.txt,article_text,1382
 Datasets\articles_raw\article16254.txt,article_text,1776
-Datasets\articles_raw\article16255.txt,article_text,321
 Datasets\articles_raw\article16256.txt,article_text,429
 Datasets\articles_raw\article16257.txt,article_text,3477
 Datasets\articles_raw\article16258.txt,article_text,8891
@@ -16738,7 +16620,6 @@ Datasets\articles_raw\article16735.txt,article_text,2577
 Datasets\articles_raw\article16736.txt,article_text,589
 Datasets\articles_raw\article16737.txt,article_text,1827
 Datasets\articles_raw\article16738.txt,article_text,3556
-Datasets\articles_raw\article16739.txt,article_text,323
 Datasets\articles_raw\article16740.txt,article_text,944
 Datasets\articles_raw\article16741.txt,article_text,550
 Datasets\articles_raw\article16742.txt,article_text,3185
@@ -16785,7 +16666,6 @@ Datasets\articles_raw\article16782.txt,article_text,1354
 Datasets\articles_raw\article16783.txt,article_text,5790
 Datasets\articles_raw\article16784.txt,article_text,1070
 Datasets\articles_raw\article16785.txt,article_text,10051
-Datasets\articles_raw\article16786.txt,article_text,344
 Datasets\articles_raw\article16787.txt,article_text,2494
 Datasets\articles_raw\article16788.txt,article_text,1899
 Datasets\articles_raw\article16789.txt,article_text,2822
