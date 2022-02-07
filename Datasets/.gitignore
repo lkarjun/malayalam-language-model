@@ -1,3 +1,5 @@
 *.zip
 magazine_raw/
 wikitext_raw/
+articles_raw/
+ar.csv
