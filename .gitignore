@@ -1,3 +1,6 @@
 temp.csv
 .ipynb_checkpoints/
 Dataset.zip
+*.pkl
+
+spliting.ipynb
