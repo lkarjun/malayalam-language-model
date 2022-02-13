@@ -1,1 +1,1 @@
-{"unk_token": "<unk>", "pad_token": "<pad>", "eos_token": "<eos>", "bos_token": "<bos>", "mask_token": "<mask>", "tokenizer_class": "PreTrainedTokenizerFast"}
+{"unk_token": "[UNK]", "pad_token": "[PAD]", "cls_token": "[CLS]", "sep_token": "[SEP]", "mask_token": "[MASK]", "tokenizer_class": "PreTrainedTokenizerFast"}
