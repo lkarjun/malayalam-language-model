@@ -13,4 +13,4 @@
   **Total**|**37095 text files**
 
 
-  !['Status'](https://img.shields.io/badge/status-in%20progress-brightgreen?style=for-the-badge)
+  !['Status'](https://img.shields.io/badge/status-Completed-brightgreen?style=for-the-badge)
